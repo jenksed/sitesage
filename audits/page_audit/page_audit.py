@@ -1,20 +1,38 @@
+# audits/page_audit/page_audit.py
+
 import sys
 import logging
 import asyncio
 from tqdm.asyncio import tqdm
 import os
 from utils.common import load_config, setup_logging, create_report_directory
-from script_analysis.driver_setup import get_driver
+from core.driver_setup import get_driver
 from script_analysis.extraction.script_extraction import extract_scripts, extract_trackers, extract_inline_scripts, extract_css
 from script_analysis.detection.duplication_detection import find_duplicates
 from script_analysis.detection.js_version_check import check_js_versions
 from script_analysis.detection.config_check import check_config_issues, check_deprecated_html, check_script_tags
-from script_analysis.report.report import report_issues, create_report_directory, generate_report
-from script_analysis.analysis.performance_check import get_performance_metrics
-from script_analysis.analysis.seo_check import check_seo_issues
-from script_analysis.analysis.accessibility_check import check_accessibility_issues
-from script_analysis.analysis.broken_link_check import find_broken_links
+from script_analysis.report.report import report_issues, generate_report
+from audits.page_audit.performance_check import get_performance_metrics
+from audits.page_audit.accessibility_check import check_accessibility_issues
+from audits.page_audit.broken_link_check import find_broken_links
 from script_analysis.detection.security_check import check_security_issues
+from audits.seo_audit.seo_check import check_seo_issues
+
+def analyze_scripts(driver, scripts):
+    issues = []
+    js_versions = check_js_versions(driver)
+    if js_versions:
+        issues.append(f"Multiple jQuery versions found: {', '.join(js_versions)}")
+
+    config_issues = check_config_issues(driver)
+    if config_issues:
+        issues.extend(config_issues)
+
+    script_issues = check_script_tags(driver)
+    if script_issues:
+        issues.extend(script_issues)
+
+    return issues
 
 async def process_url(driver, url, config):
     try:

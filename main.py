@@ -1,11 +1,11 @@
 import sys
 import asyncio
-import os
 import logging
-from audits.page_audit import main as page_audit_main
-from audits.nlp_audit import main as nlp_audit_main
-from audits.schema_audit import main as schema_audit_main
-from audits.seo_audit import main as seo_audit_main
+import os
+from audits.page_audit.page_audit import main as page_audit_main
+from audits.nlp_audit.nlp_audit import main as nlp_audit_main
+from audits.schema_audit.schema_audit import main as schema_audit_main
+from audits.seo_audit.seo_audit import main as seo_audit_main
 
 def print_usage():
     print("Usage: python main.py [--page-analysis | --seo-audit | --nlp-audit | --schema-audit] <url1> <url2> ...")

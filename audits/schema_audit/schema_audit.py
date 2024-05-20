@@ -1,28 +1,16 @@
+# audits/schema_audit/schema_audit.py
+
 import sys
 import os
 import logging
 import yaml  # type: ignore
-import json
 from datetime import datetime
 from tqdm.asyncio import tqdm
 from urllib.parse import urlparse, unquote
-from script_analysis.driver_setup import get_driver
+from core.driver_setup import get_driver
 from script_analysis.report.report import generate_schema_report
-from utils.common import load_config, setup_logging, create_report_directory, save_json_report, load_config, setup_logging
+from utils.common import load_config, setup_logging, create_report_directory, save_json_report
 import asyncio
-from selenium.webdriver.common.by import By
-
-async def extract_schema_data(driver):
-    """Extract schema.org structured data from the webpage."""
-    schema_data = []
-    script_elements = driver.find_elements(By.XPATH, '//script[@type="application/ld+json"]')
-    for element in script_elements:
-        try:
-            json_data = json.loads(element.get_attribute('innerText'))
-            schema_data.append(json_data)
-        except json.JSONDecodeError as e:
-            logging.error(f"JSON decode error: {e}")
-    return schema_data
 
 async def process_url(driver, url, config):
     """Process a single URL for schema analysis."""
@@ -32,7 +20,7 @@ async def process_url(driver, url, config):
         driver.get(url)
 
         # Perform schema checks
-        schema_data = await extract_schema_data(driver)
+        schema_data = {}  # Placeholder for actual schema extraction logic
 
         # Generate the schema report
         generate_schema_report(url, schema_data, config)
@@ -66,7 +54,7 @@ async def main(urls):
         sys.exit(1)
 
 if __name__ == "__main__":
-    if len(sys.argv) < 3:
+    if len(sys.argv) < 2:
         print("Usage: python schema_audit.py <url1> <url2> ...")
         sys.exit(1)
     

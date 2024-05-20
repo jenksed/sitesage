@@ -1,13 +1,16 @@
 import sys
 import os
 import logging
-import yaml  # type: ignore
+import yaml
 from datetime import datetime
 from tqdm.asyncio import tqdm
-from script_analysis.driver_setup import get_driver
-from script_analysis.analysis.nlp_analysis import analyze_text, extract_text_from_url, generate_nlp_report
+from core.driver_setup import get_driver
+from audits.nlp_audit.nlp_analysis import analyze_text, extract_text_from_url, generate_nlp_report
 from utils.common import load_config, setup_logging, create_report_directory, save_json_report
 import asyncio
+
+# Rest of the code remains the same
+
 
 def create_unwanted_pattern_file(pattern_name):
     """Create a new unwanted pattern file in the specified directory."""

@@ -1,3 +1,5 @@
+# audits/seo_audit/seo_audit.py
+
 import sys
 import os
 import logging
@@ -5,10 +7,9 @@ import yaml  # type: ignore
 from datetime import datetime
 from tqdm.asyncio import tqdm
 from urllib.parse import urlparse, unquote
-from script_analysis.driver_setup import get_driver
-from script_analysis.analysis.seo_check import check_meta_tags, check_header_tags
+from core.driver_setup import get_driver
 from script_analysis.report.report import generate_seo_report
-from utils.common import load_config, setup_logging, create_report_directory
+from utils.common import load_config, setup_logging, create_report_directory, save_json_report
 import asyncio
 
 async def process_url(driver, url, config):
@@ -52,3 +53,11 @@ async def main(urls):
         logging.error(f"An error occurred: {e}")
         print(f"An error occurred: {e}")
         sys.exit(1)
+
+if __name__ == "__main__":
+    if len(sys.argv) < 2:
+        print("Usage: python seo_audit.py <url1> <url2> ...")
+        sys.exit(1)
+    
+    urls = sys.argv[1:]
+    asyncio.run(main(urls))
