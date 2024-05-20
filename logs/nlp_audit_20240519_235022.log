@@ -1,0 +1,5 @@
+2024-05-19 23:50:22,907 - root - INFO - Logging setup complete.
+2024-05-19 23:50:22,908 - root - INFO - Configuration loaded.
+2024-05-19 23:50:23,309 - root - INFO - WebDriver setup complete.
+2024-05-19 23:50:23,325 - root - INFO - Checking https://www.crownbio.com/model-systems/in-vitro/organoids for NLP analysis...
+2024-05-19 23:50:25,696 - root - ERROR - An error occurred while processing https://www.crownbio.com/model-systems/in-vitro/organoids: 'WebDriver' object has no attribute 'find_element_by_tag_name'

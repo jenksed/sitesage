@@ -1,0 +1,67 @@
+2024-05-19 23:37:07,663 - root - INFO - Logging setup complete.
+2024-05-19 23:37:07,663 - root - INFO - Configuration loaded.
+2024-05-19 23:37:08,235 - root - INFO - WebDriver setup complete.
+2024-05-19 23:37:08,254 - root - INFO - Checking https://www.crownbio.com/model-systems/in-vitro/organoids for schema analysis...
+2024-05-19 23:37:10,671 - root - INFO - 
+=== Url ===
+2024-05-19 23:37:10,671 - root - INFO - h
+2024-05-19 23:37:10,671 - root - INFO - t
+2024-05-19 23:37:10,671 - root - INFO - t
+2024-05-19 23:37:10,671 - root - INFO - p
+2024-05-19 23:37:10,672 - root - INFO - s
+2024-05-19 23:37:10,672 - root - INFO - :
+2024-05-19 23:37:10,672 - root - INFO - /
+2024-05-19 23:37:10,672 - root - INFO - /
+2024-05-19 23:37:10,672 - root - INFO - w
+2024-05-19 23:37:10,672 - root - INFO - w
+2024-05-19 23:37:10,672 - root - INFO - w
+2024-05-19 23:37:10,672 - root - INFO - .
+2024-05-19 23:37:10,672 - root - INFO - c
+2024-05-19 23:37:10,672 - root - INFO - r
+2024-05-19 23:37:10,672 - root - INFO - o
+2024-05-19 23:37:10,672 - root - INFO - w
+2024-05-19 23:37:10,672 - root - INFO - n
+2024-05-19 23:37:10,672 - root - INFO - b
+2024-05-19 23:37:10,672 - root - INFO - i
+2024-05-19 23:37:10,672 - root - INFO - o
+2024-05-19 23:37:10,672 - root - INFO - .
+2024-05-19 23:37:10,672 - root - INFO - c
+2024-05-19 23:37:10,672 - root - INFO - o
+2024-05-19 23:37:10,672 - root - INFO - m
+2024-05-19 23:37:10,672 - root - INFO - /
+2024-05-19 23:37:10,672 - root - INFO - m
+2024-05-19 23:37:10,672 - root - INFO - o
+2024-05-19 23:37:10,672 - root - INFO - d
+2024-05-19 23:37:10,672 - root - INFO - e
+2024-05-19 23:37:10,672 - root - INFO - l
+2024-05-19 23:37:10,672 - root - INFO - -
+2024-05-19 23:37:10,672 - root - INFO - s
+2024-05-19 23:37:10,672 - root - INFO - y
+2024-05-19 23:37:10,672 - root - INFO - s
+2024-05-19 23:37:10,672 - root - INFO - t
+2024-05-19 23:37:10,672 - root - INFO - e
+2024-05-19 23:37:10,672 - root - INFO - m
+2024-05-19 23:37:10,672 - root - INFO - s
+2024-05-19 23:37:10,672 - root - INFO - /
+2024-05-19 23:37:10,672 - root - INFO - i
+2024-05-19 23:37:10,672 - root - INFO - n
+2024-05-19 23:37:10,672 - root - INFO - -
+2024-05-19 23:37:10,672 - root - INFO - v
+2024-05-19 23:37:10,672 - root - INFO - i
+2024-05-19 23:37:10,672 - root - INFO - t
+2024-05-19 23:37:10,672 - root - INFO - r
+2024-05-19 23:37:10,672 - root - INFO - o
+2024-05-19 23:37:10,672 - root - INFO - /
+2024-05-19 23:37:10,673 - root - INFO - o
+2024-05-19 23:37:10,673 - root - INFO - r
+2024-05-19 23:37:10,673 - root - INFO - g
+2024-05-19 23:37:10,673 - root - INFO - a
+2024-05-19 23:37:10,673 - root - INFO - n
+2024-05-19 23:37:10,673 - root - INFO - o
+2024-05-19 23:37:10,673 - root - INFO - i
+2024-05-19 23:37:10,673 - root - INFO - d
+2024-05-19 23:37:10,673 - root - INFO - s
+2024-05-19 23:37:10,673 - root - INFO - 
+=== Schema Data ===
+2024-05-19 23:37:10,673 - root - INFO - Schema Report generated and saved to ./reports/www_crownbio_com_model_systems_in_vitro_organoids/schema_audit_20240519_233710.txt.
+2024-05-19 23:37:10,673 - root - INFO - JSON report saved to ./reports/www_crownbio_com_model_systems_in_vitro_organoids/schema_audit_20240519_233710.json

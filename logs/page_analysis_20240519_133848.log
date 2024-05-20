@@ -1,0 +1,127 @@
+2024-05-19 13:38:48,069 - root - INFO - Logging setup complete.
+2024-05-19 13:38:48,069 - root - INFO - Configuration loaded.
+2024-05-19 13:38:48,466 - root - INFO - WebDriver setup complete.
+2024-05-19 13:38:48,485 - root - INFO - Checking https://www.crownbio.com/resources for issues...
+2024-05-19 13:38:51,135 - root - INFO - Extracted 0 trackers for pattern 'analytics.js'.
+2024-05-19 13:38:51,135 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:38:51,340 - root - INFO - Extracted 0 trackers for pattern 'gtag/js'.
+2024-05-19 13:38:51,340 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:38:51,549 - root - INFO - Extracted 0 trackers for pattern 'hs-scripts.com'.
+2024-05-19 13:38:51,549 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:38:51,757 - root - INFO - Extracted 0 trackers for pattern 'hotjar.com'.
+2024-05-19 13:38:51,757 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:38:51,949 - root - INFO - Extracted 0 trackers for pattern 'googletagmanager.com/gtm.js'.
+2024-05-19 13:38:51,949 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:38:51,949 - root - INFO - No duplicate tracking codes detected.
+2024-05-19 13:38:52,161 - root - INFO - Extracted 32 scripts.
+2024-05-19 13:38:52,163 - root - INFO - Checked JS versions: ['1.7.1'].
+2024-05-19 13:38:52,165 - root - INFO - Checked config issues: [].
+2024-05-19 13:38:52,167 - root - INFO - Checked analytics config issues: Analytics not found.
+2024-05-19 13:38:52,173 - root - INFO - Checked script tags: ['Facebook Pixel detected.'].
+2024-05-19 13:38:52,173 - root - INFO - Multiple jQuery versions found: 1.7.1
+2024-05-19 13:38:52,173 - root - INFO - Analytics not found
+2024-05-19 13:38:52,173 - root - INFO - Facebook Pixel detected.
+2024-05-19 13:38:52,366 - root - INFO - Extracted 19 inline scripts.
+2024-05-19 13:38:52,439 - root - INFO - Extracted 12 CSS files.
+2024-05-19 13:39:22,538 - root - INFO - Checked deprecated HTML issues: [].
+2024-05-19 13:39:22,539 - root - INFO - Performance metrics for https://www.crownbio.com/resources: {'load_time': '1.2s', 'first_contentful_paint': '0.8s', 'speed_index': '1.0s'}.
+2024-05-19 13:39:22,555 - root - INFO - SEO issues: [].
+2024-05-19 13:39:22,559 - root - INFO - Accessibility issues: ['Found 2 images without alt attributes'].
+2024-05-19 13:39:23,663 - root - INFO - Checking https://www.crownbio.com/ for issues...
+2024-05-19 13:39:25,699 - root - INFO - Extracted 0 trackers for pattern 'analytics.js'.
+2024-05-19 13:39:25,699 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:39:25,949 - root - INFO - Extracted 0 trackers for pattern 'gtag/js'.
+2024-05-19 13:39:25,949 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:39:26,369 - root - INFO - Extracted 0 trackers for pattern 'hs-scripts.com'.
+2024-05-19 13:39:26,369 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:39:26,721 - root - INFO - Extracted 0 trackers for pattern 'hotjar.com'.
+2024-05-19 13:39:26,721 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:39:27,021 - root - INFO - Extracted 0 trackers for pattern 'googletagmanager.com/gtm.js'.
+2024-05-19 13:39:27,025 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:39:27,025 - root - INFO - No duplicate tracking codes detected.
+2024-05-19 13:39:27,367 - root - INFO - Extracted 35 scripts.
+2024-05-19 13:39:27,370 - root - INFO - Checked JS versions: ['1.7.1'].
+2024-05-19 13:39:27,372 - root - INFO - Checked config issues: [].
+2024-05-19 13:39:27,375 - root - INFO - Checked analytics config issues: Analytics not found.
+2024-05-19 13:39:27,385 - root - INFO - Checked script tags: ['Facebook Pixel detected.'].
+2024-05-19 13:39:27,385 - root - INFO - Multiple jQuery versions found: 1.7.1
+2024-05-19 13:39:27,385 - root - INFO - Analytics not found
+2024-05-19 13:39:27,385 - root - INFO - Facebook Pixel detected.
+2024-05-19 13:39:27,671 - root - INFO - Extracted 25 inline scripts.
+2024-05-19 13:39:27,784 - root - INFO - Extracted 15 CSS files.
+2024-05-19 13:39:39,262 - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<process_url() done, defined at /Users/joshua.jenkins/Projects/ReduceBounceRate/script_analysis/page_analysis.py:53> exception=ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))>
+Traceback (most recent call last):
+  File "/Users/joshua.jenkins/Projects/ReduceBounceRate/venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/joshua.jenkins/Projects/ReduceBounceRate/venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 537, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "/Users/joshua.jenkins/Projects/ReduceBounceRate/venv/lib/python3.11/site-packages/urllib3/connection.py", line 466, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.9/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 1395, in getresponse
+    response.begin()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.9/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 325, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.9/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 294, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/joshua.jenkins/Projects/ReduceBounceRate/script_analysis/page_analysis.py", line 87, in process_url
+    deprecated_html = check_deprecated_html(driver, config['deprecated_tags'])
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joshua.jenkins/Projects/ReduceBounceRate/script_analysis/detection/config_check.py", line 61, in check_deprecated_html
+    elements = driver.find_elements(By.XPATH, f"//{tag}")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joshua.jenkins/Projects/ReduceBounceRate/venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 771, in find_elements
+    return self.execute(Command.FIND_ELEMENTS, {"using": by, "value": value})["value"] or []
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joshua.jenkins/Projects/ReduceBounceRate/venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 345, in execute
+    response = self.command_executor.execute(driver_command, params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joshua.jenkins/Projects/ReduceBounceRate/venv/lib/python3.11/site-packages/selenium/webdriver/remote/remote_connection.py", line 302, in execute
+    return self._request(command_info[0], url, body=data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joshua.jenkins/Projects/ReduceBounceRate/venv/lib/python3.11/site-packages/selenium/webdriver/remote/remote_connection.py", line 322, in _request
+    response = self._conn.request(method, url, body=body, headers=headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joshua.jenkins/Projects/ReduceBounceRate/venv/lib/python3.11/site-packages/urllib3/_request_methods.py", line 144, in request
+    return self.request_encode_body(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joshua.jenkins/Projects/ReduceBounceRate/venv/lib/python3.11/site-packages/urllib3/_request_methods.py", line 279, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joshua.jenkins/Projects/ReduceBounceRate/venv/lib/python3.11/site-packages/urllib3/poolmanager.py", line 444, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joshua.jenkins/Projects/ReduceBounceRate/venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/Users/joshua.jenkins/Projects/ReduceBounceRate/venv/lib/python3.11/site-packages/urllib3/util/retry.py", line 470, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joshua.jenkins/Projects/ReduceBounceRate/venv/lib/python3.11/site-packages/urllib3/util/util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/joshua.jenkins/Projects/ReduceBounceRate/venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/joshua.jenkins/Projects/ReduceBounceRate/venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 537, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "/Users/joshua.jenkins/Projects/ReduceBounceRate/venv/lib/python3.11/site-packages/urllib3/connection.py", line 466, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.9/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 1395, in getresponse
+    response.begin()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.9/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 325, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.9/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 294, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))

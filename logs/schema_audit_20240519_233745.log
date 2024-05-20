@@ -1,0 +1,36 @@
+2024-05-19 23:37:45,734 - root - INFO - Logging setup complete.
+2024-05-19 23:37:45,734 - root - INFO - Configuration loaded.
+2024-05-19 23:37:46,177 - root - INFO - WebDriver setup complete.
+2024-05-19 23:37:46,190 - root - INFO - Checking https://www.crownbio.com/ for schema analysis...
+2024-05-19 23:37:48,427 - root - INFO - 
+=== Url ===
+2024-05-19 23:37:48,427 - root - INFO - h
+2024-05-19 23:37:48,427 - root - INFO - t
+2024-05-19 23:37:48,427 - root - INFO - t
+2024-05-19 23:37:48,427 - root - INFO - p
+2024-05-19 23:37:48,427 - root - INFO - s
+2024-05-19 23:37:48,428 - root - INFO - :
+2024-05-19 23:37:48,428 - root - INFO - /
+2024-05-19 23:37:48,428 - root - INFO - /
+2024-05-19 23:37:48,428 - root - INFO - w
+2024-05-19 23:37:48,428 - root - INFO - w
+2024-05-19 23:37:48,428 - root - INFO - w
+2024-05-19 23:37:48,428 - root - INFO - .
+2024-05-19 23:37:48,428 - root - INFO - c
+2024-05-19 23:37:48,428 - root - INFO - r
+2024-05-19 23:37:48,428 - root - INFO - o
+2024-05-19 23:37:48,428 - root - INFO - w
+2024-05-19 23:37:48,428 - root - INFO - n
+2024-05-19 23:37:48,428 - root - INFO - b
+2024-05-19 23:37:48,428 - root - INFO - i
+2024-05-19 23:37:48,428 - root - INFO - o
+2024-05-19 23:37:48,428 - root - INFO - .
+2024-05-19 23:37:48,428 - root - INFO - c
+2024-05-19 23:37:48,428 - root - INFO - o
+2024-05-19 23:37:48,428 - root - INFO - m
+2024-05-19 23:37:48,428 - root - INFO - /
+2024-05-19 23:37:48,428 - root - INFO - 
+=== Schema Data ===
+2024-05-19 23:37:48,428 - root - INFO - {'@context': 'https://schema.org', '@type': 'Organization', 'name': 'Crown Bioscience', 'aggregateRating': {'@type': 'AggregateRating', 'ratingValue': '100', 'bestRating': '100', 'worstRating': '0', 'reviewCount': '1947'}, 'customerEffort': {'@type': 'QuantitativeValue', 'value': '96', 'unitText': 'Percent'}, 'customerExpectation': {'@type': 'QuantitativeValue', 'value': '92', 'unitText': 'Percent'}}
+2024-05-19 23:37:48,428 - root - INFO - Schema Report generated and saved to ./reports/www_crownbio_com/schema_audit_20240519_233748.txt.
+2024-05-19 23:37:48,428 - root - INFO - JSON report saved to ./reports/www_crownbio_com/schema_audit_20240519_233748.json

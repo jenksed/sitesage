@@ -1,0 +1,4 @@
+2024-05-19 23:48:10,969 - root - INFO - Logging setup complete.
+2024-05-19 23:48:10,969 - root - INFO - Configuration loaded.
+2024-05-19 23:48:10,982 - root - INFO - Checking https://www.crownbio.com/model-systems/in-vitro/organoids for NLP analysis...
+2024-05-19 23:48:10,983 - root - ERROR - An error occurred while processing https://www.crownbio.com/model-systems/in-vitro/organoids: name 'fetch_page' is not defined

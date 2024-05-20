@@ -1,0 +1,30 @@
+logging:
+  directory: ./logs
+  level: INFO
+  format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+
+reporting:
+  directory: ./reports
+
+webdriver:
+  user_agent: 'default-user-agent'
+  chrome_driver_path: './chromedriver-mac-arm64/chromedriver'
+  options:
+    headless: true
+    disable_gpu: true
+    no_sandbox: true
+    start_maximized: true
+    disable_infobars: true
+    disable_extensions: true
+
+deprecated_tags:
+  - 'font'
+  - 'center'
+  - 'marquee'
+
+trackers:
+  GA (Universal Analytics): 'analytics.js'
+  GA4: 'gtag/js'
+  HubSpot: 'hs-scripts.com'
+  Hotjar: 'hotjar.com'
+  GTM: 'googletagmanager.com/gtm.js'

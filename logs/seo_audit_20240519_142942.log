@@ -1,0 +1,44 @@
+2024-05-19 14:29:42,250 - root - INFO - Logging setup complete.
+2024-05-19 14:29:42,250 - root - INFO - Configuration loaded.
+2024-05-19 14:29:42,580 - root - INFO - WebDriver setup complete.
+2024-05-19 14:29:42,595 - root - INFO - Checking https://www.crownbio.com for SEO issues...
+2024-05-19 14:29:45,931 - root - INFO - Performance metrics for https://www.crownbio.com: {'load_time': '1.2s', 'first_contentful_paint': '0.8s', 'speed_index': '1.0s'}.
+2024-05-19 14:29:45,946 - root - INFO - SEO issues: ['Missing H1 tag'].
+2024-05-19 14:29:45,949 - root - INFO - URL: https://www.crownbio.com
+2024-05-19 14:29:45,949 - root - INFO - 
+=== Meta Tags ===
+2024-05-19 14:29:45,949 - root - INFO - author: Crown Bioscience, Inc
+2024-05-19 14:29:45,949 - root - INFO - description: Crown Biocience brings clarity to drug discovery worldwide, helping companies solve today's most pressing problems in immuno-oncology, oncology, cardiovascular, and metabolic diseases.
+2024-05-19 14:29:45,949 - root - INFO - generator: HubSpot
+2024-05-19 14:29:45,949 - root - INFO - viewport: width=device-width, initial-scale=1
+2024-05-19 14:29:45,949 - root - INFO - og:description: Crown Biocience brings clarity to drug discovery worldwide, helping companies solve today's most pressing problems in immuno-oncology, oncology, cardiovascular, and metabolic diseases.
+2024-05-19 14:29:45,949 - root - INFO - og:title: Preclinical Oncology CRO | Contract Research Drug Development Company
+2024-05-19 14:29:45,949 - root - INFO - twitter:description: Crown Biocience brings clarity to drug discovery worldwide, helping companies solve today's most pressing problems in immuno-oncology, oncology, cardiovascular, and metabolic diseases.
+2024-05-19 14:29:45,949 - root - INFO - twitter:title: Preclinical Oncology CRO | Contract Research Drug Development Company
+2024-05-19 14:29:45,949 - root - INFO - og:image: https://www.crownbio.com/hubfs/249210648_3804423129660760_8697906995034946451_n-1.png#keepProtocol
+2024-05-19 14:29:45,949 - root - INFO - og:image:width: 1346
+2024-05-19 14:29:45,950 - root - INFO - og:image:height: 1063
+2024-05-19 14:29:45,950 - root - INFO - og:image:alt: Crown Bioscience | Contract Research Drug Development Company
+2024-05-19 14:29:45,950 - root - INFO - twitter:image: https://www.crownbio.com/hubfs/249210648_3804423129660760_8697906995034946451_n-1.png#keepProtocol
+2024-05-19 14:29:45,950 - root - INFO - twitter:image:alt: Crown Bioscience | Contract Research Drug Development Company
+2024-05-19 14:29:45,950 - root - INFO - og:url: https://www.crownbio.com
+2024-05-19 14:29:45,950 - root - INFO - twitter:card: summary_large_image
+2024-05-19 14:29:45,950 - root - INFO - msvalidate.01: 668FC53240589E686E3B6D2BDE6A65B0
+2024-05-19 14:29:45,950 - root - INFO - yandex-verification: 6a0e6b614e9a85f0
+2024-05-19 14:29:45,950 - root - INFO - 
+=== Header Tags ===
+2024-05-19 14:29:45,950 - root - INFO - h1: []
+2024-05-19 14:29:45,950 - root - INFO - h2: ['Discover the infinite power of partnership to drive scientific discovery', 'Learn more about our services', 'Industry-leading Customer Experience', 'Latest Resources', 'Latest Blog Posts', 'Ensuring that every patient gets the right\ntreatment at the right time.']
+2024-05-19 14:29:45,950 - root - INFO - h3: ['Latest News', 'Oncology Databases', 'Therapeutic Areas', 'Model Systems', 'Technologies', 'Service Types', 'Data Below Represents Q3 2023', '1662', '98%', '92%', '98%', 'Review our published work!', 'Market Leading Multi-Omics Grade Biospecimens', 'High-frequency Ultrasound Guided Injection and Monitoring of Orthotopic Murine Models', 'Pretreated Patient-derived Xenograft Models: A Key Tool for Developing Innovative Anticancer Therapies', 'New Technologies, Tools, and Trends for Cancer Immunotherapy Research: A Practical Guide to an Innovative Immuno-oncology Toolbox', 'Four-Step Preclinical Strategy to Tackle Cancer Drug Resistance', 'Cell Line Services FAQ', 'FAQ: Insights into Compliant Large-Scale Cell Line Screening Solutions', 'OrganoidXplore™: Routine and Rapid Compound Testing in a Large Panel of Organoids', 'A Technical FAQ Guide to Oncology Drug Screening Using Innovative Organoid Technology and Biomarker Analysis']
+2024-05-19 14:29:45,952 - root - INFO - h4: ['ABOUT US', 'OUR SERVICES', 'RESOURCES', 'PLATFORMS', 'TALK TO US']
+2024-05-19 14:29:45,952 - root - INFO - h5: []
+2024-05-19 14:29:45,952 - root - INFO - h6: []
+2024-05-19 14:29:45,952 - root - INFO - 
+=== Performance Metrics ===
+2024-05-19 14:29:45,952 - root - INFO - load_time: 1.2s
+2024-05-19 14:29:45,952 - root - INFO - first_contentful_paint: 0.8s
+2024-05-19 14:29:45,952 - root - INFO - speed_index: 1.0s
+2024-05-19 14:29:45,952 - root - INFO - 
+=== SEO Issues ===
+2024-05-19 14:29:45,952 - root - INFO - Missing H1 tag
+2024-05-19 14:29:45,952 - root - INFO - SEO Report generated and saved to ./reports/www.crownbio.com/seo_audit_20240519_142945.txt.

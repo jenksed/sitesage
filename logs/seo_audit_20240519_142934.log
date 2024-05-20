@@ -1,0 +1,27 @@
+2024-05-19 14:29:34,407 - root - INFO - Logging setup complete.
+2024-05-19 14:29:34,407 - root - INFO - Configuration loaded.
+2024-05-19 14:29:34,859 - root - INFO - WebDriver setup complete.
+2024-05-19 14:29:34,876 - root - INFO - Checking https://www.example.com/ for SEO issues...
+2024-05-19 14:29:35,306 - root - INFO - Performance metrics for https://www.example.com/: {'load_time': '1.2s', 'first_contentful_paint': '0.8s', 'speed_index': '1.0s'}.
+2024-05-19 14:29:35,315 - root - INFO - SEO issues: ['Missing meta description'].
+2024-05-19 14:29:35,316 - root - INFO - URL: https://www.example.com/
+2024-05-19 14:29:35,316 - root - INFO - 
+=== Meta Tags ===
+2024-05-19 14:29:35,316 - root - INFO - viewport: width=device-width, initial-scale=1
+2024-05-19 14:29:35,316 - root - INFO - 
+=== Header Tags ===
+2024-05-19 14:29:35,316 - root - INFO - h1: ['Example Domain']
+2024-05-19 14:29:35,316 - root - INFO - h2: []
+2024-05-19 14:29:35,316 - root - INFO - h3: []
+2024-05-19 14:29:35,316 - root - INFO - h4: []
+2024-05-19 14:29:35,316 - root - INFO - h5: []
+2024-05-19 14:29:35,316 - root - INFO - h6: []
+2024-05-19 14:29:35,316 - root - INFO - 
+=== Performance Metrics ===
+2024-05-19 14:29:35,316 - root - INFO - load_time: 1.2s
+2024-05-19 14:29:35,316 - root - INFO - first_contentful_paint: 0.8s
+2024-05-19 14:29:35,316 - root - INFO - speed_index: 1.0s
+2024-05-19 14:29:35,316 - root - INFO - 
+=== SEO Issues ===
+2024-05-19 14:29:35,316 - root - INFO - Missing meta description
+2024-05-19 14:29:35,317 - root - INFO - SEO Report generated and saved to ./reports/www.example.com_/seo_audit_20240519_142935.txt.

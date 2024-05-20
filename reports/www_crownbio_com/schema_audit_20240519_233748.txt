@@ -1,0 +1,30 @@
+
+=== Url ===
+h
+t
+t
+p
+s
+:
+/
+/
+w
+w
+w
+.
+c
+r
+o
+w
+n
+b
+i
+o
+.
+c
+o
+m
+/
+
+=== Schema Data ===
+{'@context': 'https://schema.org', '@type': 'Organization', 'name': 'Crown Bioscience', 'aggregateRating': {'@type': 'AggregateRating', 'ratingValue': '100', 'bestRating': '100', 'worstRating': '0', 'reviewCount': '1947'}, 'customerEffort': {'@type': 'QuantitativeValue', 'value': '96', 'unitText': 'Percent'}, 'customerExpectation': {'@type': 'QuantitativeValue', 'value': '92', 'unitText': 'Percent'}}

@@ -1,0 +1,1215 @@
+2024-05-19 13:48:16,467 - root - INFO - Logging setup complete.
+2024-05-19 13:48:16,467 - root - INFO - Configuration loaded.
+2024-05-19 13:48:16,841 - root - INFO - WebDriver setup complete.
+2024-05-19 13:48:16,853 - root - INFO - Checking https://www.crownbio.com/resources for issues...
+2024-05-19 13:48:19,483 - root - INFO - Extracted 0 trackers for pattern 'analytics.js'.
+2024-05-19 13:48:19,483 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:48:19,686 - root - INFO - Extracted 0 trackers for pattern 'gtag/js'.
+2024-05-19 13:48:19,687 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:48:19,862 - root - INFO - Extracted 0 trackers for pattern 'hs-scripts.com'.
+2024-05-19 13:48:19,862 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:48:20,059 - root - INFO - Extracted 0 trackers for pattern 'hotjar.com'.
+2024-05-19 13:48:20,060 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:48:20,248 - root - INFO - Extracted 0 trackers for pattern 'googletagmanager.com/gtm.js'.
+2024-05-19 13:48:20,248 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:48:20,248 - root - INFO - No duplicate tracking codes detected.
+2024-05-19 13:48:20,450 - root - INFO - Extracted 32 scripts.
+2024-05-19 13:48:20,453 - root - INFO - Checked JS versions: ['1.7.1'].
+2024-05-19 13:48:20,455 - root - INFO - Checked config issues: [].
+2024-05-19 13:48:20,457 - root - INFO - Checked analytics config issues: Analytics not found.
+2024-05-19 13:48:20,463 - root - INFO - Checked script tags: ['Facebook Pixel detected.'].
+2024-05-19 13:48:20,464 - root - INFO - Multiple jQuery versions found: 1.7.1
+2024-05-19 13:48:20,464 - root - INFO - Analytics not found
+2024-05-19 13:48:20,464 - root - INFO - Facebook Pixel detected.
+2024-05-19 13:48:20,647 - root - INFO - Extracted 19 inline scripts.
+2024-05-19 13:48:20,724 - root - INFO - Extracted 12 CSS files.
+2024-05-19 13:48:50,790 - root - INFO - Checked deprecated HTML issues: [].
+2024-05-19 13:48:50,792 - root - INFO - Performance metrics for https://www.crownbio.com/resources: {'load_time': '1.2s', 'first_contentful_paint': '0.8s', 'speed_index': '1.0s'}.
+2024-05-19 13:48:50,826 - root - INFO - SEO issues: [].
+2024-05-19 13:48:50,834 - root - INFO - Accessibility issues: ['Found 2 images without alt attributes'].
+2024-05-19 13:48:52,027 - root - INFO - Checking https://www.crownbio.com/ for issues...
+2024-05-19 13:48:54,193 - root - INFO - Extracted 0 trackers for pattern 'analytics.js'.
+2024-05-19 13:48:54,195 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:48:54,472 - root - INFO - Extracted 0 trackers for pattern 'gtag/js'.
+2024-05-19 13:48:54,472 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:48:54,766 - root - INFO - Extracted 0 trackers for pattern 'hs-scripts.com'.
+2024-05-19 13:48:54,766 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:48:55,132 - root - INFO - Extracted 0 trackers for pattern 'hotjar.com'.
+2024-05-19 13:48:55,132 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:48:55,429 - root - INFO - Extracted 0 trackers for pattern 'googletagmanager.com/gtm.js'.
+2024-05-19 13:48:55,429 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:48:55,429 - root - INFO - No duplicate tracking codes detected.
+2024-05-19 13:48:55,729 - root - INFO - Extracted 35 scripts.
+2024-05-19 13:48:55,733 - root - INFO - Checked JS versions: ['1.7.1'].
+2024-05-19 13:48:55,738 - root - INFO - Checked config issues: [].
+2024-05-19 13:48:55,741 - root - INFO - Checked analytics config issues: Analytics not found.
+2024-05-19 13:48:55,748 - root - INFO - Checked script tags: ['Facebook Pixel detected.'].
+2024-05-19 13:48:55,748 - root - INFO - Multiple jQuery versions found: 1.7.1
+2024-05-19 13:48:55,748 - root - INFO - Analytics not found
+2024-05-19 13:48:55,748 - root - INFO - Facebook Pixel detected.
+2024-05-19 13:48:56,033 - root - INFO - Extracted 25 inline scripts.
+2024-05-19 13:48:56,159 - root - INFO - Extracted 15 CSS files.
+2024-05-19 13:49:26,296 - root - INFO - Checked deprecated HTML issues: [].
+2024-05-19 13:49:26,296 - root - INFO - Performance metrics for https://www.crownbio.com/: {'load_time': '1.2s', 'first_contentful_paint': '0.8s', 'speed_index': '1.0s'}.
+2024-05-19 13:49:36,338 - root - INFO - SEO issues: ['Missing H1 tag'].
+2024-05-19 13:49:36,345 - root - INFO - Accessibility issues: ['Found 2 images without alt attributes'].
+2024-05-19 13:50:06,545 - root - INFO - Broken links: ['javascript:void(0)', 'tel:+1%20858%20622%202900', 'tel:+44%20870%20242%202900', 'javascript:;', 'https://www.crownbio.com/www.crownbio.com/model-systems/in-vitro/organoids/organoid-fibroblast-and-immune-cell-co-culture', 'https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis', 'https://www.crownbio.com/therapeutic-areas/cystopathic-diseases', 'https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis', 'https://www.crownbio.com/model-systems/in-vitro/organoids/organoid-and-immune-cell-co-culture', 'https://www.crownbio.com/technologies/in-vitro-imaging', 'https://www.crownbio.com/technologies/in-vitro-imaging/3d-ex-vivo-patient-tissue-platform', 'https://www.crownbio.com/technologies/in-vitro-imaging/high-content-imaging', 'https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/ms-nash-mouse-model', 'https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/peritonitis-models', 'https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/rheumatoid-arthritis', 'https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/sle-models', 'https://www.crownbio.com/technologies/genomics/cell-line-model-authentication', 'https://www.crownbio.com/technologies/biomarker-analysis/clinical-chemistry-services', 'https://tma.crownbio.com/', 'https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis', 'https://www.crownbio.com/service-type/biomarker-discovery', 'https://www.crownbio.com/service-type/dmpk-services', 'https://www.crownbio.com/service-type/laboratory-services/genomics', 'https://www.crownbio.com/service-type/laboratory-services/genomics/standard-genomics-services', 'https://tma.crownbio.com/', 'https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis', 'https://tma.crownbio.com/', 'https://tma.crownbio.com/', 'https://www.crownbio.com/technologies/biomarker-analysis/clinical-chemistry-services', 'javascript:;', 'https://www.crownbio.com/about-us/our-journey', 'https://www.crownbio.com/about-us/our-company', 'https://www.crownbio.com/about-us/our-purpose', 'javascript:;', 'javascript:void(0)', 'https://www.crownbio.com/resources/listing?hsLang=en#rescat-ebooks', 'mailto:sales@crownbio.com', 'tel:+1%20858%20622%202900', 'https://twitter.com/crownbioscience', 'https://www.crownbio.com/privacy-policy/?hsLang=en', 'https://twitter.com/crownbioscience'].
+2024-05-19 13:50:06,560 - root - INFO - Security issues: [].
+2024-05-19 13:50:06,560 - root - INFO - URL: https://www.crownbio.com/resources
+2024-05-19 13:50:06,560 - root - INFO - 
+=== Duplicate Trackers ===
+2024-05-19 13:50:06,560 - root - INFO - 
+=== Script Issues ===
+2024-05-19 13:50:06,560 - root - INFO - Multiple jQuery versions found: 1.7.1
+2024-05-19 13:50:06,560 - root - INFO - Analytics not found
+2024-05-19 13:50:06,560 - root - INFO - Facebook Pixel detected.
+2024-05-19 13:50:06,560 - root - INFO - 
+=== Inline Scripts ===
+2024-05-19 13:50:06,560 - root - INFO - 
+var _hsp = window._hsp = window._hsp || [];
+_hsp.push(['addPrivacyConsentListener', function(consent) { if (consent.allowed || (consent.categories && consent.categories.analytics)) {
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create','UA-42742907-1','auto');
+  ga('send','pageview');
+}}]);
+
+2024-05-19 13:50:06,560 - root - INFO - 
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W2G46HH');
+
+2024-05-19 13:50:06,561 - root - INFO - 
+!function(f,b,e,v,n,t,s)
+
+
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+
+
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+
+
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+
+
+n.queue=[];t=b.createElement(e);t.async=!0;
+
+
+t.src=v;s=b.getElementsByTagName(e)[0];
+
+
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+
+
+'https://connect.facebook.net/en_US/fbevents.js');
+
+
+fbq('init', '1582471781774081');
+
+
+fbq('track', 'PageView');
+
+
+2024-05-19 13:50:06,562 - root - INFO - 
+"use strict";
+
+!function() {
+  var t = window.driftt = window.drift = window.driftt || [];
+  if (!t.init) {
+    if (t.invoked) return void (window.console && console.error && console.error("Drift snippet included twice."));
+    t.invoked = !0, t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ], 
+    t.factory = function(e) {
+      return function() {
+        var n = Array.prototype.slice.call(arguments);
+        return n.unshift(e), t.push(n), t;
+      };
+    }, t.methods.forEach(function(e) {
+      t[e] = t.factory(e);
+    }), t.load = function(t) {
+      var e = 3e5, n = Math.ceil(new Date() / e) * e, o = document.createElement("script");
+      o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + n + "/" + t + ".js";
+      var i = document.getElementsByTagName("script")[0];
+      i.parentNode.insertBefore(o, i);
+    };
+  }
+}();
+drift.SNIPPET_VERSION = '0.3.1';
+drift.load('3ttyu33nay7p');
+
+2024-05-19 13:50:06,562 - root - INFO - 
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Resources",
+  "url": "https://www.crownbio.com/resources",
+  "description": "Explore Crown Bioscience's extensive collection of resources, including application notes, webinars, factsheets, posters, quick facts, white papers, and eBooks, to support your preclinical and translational research.",
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.crownbio.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Resources",
+        "item": "https://www.crownbio.com/resources"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Application Notes",
+        "item": "https://www.crownbio.com/resources#application-notes"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "On Demand Webinars",
+        "item": "https://www.crownbio.com/resources#webinars"
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "name": "Factsheets",
+        "item": "https://www.crownbio.com/resources#factsheets"
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "name": "Posters",
+        "item": "https://www.crownbio.com/resources#posters"
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "name": "Quick Facts",
+        "item": "https://www.crownbio.com/resources#quick-facts"
+      },
+      {
+        "@type": "ListItem",
+        "position": 8,
+        "name": "White Papers",
+        "item": "https://www.crownbio.com/resources#white-papers"
+      },
+      {
+        "@type": "ListItem",
+        "position": 9,
+        "name": "eBooks",
+        "item": "https://www.crownbio.com/resources#ebooks"
+      }
+    ]
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Crown Bioscience",
+    "url": "https://www.crownbio.com",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.crownbio.com/hubfs/website/images/logo.svg"
+    }
+  }
+}
+
+2024-05-19 13:50:06,562 - root - INFO - 
+  adroll_adv_id = "W7OXABOSEBB2NA23QL2XX5";
+  adroll_pix_id = "4PQNHVSD4BCELMA2737ZHH";
+  var _hsp = window._hsp = window._hsp || [];
+  (function () {
+      var _onload = function(){
+          if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+          if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+          _hsp.push(['addPrivacyConsentListener', function(consent) { if (consent.allowed || (consent.categories && consent.categories.advertisement)) {
+            var scr = document.createElement("script");
+            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+            scr.setAttribute('async', 'true');
+            scr.type = "text/javascript";
+            scr.src = host + "/j/roundtrip.js";
+            ((document.getElementsByTagName('head') || [null])[0] ||
+                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+          }}]);
+      };
+      if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+      else {window.attachEvent('onload', _onload)}
+  }());
+
+2024-05-19 13:50:06,562 - root - INFO - hsjQuery = window['jQuery'];
+2024-05-19 13:50:06,562 - root - INFO - 
+var hsVars = hsVars || {}; hsVars['language'] = 'en';
+
+2024-05-19 13:50:06,562 - root - INFO - 
+document.addEventListener("DOMContentLoaded", function() {
+
+
+});
+
+2024-05-19 13:50:06,562 - root - INFO - 
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "standard-page"]);
+_hsq.push(["setCanonicalUrl", "https:\/\/www.crownbio.com\/resources"]);
+_hsq.push(["setPageId", "58355198592"]);
+_hsq.push(["setContentMetadata", {
+    "contentPageId": 58355198592,
+    "legacyPageId": "58355198592",
+    "contentFolderId": null,
+    "contentGroupId": null,
+    "abTestId": null,
+    "languageVariantId": 58355198592,
+    "languageCode": "en",
+    
+    
+}]);
+
+2024-05-19 13:50:06,563 - root - INFO - 
+var hsVars = {
+    render_id: "2a59c815-9271-4aac-ad87-afadbf850312",
+    ticks: 1716100534038,
+    page_id: 58355198592,
+    
+    content_group_id: 0,
+    portal_id: 1933423,
+    app_hs_base_url: "https://app.hubspot.com",
+    cp_hs_base_url: "https://cp.hubspot.com",
+    language: "en",
+    analytics_page_type: "standard-page",
+    scp_content_type: "",
+    analytics_page_id: "58355198592",
+    category_id: 1,
+    folder_id: 0,
+    is_hubspot_user: false
+}
+
+2024-05-19 13:50:06,563 - root - INFO - 
+jQuery(document).ready(function checkFormHS(){
+  if (jQuery('.hs-form').length > 0) {
+    var form = jQuery('.hs-form');
+    form.on('hsvalidatedsubmit', function(e){
+      try {
+        __adroll.record_user({"adroll_segments": "bfab138c"});
+      } catch (err) {}
+    });
+  } else {
+    setTimeout(function() {
+      checkFormHS();
+    }, 200);
+  };
+});
+
+2024-05-19 13:50:06,563 - root - INFO - document.addEventListener("DOMContentLoaded",function(){
+    $("#WR2021HeaderV1.wr2023headerv2 #HeaderRow1Content > div > div").before('<div class="figure-close">Close</div>'),
+    $("#mobilemenublock.wrmobilemenuv2 .custom-menu-primary .hs-menu-wrapper").before('<div class="figure-btns"><span class="c-icons contact" data-fig="contact">Contact Us</span><span class="c-icons language" data-fig="language">Language</span><span class="c-icons search" data-fig="search">Search</span></div>'),
+    $(".custom-menu-primary .hs-menu-wrapper").before('<div class="mobile-trigger"><i></i></div>'), 
+    $(".custom-menu-primary .flyouts .hs-item-has-children > a").after(' <div class="child-trigger"><i></i></div>'),
+    $(".custom-menu-primary.HeaderSecondaryMenu .hs-menu-wrapper").before('<div class="mobile-trigger-secmenu"><i></i></div>'),
+    $("#WR2021HeaderV1.wr2023headerv2 .custom-menu-primary.HeaderSecondaryMenu .hs-menu-wrapper > ul").after('<div class="ds-search-btn"><span>Search</span></div>'),
+    $("#mobilemenublock.wrmobilemenuv2 .custom-menu-primary .hs-menu-wrapper > ul").after('<span class="do-btns left parent-exit"><span>Back</span></span><span class="do-btns right parent-exit"><span>Exit</span></span>'),
+    $("#mobilemenublock.wrmobilemenuv2 .custom-menu-primary .hs-menu-wrapper > ul li.hs-item-has-children .hs-menu-children-wrapper").after('<span class="do-btns left child-exit"><span>Back</span></span><span class="do-btns right parent-exit"><span>Exit</span></span>'),
+    $(".mobile-trigger").click(function () {
+        return $(this).next(".custom-menu-primary .hs-menu-wrapper").slideToggle(250).toggleClass("mobile-open"), $("html, body").toggleClass("mobile-open mobile-open-v2"), $(".hs-item-has-children").removeClass("parent-active menu-parent-active menu-parent-inactive"), $(".child-trigger").removeClass("child-open"), $(".hs-menu-children-wrapper").slideUp(250).removeClass("child-menu-open"), $("#mobilemenublock.wrmobilemenuv2 .do-btns").removeClass("inactive"), $("#WR2021HeaderV1.wr2023headerv2 #HeaderRow1Content").removeClass("active language search"), !1;
+    }),
+    $(".parent-exit").click(function () {
+        return $(this).parents(".custom-menu-primary .hs-menu-wrapper").slideToggle(250).toggleClass("mobile-open"), $("html, body").toggleClass("mobile-open mobile-open-v2"), $(".hs-item-has-children").removeClass("parent-active menu-parent-active menu-parent-inactive"), $(".child-trigger").removeClass("child-open"), $(".hs-menu-children-wrapper").slideUp(250).removeClass("child-menu-open"), $("#mobilemenublock.wrmobilemenuv2 .do-btns").removeClass("inactive"), !1;
+    }),
+    $(".mobile-trigger-secmenu").click(function () {
+        return (
+            $(this).next(".custom-menu-primary.HeaderSecondaryMenu .hs-menu-wrapper").slideToggle(250),
+            $("body").toggleClass("mobile-open-secmenu"),
+            $(".child-trigger").removeClass("child-open"),
+            $(".hs-menu-children-wrapper").slideUp(250),
+            !1
+        );
+    }),
+    $(".child-trigger").click(function () {
+        return (
+            $(this).toggleClass("child-open"),
+            $(this).parent().toggleClass("parent-active menu-parent-active"),
+            $(this).parent().siblings().toggleClass("menu-parent-inactive"),
+            $(this).next(".hs-menu-children-wrapper").slideToggle(250).toggleClass("child-menu-open"),
+            $(this).next(".hs-menu-children-wrapper").children().removeClass("parent-active menu-parent-active menu-parent-inactive"),
+            $(this).next(".hs-menu-children-wrapper").children().find(".hs-menu-children-wrapper").removeClass("child-menu-open"),
+            $(this).nextAll(".do-btns").removeClass("inactive"),
+            $(this).parent().siblings().find(".child-trigger").removeClass("child-open"),
+            $(this).parent().siblings().find(".hs-menu-children-wrapper").removeClass("child-menu-open"),
+			$(this).parents().eq(1).nextAll(".do-btns").toggleClass("inactive"),
+            !1
+        );
+    }),
+    $(".child-exit").click(function () {
+        return (
+            $(this).parent().removeClass("parent-active menu-parent-active menu-parent-inactive"),
+            $(this).parent().siblings().removeClass("parent-active menu-parent-active menu-parent-inactive"),
+            $(this).prevAll(".child-trigger").removeClass("child-open"),
+            $(this).prevAll(".hs-menu-children-wrapper").slideUp(250).removeClass("child-menu-open"),
+            $(this).parents().eq(1).nextAll(".do-btns").removeClass("inactive"),
+            !1
+        );
+    }),
+    $(".figure-btns .c-icons").click(function () { 
+        return (
+            $("#mobilemenublock.wrmobilemenuv2 .custom-menu-primary .hs-menu-wrapper").slideUp(250).removeClass("mobile-open"),
+            $("html, body").removeClass("mobile-open mobile-open-v2"),
+            $("#mobilemenublock.wrmobilemenuv2 .custom-menu-primary .hs-menu-wrapper > ul li.hs-item-has-children").removeClass("parent-active menu-parent-active menu-parent-inactive"),
+            $("#mobilemenublock.wrmobilemenuv2 .custom-menu-primary .hs-menu-wrapper > ul li.hs-item-has-children").find(".child-trigger").removeClass("child-open"),
+            $("#mobilemenublock.wrmobilemenuv2 .custom-menu-primary .hs-menu-wrapper > ul li.hs-item-has-children").find(".hs-menu-children-wrapper").slideUp(250).removeClass("child-menu-open"),
+            $("#mobilemenublock.wrmobilemenuv2 .do-btns").removeClass("inactive"),
+            $("#WR2021HeaderV1.wr2023headerv2 #HeaderRow1Content").addClass("active"),
+            !1
+       	);
+    }),
+    $(".figure-btns .c-icons.language").click(function () {
+      
+      	var thisDataFigLang = $(this).attr("data-fig");	
+      
+        return (
+            $("#WR2021HeaderV1.wr2023headerv2 .header-row1 #HeaderRow1Content").addClass(thisDataFigLang).removeClass("search contact"),
+            !1
+       	);
+    }),
+    $(".figure-btns .c-icons.search").click(function () {
+      
+      	var thisDataFigSearch = $(this).attr("data-fig");	
+      
+        return (
+            //$("#WR2021HeaderV1.wr2023headerv2 .header-row1 #HeaderRow1Content").addClass(thisDataFigSearch).removeClass("language contact"),
+            window.location.href = "https://www.crownbio.com/search-results",
+            !1
+       	);
+      
+    }),
+    $(".figure-btns .c-icons.contact").click(function () {
+      
+      	var thisDataFigContact = $(this).attr("data-fig");	
+      
+        return (
+            $("#WR2021HeaderV1.wr2023headerv2 .header-row1 #HeaderRow1Content").addClass(thisDataFigContact).removeClass("search language"),
+            !1
+       	);
+      
+    }),
+    $(".figure-close").click(function () { 
+        return (
+            $("#WR2021HeaderV1.wr2023headerv2 #HeaderRow1Content").removeClass("active language search contact"),
+            !1
+       	);
+    }),
+    $(".ds-search-btn").click(function () { 
+        return (
+            //$("#WR2021HeaderV1.wr2023headerv2 .HeaderSearch").toggleClass("open"),
+            window.location.href = "https://www.crownbio.com/search-results",
+            !1
+       	);
+    }),
+    $("li.hs-menu-depth-1.active-branch").find(".child-trigger").addClass("child-open"),
+    $("li.hs-menu-depth-1.active-branch").find(".hs-menu-children-wrapper").slideDown(250);
+    $(".modelgallery-link").click(function () {
+        
+        var theModal = $(this).attr("data-target"),
+            modelImage = $(this).attr("data-image");
+    
+        $(theModal).addClass("active");
+        $(theModal + ' #ModelsGalleryPopupV1').attr('src', modelImage);
+        $("body").addClass("overflow-none");
+        
+        $(theModal + ' .close').click(function () {
+            $(theModal + ' #ModelsGalleryPopupV1').attr('src', "");
+            $(theModal).removeClass("active");
+            $("body").removeClass("overflow-none");
+        });
+        $(document).on('keyup',function(evt) {
+        if (evt.keyCode == 27) {
+            $(theModal + ' #ModelsGalleryPopupV1').attr('src', "");
+            $(theModal).removeClass("active");
+            $("body").removeClass("overflow-none");
+        }
+		});
+    });
+    
+    $(".modelAC-link").click(function () {
+        
+        var theModal = $(this).attr("data-target");
+    
+        $(theModal).addClass("active");
+        $("body").addClass("overflow-none");
+        
+        $(theModal + ' .close').click(function () {
+            $(theModal).removeClass("active");
+            $("body").removeClass("overflow-none");
+        });
+        $(document).on('keyup',function(evt) {
+        if (evt.keyCode == 27) {
+            $(theModal).removeClass("active");
+            $("body").removeClass("overflow-none");
+        }
+		});
+    });
+    $('.term-description a#more').click(function(e) {
+		e.preventDefault(e);
+        $(this).hide(); 
+         $('.term-description .more-content').slideDown();
+    });
+})
+2024-05-19 13:50:06,564 - root - INFO - document.addEventListener("DOMContentLoaded",function(){$(".banner2020").each(function(){var n=$(this).find(".banner2020-img img").attr("src");$(this).css({"background-image":"url("+n+")"}),$(".banner2020-img").css("display","none")})});
+2024-05-19 13:50:06,564 - root - INFO - document.addEventListener("DOMContentLoaded",function(){$(".bannerwrapper").each(function(){var n=$(this).find(".banner-img img").attr("src");$(this).css({"background-image":"url("+n+")"}),$(".banner-img").css("display","none")})});
+2024-05-19 13:50:06,564 - root - INFO - document.addEventListener("DOMContentLoaded",function(){
+$(document).scroll(function () {
+    var e = $(this).scrollTop();
+    $(window).width();
+    $("#WR2021HeaderV1").each(function () {
+        var o = $(this).parent().offset().top;
+        e > o
+            ? ($("#WR2021HeaderV1").removeClass("affix-top").addClass("affix"))
+            : ($("#WR2021HeaderV1").removeClass("affix").addClass("affix-top"));
+    });
+});
+});
+2024-05-19 13:50:06,565 - root - INFO - 
+
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+
+// Insert Twitter Pixel ID and Standard Event data below
+
+twq('init','nxfg9');
+
+twq('track','PageView');
+
+
+2024-05-19 13:50:06,565 - root - INFO - 
+  /** DO NOT MODIFY THIS CODE**/
+  !function(_window, _document) {
+    var OB_ADV_ID='005045a2181e0aeff19f7a5cf57946b248';
+    if (_window.obApi) {var toArray = function(object) {return Object.prototype.toString.call(object) === '[object Array]' ? object : [object];};_window.obApi.marketerId = toArray(_window.obApi.marketerId).concat(toArray(OB_ADV_ID));return;}
+    var api = _window.obApi = function() {api.dispatch ? api.dispatch.apply(api, arguments) : api.queue.push(arguments);};api.version = '1.1';api.loaded = true;api.marketerId = OB_ADV_ID;api.queue = [];var tag = _document.createElement('script');tag.async = true;tag.src = '//amplify.outbrain.com/cp/obtp.js';tag.type = 'text/javascript';
+    var script = _document.getElementsByTagName('script')[0];script.parentNode.insertBefore(tag, script);}(window, document);
+obApi('track', 'PAGE_VIEW');
+
+2024-05-19 13:50:06,565 - root - INFO - 
+$(document).ready(function(){  $('.link-to-new-window').click(function(){    window.open( this.href, '', 'window settings');    return false;  });});  
+
+2024-05-19 13:50:06,565 - root - INFO - 
+=== CSS Files ===
+2024-05-19 13:50:06,565 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/56644805417/1633282878067/WR_Crownbio_2021/Css/flags.min.css
+2024-05-19 13:50:06,565 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/module_assets/56644992881/1690908833500/module_56644992881_WR_Language_Selector_V1.min.css
+2024-05-19 13:50:06,565 - root - INFO - https://cdn2.hubspot.net/hub/7052064/hub_generated/template_assets/1715974729680/hubspot/hubspot_default/shared/responsive/layout.min.css
+2024-05-19 13:50:06,565 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/3906898640/1569840645735/Coded_files/Custom/system/default/Hs_Default_Custom_Style.min.css
+2024-05-19 13:50:06,565 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/54467076641/1630669238287/WR_Crownbio_2021/Css/bootstrap.min.css
+2024-05-19 13:50:06,565 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/54467272486/1700179715827/WR_Crownbio_2021/Css/font-awesome.min.css
+2024-05-19 13:50:06,565 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/54466288002/1715791548300/WR_Crownbio_2021/Css/wr-crown-styles-2021.css
+2024-05-19 13:50:06,565 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/54467339402/1703683692589/WR_Crownbio_2021/Css/custom-menu.min.css
+2024-05-19 13:50:06,565 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/101908743692/1678826534329/WR_Crownbio_2021/Css/custom-cookie-banner.min.css
+2024-05-19 13:50:06,565 - root - INFO - https://www.google.com/cse/static/element/8435450f13508ca1/default+en.css
+2024-05-19 13:50:06,565 - root - INFO - https://www.google.com/cse/static/style/look/v4/shiny.css
+2024-05-19 13:50:06,565 - root - INFO - https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap
+2024-05-19 13:50:06,565 - root - INFO - 
+=== Deprecated HTML ===
+2024-05-19 13:50:06,565 - root - INFO - 
+=== Performance Metrics ===
+2024-05-19 13:50:06,565 - root - INFO - load_time: 1.2s
+2024-05-19 13:50:06,565 - root - INFO - first_contentful_paint: 0.8s
+2024-05-19 13:50:06,565 - root - INFO - speed_index: 1.0s
+2024-05-19 13:50:06,565 - root - INFO - 
+=== SEO Issues ===
+2024-05-19 13:50:06,565 - root - INFO - 
+=== Accessibility Issues ===
+2024-05-19 13:50:06,565 - root - INFO - Found 2 images without alt attributes
+2024-05-19 13:50:06,565 - root - INFO - 
+=== Broken Links ===
+2024-05-19 13:50:06,565 - root - INFO - javascript:void(0)
+2024-05-19 13:50:06,565 - root - INFO - tel:+1%20858%20622%202900
+2024-05-19 13:50:06,565 - root - INFO - tel:+44%20870%20242%202900
+2024-05-19 13:50:06,565 - root - INFO - javascript:;
+2024-05-19 13:50:06,565 - root - INFO - https://www.crownbio.com/www.crownbio.com/model-systems/in-vitro/organoids/organoid-fibroblast-and-immune-cell-co-culture
+2024-05-19 13:50:06,565 - root - INFO - https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis
+2024-05-19 13:50:06,565 - root - INFO - https://www.crownbio.com/therapeutic-areas/cystopathic-diseases
+2024-05-19 13:50:06,566 - root - INFO - https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis
+2024-05-19 13:50:06,566 - root - INFO - https://www.crownbio.com/model-systems/in-vitro/organoids/organoid-and-immune-cell-co-culture
+2024-05-19 13:50:06,566 - root - INFO - https://www.crownbio.com/technologies/in-vitro-imaging
+2024-05-19 13:50:06,566 - root - INFO - https://www.crownbio.com/technologies/in-vitro-imaging/3d-ex-vivo-patient-tissue-platform
+2024-05-19 13:50:06,566 - root - INFO - https://www.crownbio.com/technologies/in-vitro-imaging/high-content-imaging
+2024-05-19 13:50:06,566 - root - INFO - https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/ms-nash-mouse-model
+2024-05-19 13:50:06,566 - root - INFO - https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/peritonitis-models
+2024-05-19 13:50:06,566 - root - INFO - https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/rheumatoid-arthritis
+2024-05-19 13:50:06,566 - root - INFO - https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/sle-models
+2024-05-19 13:50:06,566 - root - INFO - https://www.crownbio.com/technologies/genomics/cell-line-model-authentication
+2024-05-19 13:50:06,566 - root - INFO - https://www.crownbio.com/technologies/biomarker-analysis/clinical-chemistry-services
+2024-05-19 13:50:06,566 - root - INFO - https://tma.crownbio.com/
+2024-05-19 13:50:06,566 - root - INFO - https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis
+2024-05-19 13:50:06,566 - root - INFO - https://www.crownbio.com/service-type/biomarker-discovery
+2024-05-19 13:50:06,566 - root - INFO - https://www.crownbio.com/service-type/dmpk-services
+2024-05-19 13:50:06,566 - root - INFO - https://www.crownbio.com/service-type/laboratory-services/genomics
+2024-05-19 13:50:06,566 - root - INFO - https://www.crownbio.com/service-type/laboratory-services/genomics/standard-genomics-services
+2024-05-19 13:50:06,566 - root - INFO - https://tma.crownbio.com/
+2024-05-19 13:50:06,566 - root - INFO - https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis
+2024-05-19 13:50:06,566 - root - INFO - https://tma.crownbio.com/
+2024-05-19 13:50:06,566 - root - INFO - https://tma.crownbio.com/
+2024-05-19 13:50:06,566 - root - INFO - https://www.crownbio.com/technologies/biomarker-analysis/clinical-chemistry-services
+2024-05-19 13:50:06,566 - root - INFO - javascript:;
+2024-05-19 13:50:06,566 - root - INFO - https://www.crownbio.com/about-us/our-journey
+2024-05-19 13:50:06,566 - root - INFO - https://www.crownbio.com/about-us/our-company
+2024-05-19 13:50:06,566 - root - INFO - https://www.crownbio.com/about-us/our-purpose
+2024-05-19 13:50:06,566 - root - INFO - javascript:;
+2024-05-19 13:50:06,566 - root - INFO - javascript:void(0)
+2024-05-19 13:50:06,566 - root - INFO - https://www.crownbio.com/resources/listing?hsLang=en#rescat-ebooks
+2024-05-19 13:50:06,566 - root - INFO - mailto:sales@crownbio.com
+2024-05-19 13:50:06,566 - root - INFO - tel:+1%20858%20622%202900
+2024-05-19 13:50:06,566 - root - INFO - https://twitter.com/crownbioscience
+2024-05-19 13:50:06,566 - root - INFO - https://www.crownbio.com/privacy-policy/?hsLang=en
+2024-05-19 13:50:06,566 - root - INFO - https://twitter.com/crownbioscience
+2024-05-19 13:50:06,566 - root - INFO - 
+=== Security Issues ===
+2024-05-19 13:50:06,568 - root - INFO - Report generated and saved to ./reports/report_20240519_135006.txt.
+2024-05-19 13:50:38,921 - root - INFO - Broken links: ['https://www.crownbio.com/privacy-policy', 'javascript:void(0)', 'tel:+1%20858%20622%202900', 'tel:+44%20870%20242%202900', 'https://www.crownbio.com/contact-us?hsLang=en', 'https://www.crownbio.com/?hsLang=en', 'javascript:;', 'https://www.crownbio.com/www.crownbio.com/model-systems/in-vitro/organoids/organoid-fibroblast-and-immune-cell-co-culture', 'https://www.crownbio.com/technologies/in-vivo-imaging/high-content-imaging', 'https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis', 'https://www.crownbio.com/therapeutic-areas/cystopathic-diseases', 'https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/polycystic-kidney-disease', 'https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis', 'https://www.crownbio.com/model-systems/in-vitro/organoids/organoid-and-immune-cell-co-culture', 'https://www.crownbio.com/technologies/in-vitro-imaging', 'https://www.crownbio.com/technologies/in-vitro-imaging/3d-ex-vivo-patient-tissue-platform', 'https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis', 'https://www.crownbio.com/model-systems/in-vivo/immune-mediated-inflammatory-disease-models', 'https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/rodent-models', 'https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/inflammatory-bowel-disease', 'https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/ms-models', 'https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/ms-nash-mouse-model', 'https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/peritonitis-models', 'https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/rheumatoid-arthritis', 'https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/sle-models', 'https://www.crownbio.com/technologies/genomics/cell-line-model-authentication', 'https://tma.crownbio.com/', 'https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis', 'https://www.crownbio.com/service-type/biomarker-discovery', 'https://www.crownbio.com/service-type/laboratory-services/genomics/ngs-data-analysis', 'https://tma.crownbio.com/', 'https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis', 'https://tma.crownbio.com/', 'https://tma.crownbio.com/', 'https://www.crownbio.com/technologies/biomarker-analysis/clinical-chemistry-services', 'javascript:;', 'javascript:;', 'https://www.crownbio.com/start-your-study', 'https://www.crownbio.com/about-us/news-and-events/crown-biosciences-global-oncology-research-facilities-achieve-prestigious-iso-and-cap-accreditations?hsLang=en', 'https://www.crownbio.com/about-us/news-and-events/crown-biosciences-global-oncology-research-facilities-achieve-prestigious-iso-and-cap-accreditations?hsLang=en', 'https://www.crownbio.com/aacr24-posters?hsLang=en', 'https://blog.crownbio.com/oncology-drug-screening-using-innovative-organoid-technology-and-biomarker-analysis?hsLang=en', 'https://www.crownbio.com/therapeutic-areas?hsLang=en', 'https://www.crownbio.com/model-systems?hsLang=en', 'https://www.crownbio.com/technologies?hsLang=en', 'https://www.crownbio.com/service-type?hsLang=en', 'https://www.crownbio.com/resources?hsLang=en', 'https://www.crownbio.com/models?hsLang=en', 'https://www.crownbio.com/publications?hsLang=en', 'https://www.crownbio.com/resources/listing?hsLang=en#rescat-factsheets', 'https://www.crownbio.com/resources/listing?hsLang=en#rescat-whitepapers', 'https://www.crownbio.com/resources/listing?hsLang=en#rescat-ebooks', 'https://www.crownbio.com/resources/listing?hsLang=en#rescat-webinars', 'https://www.crownbio.com/resources/listing?hsLang=en#rescat-ebooks', 'https://www.crownbio.com/databases?hsLang=en', 'https://www.crownbio.com/databases/oncoexpress?hsLang=en', 'https://www.crownbio.com/databases/xenobase?hsLang=en', 'https://www.crownbio.com/databases/mubase?hsLang=en', 'https://www.crownbio.com/databases/hubase?hsLang=en', 'https://www.crownbio.com/databases/organoidbase?hsLang=en', 'https://www.crownbio.com/crownlink-registration?hsLang=en', 'https://www.crownbio.com/contact-us?hsLang=en', 'mailto:sales@crownbio.com', 'tel:+1%20858%20622%202900', 'https://www.crownbio.com/contact-us?hsLang=en', 'https://www.crownbio.com/contact-us/distributors?hsLang=en', 'https://twitter.com/crownbioscience', 'https://www.crownbio.com/?hsLang=en', 'https://www.crownbio.com/privacy-policy/?hsLang=en', 'https://twitter.com/crownbioscience', 'https://www.crownbio.com/privacy-policy/?hsLang=en'].
+2024-05-19 13:50:38,933 - root - INFO - Security issues: [].
+2024-05-19 13:50:38,933 - root - INFO - URL: https://www.crownbio.com/
+2024-05-19 13:50:38,933 - root - INFO - 
+=== Duplicate Trackers ===
+2024-05-19 13:50:38,933 - root - INFO - 
+=== Script Issues ===
+2024-05-19 13:50:38,934 - root - INFO - Multiple jQuery versions found: 1.7.1
+2024-05-19 13:50:38,934 - root - INFO - Analytics not found
+2024-05-19 13:50:38,934 - root - INFO - Facebook Pixel detected.
+2024-05-19 13:50:38,934 - root - INFO - 
+=== Inline Scripts ===
+2024-05-19 13:50:38,934 - root - INFO - 
+var _hsp = window._hsp = window._hsp || [];
+_hsp.push(['addPrivacyConsentListener', function(consent) { if (consent.allowed || (consent.categories && consent.categories.analytics)) {
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create','UA-42742907-1','auto');
+  ga('send','pageview');
+}}]);
+
+2024-05-19 13:50:38,934 - root - INFO - 
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W2G46HH');
+
+2024-05-19 13:50:38,934 - root - INFO - 
+!function(f,b,e,v,n,t,s)
+
+
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+
+
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+
+
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+
+
+n.queue=[];t=b.createElement(e);t.async=!0;
+
+
+t.src=v;s=b.getElementsByTagName(e)[0];
+
+
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+
+
+'https://connect.facebook.net/en_US/fbevents.js');
+
+
+fbq('init', '1582471781774081');
+
+
+fbq('track', 'PageView');
+
+
+2024-05-19 13:50:38,934 - root - INFO - 
+"use strict";
+
+!function() {
+  var t = window.driftt = window.drift = window.driftt || [];
+  if (!t.init) {
+    if (t.invoked) return void (window.console && console.error && console.error("Drift snippet included twice."));
+    t.invoked = !0, t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ], 
+    t.factory = function(e) {
+      return function() {
+        var n = Array.prototype.slice.call(arguments);
+        return n.unshift(e), t.push(n), t;
+      };
+    }, t.methods.forEach(function(e) {
+      t[e] = t.factory(e);
+    }), t.load = function(t) {
+      var e = 3e5, n = Math.ceil(new Date() / e) * e, o = document.createElement("script");
+      o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + n + "/" + t + ".js";
+      var i = document.getElementsByTagName("script")[0];
+      i.parentNode.insertBefore(o, i);
+    };
+  }
+}();
+drift.SNIPPET_VERSION = '0.3.1';
+drift.load('3ttyu33nay7p');
+
+2024-05-19 13:50:38,934 - root - INFO - 
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Crown Bioscience",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "100",
+    "bestRating": "100",
+    "worstRating": "0",
+    "reviewCount": "1947"
+  },
+  "customerEffort": {
+    "@type": "QuantitativeValue",
+    "value": "96",
+    "unitText": "Percent"
+  },
+  "customerExpectation": {
+    "@type": "QuantitativeValue",
+    "value": "92",
+    "unitText": "Percent"
+  }
+}
+
+2024-05-19 13:50:38,934 - root - INFO - 
+  adroll_adv_id = "W7OXABOSEBB2NA23QL2XX5";
+  adroll_pix_id = "4PQNHVSD4BCELMA2737ZHH";
+  var _hsp = window._hsp = window._hsp || [];
+  (function () {
+      var _onload = function(){
+          if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+          if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+          _hsp.push(['addPrivacyConsentListener', function(consent) { if (consent.allowed || (consent.categories && consent.categories.advertisement)) {
+            var scr = document.createElement("script");
+            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+            scr.setAttribute('async', 'true');
+            scr.type = "text/javascript";
+            scr.src = host + "/j/roundtrip.js";
+            ((document.getElementsByTagName('head') || [null])[0] ||
+                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+          }}]);
+      };
+      if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+      else {window.attachEvent('onload', _onload)}
+  }());
+
+2024-05-19 13:50:38,934 - root - INFO -  hbspt.cta._relativeUrls=true;hbspt.cta.load(1933423, 'a4caf2f8-8993-4c1a-8f70-ab2e10978c41', {"useNewLoader":"true","region":"na1"}); 
+2024-05-19 13:50:38,934 - root - INFO - hsjQuery = window['jQuery'];
+2024-05-19 13:50:38,934 - root - INFO - 
+var hsVars = hsVars || {}; hsVars['language'] = 'en';
+
+2024-05-19 13:50:38,934 - root - INFO - 
+document.addEventListener("DOMContentLoaded", function() {
+
+
+});
+
+2024-05-19 13:50:38,934 - root - INFO - 
+$("#HomeBannerSliderV1 .slider").slick({
+  autoplay:false,
+  autoplaySpeed:4000,
+  centerMode: false,
+  infinite: true,
+  focusOnSelect: true,
+  centerPadding: '0px',
+  slidesToShow: 1,
+  arrows: true,
+  dots: true,
+  adaptiveHeight: true,
+  cssEase: 'ease',
+  responsive: [
+  
+  {
+    breakpoint: 767,
+    settings: {
+      autoplay:false,
+      centerMode: false,
+      slidesToShow: 1,
+      arrows: false,
+      dots: true,
+    }
+  },
+  
+  ]
+});
+
+2024-05-19 13:50:38,934 - root - INFO - 
+$("#HomeStripSliderV1 .slider").slick({
+  autoplay:false,
+  autoplaySpeed:3000,
+  centerMode: false,
+  infinite: true,
+  focusOnSelect: true,
+  centerPadding: '0px',
+  slidesToShow: 1,
+  arrows: true,
+  dots: false,
+  adaptiveHeight: true,
+  cssEase: 'ease',
+  responsive: [
+  
+  {
+    breakpoint: 767,
+    settings: {
+      autoplay:false,
+      centerMode: true,
+      slidesToShow: 1,
+      arrows: true,
+      dots: false,
+    }
+  },
+  
+  ]
+});
+
+2024-05-19 13:50:38,934 - root - INFO - 
+( function($) {
+  
+      function isBlockinview() {
+  
+         var $CurrentBlock = $("#WRCustomerSatisfactionCountersV2");
+         var inview;
+
+         if ($CurrentBlock.length) {
+           inview = new Waypoint.Inview({
+             element: $CurrentBlock[0],
+             entered: function(direction) {
+               
+                $('.timer').each(function () {
+                   var $this = $(this);
+                       $start = $(this).data('start'),
+                       $end = $(this).data('end'),
+                       $interval = $(this).data('interval');
+                  
+                    $($this).animationCounter({
+                      start: $start,
+                      end: $end,
+                      step: $interval,
+                      delay: 400
+                    });
+                  
+                });
+               
+                $CurrentBlock.addClass("isactive");
+               
+             },
+             exited: function(direction) {
+               
+                $CurrentBlock.removeClass("isactive");
+               
+             }
+           })
+         }
+      }
+  
+      $(window).on('load', function() { isBlockinview(); });
+  
+})(jQuery);
+
+2024-05-19 13:50:38,934 - root - INFO - 
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "standard-page"]);
+_hsq.push(["setCanonicalUrl", "https:\/\/www.crownbio.com"]);
+_hsq.push(["setPageId", "99036200309"]);
+_hsq.push(["setContentMetadata", {
+    "contentPageId": 99036200309,
+    "legacyPageId": "99036200309",
+    "contentFolderId": null,
+    "contentGroupId": null,
+    "abTestId": 99036200307,
+    "languageVariantId": 99036200309,
+    "languageCode": "en",
+    
+    
+}]);
+
+2024-05-19 13:50:38,935 - root - INFO - 
+var hsVars = {
+    render_id: "a42108f5-71c2-44a7-ba3d-01f34e2cf250",
+    ticks: 1716099737966,
+    page_id: 99036200309,
+    
+    content_group_id: 0,
+    portal_id: 1933423,
+    app_hs_base_url: "https://app.hubspot.com",
+    cp_hs_base_url: "https://cp.hubspot.com",
+    language: "en",
+    analytics_page_type: "standard-page",
+    scp_content_type: "",
+    analytics_page_id: "99036200309",
+    category_id: 1,
+    folder_id: 0,
+    is_hubspot_user: false
+}
+
+2024-05-19 13:50:38,935 - root - INFO - 
+jQuery(document).ready(function checkFormHS(){
+  if (jQuery('.hs-form').length > 0) {
+    var form = jQuery('.hs-form');
+    form.on('hsvalidatedsubmit', function(e){
+      try {
+        __adroll.record_user({"adroll_segments": "bfab138c"});
+      } catch (err) {}
+    });
+  } else {
+    setTimeout(function() {
+      checkFormHS();
+    }, 200);
+  };
+});
+
+2024-05-19 13:50:38,935 - root - INFO - document.addEventListener("DOMContentLoaded",function(){
+    $("#WR2021HeaderV1.wr2023headerv2 #HeaderRow1Content > div > div").before('<div class="figure-close">Close</div>'),
+    $("#mobilemenublock.wrmobilemenuv2 .custom-menu-primary .hs-menu-wrapper").before('<div class="figure-btns"><span class="c-icons contact" data-fig="contact">Contact Us</span><span class="c-icons language" data-fig="language">Language</span><span class="c-icons search" data-fig="search">Search</span></div>'),
+    $(".custom-menu-primary .hs-menu-wrapper").before('<div class="mobile-trigger"><i></i></div>'), 
+    $(".custom-menu-primary .flyouts .hs-item-has-children > a").after(' <div class="child-trigger"><i></i></div>'),
+    $(".custom-menu-primary.HeaderSecondaryMenu .hs-menu-wrapper").before('<div class="mobile-trigger-secmenu"><i></i></div>'),
+    $("#WR2021HeaderV1.wr2023headerv2 .custom-menu-primary.HeaderSecondaryMenu .hs-menu-wrapper > ul").after('<div class="ds-search-btn"><span>Search</span></div>'),
+    $("#mobilemenublock.wrmobilemenuv2 .custom-menu-primary .hs-menu-wrapper > ul").after('<span class="do-btns left parent-exit"><span>Back</span></span><span class="do-btns right parent-exit"><span>Exit</span></span>'),
+    $("#mobilemenublock.wrmobilemenuv2 .custom-menu-primary .hs-menu-wrapper > ul li.hs-item-has-children .hs-menu-children-wrapper").after('<span class="do-btns left child-exit"><span>Back</span></span><span class="do-btns right parent-exit"><span>Exit</span></span>'),
+    $(".mobile-trigger").click(function () {
+        return $(this).next(".custom-menu-primary .hs-menu-wrapper").slideToggle(250).toggleClass("mobile-open"), $("html, body").toggleClass("mobile-open mobile-open-v2"), $(".hs-item-has-children").removeClass("parent-active menu-parent-active menu-parent-inactive"), $(".child-trigger").removeClass("child-open"), $(".hs-menu-children-wrapper").slideUp(250).removeClass("child-menu-open"), $("#mobilemenublock.wrmobilemenuv2 .do-btns").removeClass("inactive"), $("#WR2021HeaderV1.wr2023headerv2 #HeaderRow1Content").removeClass("active language search"), !1;
+    }),
+    $(".parent-exit").click(function () {
+        return $(this).parents(".custom-menu-primary .hs-menu-wrapper").slideToggle(250).toggleClass("mobile-open"), $("html, body").toggleClass("mobile-open mobile-open-v2"), $(".hs-item-has-children").removeClass("parent-active menu-parent-active menu-parent-inactive"), $(".child-trigger").removeClass("child-open"), $(".hs-menu-children-wrapper").slideUp(250).removeClass("child-menu-open"), $("#mobilemenublock.wrmobilemenuv2 .do-btns").removeClass("inactive"), !1;
+    }),
+    $(".mobile-trigger-secmenu").click(function () {
+        return (
+            $(this).next(".custom-menu-primary.HeaderSecondaryMenu .hs-menu-wrapper").slideToggle(250),
+            $("body").toggleClass("mobile-open-secmenu"),
+            $(".child-trigger").removeClass("child-open"),
+            $(".hs-menu-children-wrapper").slideUp(250),
+            !1
+        );
+    }),
+    $(".child-trigger").click(function () {
+        return (
+            $(this).toggleClass("child-open"),
+            $(this).parent().toggleClass("parent-active menu-parent-active"),
+            $(this).parent().siblings().toggleClass("menu-parent-inactive"),
+            $(this).next(".hs-menu-children-wrapper").slideToggle(250).toggleClass("child-menu-open"),
+            $(this).next(".hs-menu-children-wrapper").children().removeClass("parent-active menu-parent-active menu-parent-inactive"),
+            $(this).next(".hs-menu-children-wrapper").children().find(".hs-menu-children-wrapper").removeClass("child-menu-open"),
+            $(this).nextAll(".do-btns").removeClass("inactive"),
+            $(this).parent().siblings().find(".child-trigger").removeClass("child-open"),
+            $(this).parent().siblings().find(".hs-menu-children-wrapper").removeClass("child-menu-open"),
+			$(this).parents().eq(1).nextAll(".do-btns").toggleClass("inactive"),
+            !1
+        );
+    }),
+    $(".child-exit").click(function () {
+        return (
+            $(this).parent().removeClass("parent-active menu-parent-active menu-parent-inactive"),
+            $(this).parent().siblings().removeClass("parent-active menu-parent-active menu-parent-inactive"),
+            $(this).prevAll(".child-trigger").removeClass("child-open"),
+            $(this).prevAll(".hs-menu-children-wrapper").slideUp(250).removeClass("child-menu-open"),
+            $(this).parents().eq(1).nextAll(".do-btns").removeClass("inactive"),
+            !1
+        );
+    }),
+    $(".figure-btns .c-icons").click(function () { 
+        return (
+            $("#mobilemenublock.wrmobilemenuv2 .custom-menu-primary .hs-menu-wrapper").slideUp(250).removeClass("mobile-open"),
+            $("html, body").removeClass("mobile-open mobile-open-v2"),
+            $("#mobilemenublock.wrmobilemenuv2 .custom-menu-primary .hs-menu-wrapper > ul li.hs-item-has-children").removeClass("parent-active menu-parent-active menu-parent-inactive"),
+            $("#mobilemenublock.wrmobilemenuv2 .custom-menu-primary .hs-menu-wrapper > ul li.hs-item-has-children").find(".child-trigger").removeClass("child-open"),
+            $("#mobilemenublock.wrmobilemenuv2 .custom-menu-primary .hs-menu-wrapper > ul li.hs-item-has-children").find(".hs-menu-children-wrapper").slideUp(250).removeClass("child-menu-open"),
+            $("#mobilemenublock.wrmobilemenuv2 .do-btns").removeClass("inactive"),
+            $("#WR2021HeaderV1.wr2023headerv2 #HeaderRow1Content").addClass("active"),
+            !1
+       	);
+    }),
+    $(".figure-btns .c-icons.language").click(function () {
+      
+      	var thisDataFigLang = $(this).attr("data-fig");	
+      
+        return (
+            $("#WR2021HeaderV1.wr2023headerv2 .header-row1 #HeaderRow1Content").addClass(thisDataFigLang).removeClass("search contact"),
+            !1
+       	);
+    }),
+    $(".figure-btns .c-icons.search").click(function () {
+      
+      	var thisDataFigSearch = $(this).attr("data-fig");	
+      
+        return (
+            //$("#WR2021HeaderV1.wr2023headerv2 .header-row1 #HeaderRow1Content").addClass(thisDataFigSearch).removeClass("language contact"),
+            window.location.href = "https://www.crownbio.com/search-results",
+            !1
+       	);
+      
+    }),
+    $(".figure-btns .c-icons.contact").click(function () {
+      
+      	var thisDataFigContact = $(this).attr("data-fig");	
+      
+        return (
+            $("#WR2021HeaderV1.wr2023headerv2 .header-row1 #HeaderRow1Content").addClass(thisDataFigContact).removeClass("search language"),
+            !1
+       	);
+      
+    }),
+    $(".figure-close").click(function () { 
+        return (
+            $("#WR2021HeaderV1.wr2023headerv2 #HeaderRow1Content").removeClass("active language search contact"),
+            !1
+       	);
+    }),
+    $(".ds-search-btn").click(function () { 
+        return (
+            //$("#WR2021HeaderV1.wr2023headerv2 .HeaderSearch").toggleClass("open"),
+            window.location.href = "https://www.crownbio.com/search-results",
+            !1
+       	);
+    }),
+    $("li.hs-menu-depth-1.active-branch").find(".child-trigger").addClass("child-open"),
+    $("li.hs-menu-depth-1.active-branch").find(".hs-menu-children-wrapper").slideDown(250);
+    $(".modelgallery-link").click(function () {
+        
+        var theModal = $(this).attr("data-target"),
+            modelImage = $(this).attr("data-image");
+    
+        $(theModal).addClass("active");
+        $(theModal + ' #ModelsGalleryPopupV1').attr('src', modelImage);
+        $("body").addClass("overflow-none");
+        
+        $(theModal + ' .close').click(function () {
+            $(theModal + ' #ModelsGalleryPopupV1').attr('src', "");
+            $(theModal).removeClass("active");
+            $("body").removeClass("overflow-none");
+        });
+        $(document).on('keyup',function(evt) {
+        if (evt.keyCode == 27) {
+            $(theModal + ' #ModelsGalleryPopupV1').attr('src', "");
+            $(theModal).removeClass("active");
+            $("body").removeClass("overflow-none");
+        }
+		});
+    });
+    
+    $(".modelAC-link").click(function () {
+        
+        var theModal = $(this).attr("data-target");
+    
+        $(theModal).addClass("active");
+        $("body").addClass("overflow-none");
+        
+        $(theModal + ' .close').click(function () {
+            $(theModal).removeClass("active");
+            $("body").removeClass("overflow-none");
+        });
+        $(document).on('keyup',function(evt) {
+        if (evt.keyCode == 27) {
+            $(theModal).removeClass("active");
+            $("body").removeClass("overflow-none");
+        }
+		});
+    });
+    $('.term-description a#more').click(function(e) {
+		e.preventDefault(e);
+        $(this).hide(); 
+         $('.term-description .more-content').slideDown();
+    });
+})
+2024-05-19 13:50:38,935 - root - INFO - document.addEventListener("DOMContentLoaded",function(){$(".banner2020").each(function(){var n=$(this).find(".banner2020-img img").attr("src");$(this).css({"background-image":"url("+n+")"}),$(".banner2020-img").css("display","none")})});
+2024-05-19 13:50:38,935 - root - INFO - document.addEventListener("DOMContentLoaded",function(){$(".bannerwrapper").each(function(){var n=$(this).find(".banner-img img").attr("src");$(this).css({"background-image":"url("+n+")"}),$(".banner-img").css("display","none")})});
+2024-05-19 13:50:38,936 - root - INFO - document.addEventListener("DOMContentLoaded",function(){
+$(document).scroll(function () {
+    var e = $(this).scrollTop();
+    $(window).width();
+    $("#WR2021HeaderV1").each(function () {
+        var o = $(this).parent().offset().top;
+        e > o
+            ? ($("#WR2021HeaderV1").removeClass("affix-top").addClass("affix"))
+            : ($("#WR2021HeaderV1").removeClass("affix").addClass("affix-top"));
+    });
+});
+});
+2024-05-19 13:50:38,936 - root - INFO - 
+
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+
+// Insert Twitter Pixel ID and Standard Event data below
+
+twq('init','nxfg9');
+
+twq('track','PageView');
+
+
+2024-05-19 13:50:38,936 - root - INFO - 
+  /** DO NOT MODIFY THIS CODE**/
+  !function(_window, _document) {
+    var OB_ADV_ID='005045a2181e0aeff19f7a5cf57946b248';
+    if (_window.obApi) {var toArray = function(object) {return Object.prototype.toString.call(object) === '[object Array]' ? object : [object];};_window.obApi.marketerId = toArray(_window.obApi.marketerId).concat(toArray(OB_ADV_ID));return;}
+    var api = _window.obApi = function() {api.dispatch ? api.dispatch.apply(api, arguments) : api.queue.push(arguments);};api.version = '1.1';api.loaded = true;api.marketerId = OB_ADV_ID;api.queue = [];var tag = _document.createElement('script');tag.async = true;tag.src = '//amplify.outbrain.com/cp/obtp.js';tag.type = 'text/javascript';
+    var script = _document.getElementsByTagName('script')[0];script.parentNode.insertBefore(tag, script);}(window, document);
+obApi('track', 'PAGE_VIEW');
+
+2024-05-19 13:50:38,936 - root - INFO - 
+$(document).ready(function(){  $('.link-to-new-window').click(function(){    window.open( this.href, '', 'window settings');    return false;  });});  
+
+2024-05-19 13:50:38,936 - root - INFO - 
+$('.slick-slider').on('afterChange', function(event, slick, currentSlide) {
+  dataLayer.push({
+    'event': 'afterChange',
+    'slide_position': currentSlide,
+    'slide_title': $(slick.$slides[currentSlide]).find('h2').text()
+  });
+});
+$('#HomeBannerSliderV1 .slider' ).on('beforeChange', function(event, slick, currentSlide, nextSlide){
+  
+$("#slick-slide00 #HomeFV1).each(function(){$(this).get(0).pause();});
+$("#slick-slide00 #HomeFV2).each(function(){$(this).get(0).pause();});
+  
+});
+  
+$('#HomeBannerSliderV1 .slider').on('afterChange', function(event, slick, currentSlide, nextSlide){
+
+if( $('#HomeBannerSliderV1 .slider .slider-entry.slick-current').find('video').length !== 0) {
+$("#HomeBannerSliderV1 .slider .slider-entry.slick-current #HomeFV1")[0].play();
+$("#HomeBannerSliderV1 .slider .slider-entry.slick-current #HomeFV2")[0].play();
+}
+  
+});
+
+2024-05-19 13:50:38,936 - root - INFO - 
+  new WOW().init();
+  /*
+  $(document).ready(function() {
+    var fixed = false;
+
+    $(window).scroll(function(){
+        var element_scrill = $('#HPSection1').position().top;
+        var bannne_scrill  = $('#WR2021BannerV1').position().top; //WR2021BannerV1
+        var pagescroll     = $(this).scrollTop();
+        console.log(bannne_scrill);
+        if( pagescroll > element_scrill ) {
+				  $( '.sidebar-entry' ).animate({
+					    right: "0px", 
+				  });
+        } 
+        if( pagescroll< element_scrol ) {
+				  $( '.sidebar-entry' ).animate({
+					   right: "-1000px", 
+				  });
+        }
+    });   
+  });*/
+
+2024-05-19 13:50:38,936 - root - INFO - 
+=== CSS Files ===
+2024-05-19 13:50:38,936 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/56644805417/1633282878067/WR_Crownbio_2021/Css/flags.min.css
+2024-05-19 13:50:38,936 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/module_assets/56644992881/1690908833500/module_56644992881_WR_Language_Selector_V1.min.css
+2024-05-19 13:50:38,936 - root - INFO - https://www.crownbio.com/hubfs/WRCrownbio2021%20Assets/SlickSlider/slick.css
+2024-05-19 13:50:38,936 - root - INFO - https://www.crownbio.com/hubfs/WRCrownbio2021%20Assets/SlickSlider/slick-theme.css
+2024-05-19 13:50:38,936 - root - INFO - https://cdn2.hubspot.net/hub/7052064/hub_generated/template_assets/1715974729680/hubspot/hubspot_default/shared/responsive/layout.min.css
+2024-05-19 13:50:38,936 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/3906898640/1569840645735/Coded_files/Custom/system/default/Hs_Default_Custom_Style.min.css
+2024-05-19 13:50:38,936 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/54467076641/1630669238287/WR_Crownbio_2021/Css/bootstrap.min.css
+2024-05-19 13:50:38,936 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/54467272486/1700179715827/WR_Crownbio_2021/Css/font-awesome.min.css
+2024-05-19 13:50:38,936 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/54466288002/1715791548300/WR_Crownbio_2021/Css/wr-crown-styles-2021.css
+2024-05-19 13:50:38,936 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/54467339402/1703683692589/WR_Crownbio_2021/Css/custom-menu.min.css
+2024-05-19 13:50:38,936 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/92813325824/1669219408694/WR_Crownbio_2021/Css/animate.min.css
+2024-05-19 13:50:38,936 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/101908743692/1678826534329/WR_Crownbio_2021/Css/custom-cookie-banner.min.css
+2024-05-19 13:50:38,936 - root - INFO - https://www.google.com/cse/static/element/8435450f13508ca1/default+en.css
+2024-05-19 13:50:38,936 - root - INFO - https://www.google.com/cse/static/style/look/v4/shiny.css
+2024-05-19 13:50:38,936 - root - INFO - https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap
+2024-05-19 13:50:38,936 - root - INFO - 
+=== Deprecated HTML ===
+2024-05-19 13:50:38,936 - root - INFO - 
+=== Performance Metrics ===
+2024-05-19 13:50:38,936 - root - INFO - load_time: 1.2s
+2024-05-19 13:50:38,936 - root - INFO - first_contentful_paint: 0.8s
+2024-05-19 13:50:38,936 - root - INFO - speed_index: 1.0s
+2024-05-19 13:50:38,936 - root - INFO - 
+=== SEO Issues ===
+2024-05-19 13:50:38,936 - root - INFO - Missing H1 tag
+2024-05-19 13:50:38,936 - root - INFO - 
+=== Accessibility Issues ===
+2024-05-19 13:50:38,936 - root - INFO - Found 2 images without alt attributes
+2024-05-19 13:50:38,936 - root - INFO - 
+=== Broken Links ===
+2024-05-19 13:50:38,936 - root - INFO - https://www.crownbio.com/privacy-policy
+2024-05-19 13:50:38,937 - root - INFO - javascript:void(0)
+2024-05-19 13:50:38,937 - root - INFO - tel:+1%20858%20622%202900
+2024-05-19 13:50:38,937 - root - INFO - tel:+44%20870%20242%202900
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/contact-us?hsLang=en
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/?hsLang=en
+2024-05-19 13:50:38,937 - root - INFO - javascript:;
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/www.crownbio.com/model-systems/in-vitro/organoids/organoid-fibroblast-and-immune-cell-co-culture
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/technologies/in-vivo-imaging/high-content-imaging
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/therapeutic-areas/cystopathic-diseases
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/polycystic-kidney-disease
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/model-systems/in-vitro/organoids/organoid-and-immune-cell-co-culture
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/technologies/in-vitro-imaging
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/technologies/in-vitro-imaging/3d-ex-vivo-patient-tissue-platform
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/model-systems/in-vivo/immune-mediated-inflammatory-disease-models
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/rodent-models
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/inflammatory-bowel-disease
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/ms-models
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/ms-nash-mouse-model
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/peritonitis-models
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/rheumatoid-arthritis
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/sle-models
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/technologies/genomics/cell-line-model-authentication
+2024-05-19 13:50:38,937 - root - INFO - https://tma.crownbio.com/
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/service-type/biomarker-discovery
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/service-type/laboratory-services/genomics/ngs-data-analysis
+2024-05-19 13:50:38,937 - root - INFO - https://tma.crownbio.com/
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis
+2024-05-19 13:50:38,937 - root - INFO - https://tma.crownbio.com/
+2024-05-19 13:50:38,937 - root - INFO - https://tma.crownbio.com/
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/technologies/biomarker-analysis/clinical-chemistry-services
+2024-05-19 13:50:38,937 - root - INFO - javascript:;
+2024-05-19 13:50:38,937 - root - INFO - javascript:;
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/start-your-study
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/about-us/news-and-events/crown-biosciences-global-oncology-research-facilities-achieve-prestigious-iso-and-cap-accreditations?hsLang=en
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/about-us/news-and-events/crown-biosciences-global-oncology-research-facilities-achieve-prestigious-iso-and-cap-accreditations?hsLang=en
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/aacr24-posters?hsLang=en
+2024-05-19 13:50:38,937 - root - INFO - https://blog.crownbio.com/oncology-drug-screening-using-innovative-organoid-technology-and-biomarker-analysis?hsLang=en
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/therapeutic-areas?hsLang=en
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/model-systems?hsLang=en
+2024-05-19 13:50:38,937 - root - INFO - https://www.crownbio.com/technologies?hsLang=en
+2024-05-19 13:50:38,938 - root - INFO - https://www.crownbio.com/service-type?hsLang=en
+2024-05-19 13:50:38,938 - root - INFO - https://www.crownbio.com/resources?hsLang=en
+2024-05-19 13:50:38,938 - root - INFO - https://www.crownbio.com/models?hsLang=en
+2024-05-19 13:50:38,938 - root - INFO - https://www.crownbio.com/publications?hsLang=en
+2024-05-19 13:50:38,938 - root - INFO - https://www.crownbio.com/resources/listing?hsLang=en#rescat-factsheets
+2024-05-19 13:50:38,938 - root - INFO - https://www.crownbio.com/resources/listing?hsLang=en#rescat-whitepapers
+2024-05-19 13:50:38,938 - root - INFO - https://www.crownbio.com/resources/listing?hsLang=en#rescat-ebooks
+2024-05-19 13:50:38,938 - root - INFO - https://www.crownbio.com/resources/listing?hsLang=en#rescat-webinars
+2024-05-19 13:50:38,938 - root - INFO - https://www.crownbio.com/resources/listing?hsLang=en#rescat-ebooks
+2024-05-19 13:50:38,938 - root - INFO - https://www.crownbio.com/databases?hsLang=en
+2024-05-19 13:50:38,938 - root - INFO - https://www.crownbio.com/databases/oncoexpress?hsLang=en
+2024-05-19 13:50:38,938 - root - INFO - https://www.crownbio.com/databases/xenobase?hsLang=en
+2024-05-19 13:50:38,938 - root - INFO - https://www.crownbio.com/databases/mubase?hsLang=en
+2024-05-19 13:50:38,938 - root - INFO - https://www.crownbio.com/databases/hubase?hsLang=en
+2024-05-19 13:50:38,938 - root - INFO - https://www.crownbio.com/databases/organoidbase?hsLang=en
+2024-05-19 13:50:38,938 - root - INFO - https://www.crownbio.com/crownlink-registration?hsLang=en
+2024-05-19 13:50:38,938 - root - INFO - https://www.crownbio.com/contact-us?hsLang=en
+2024-05-19 13:50:38,938 - root - INFO - mailto:sales@crownbio.com
+2024-05-19 13:50:38,938 - root - INFO - tel:+1%20858%20622%202900
+2024-05-19 13:50:38,938 - root - INFO - https://www.crownbio.com/contact-us?hsLang=en
+2024-05-19 13:50:38,938 - root - INFO - https://www.crownbio.com/contact-us/distributors?hsLang=en
+2024-05-19 13:50:38,938 - root - INFO - https://twitter.com/crownbioscience
+2024-05-19 13:50:38,938 - root - INFO - https://www.crownbio.com/?hsLang=en
+2024-05-19 13:50:38,938 - root - INFO - https://www.crownbio.com/privacy-policy/?hsLang=en
+2024-05-19 13:50:38,938 - root - INFO - https://twitter.com/crownbioscience
+2024-05-19 13:50:38,938 - root - INFO - https://www.crownbio.com/privacy-policy/?hsLang=en
+2024-05-19 13:50:38,938 - root - INFO - 
+=== Security Issues ===
+2024-05-19 13:50:38,939 - root - INFO - Report generated and saved to ./reports/report_20240519_135038.txt.

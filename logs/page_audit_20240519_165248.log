@@ -1,0 +1,88 @@
+2024-05-19 16:52:48,224 - root - INFO - Logging setup complete.
+2024-05-19 16:52:48,224 - root - INFO - Configuration loaded.
+2024-05-19 16:52:48,623 - root - INFO - WebDriver setup complete.
+2024-05-19 16:52:48,679 - root - INFO - Checking https://www.crownbio.com/ for issues...
+2024-05-19 16:52:51,716 - root - INFO - Extracted 0 trackers for pattern 'analytics.js'.
+2024-05-19 16:52:51,716 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 16:52:52,028 - root - INFO - Extracted 0 trackers for pattern 'gtag/js'.
+2024-05-19 16:52:52,029 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 16:52:52,333 - root - INFO - Extracted 0 trackers for pattern 'hs-scripts.com'.
+2024-05-19 16:52:52,333 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 16:52:52,644 - root - INFO - Extracted 0 trackers for pattern 'hotjar.com'.
+2024-05-19 16:52:52,644 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 16:52:52,962 - root - INFO - Extracted 0 trackers for pattern 'googletagmanager.com/gtm.js'.
+2024-05-19 16:52:52,962 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 16:52:52,962 - root - INFO - No duplicate tracking codes detected.
+2024-05-19 16:52:53,351 - root - INFO - Extracted 34 scripts.
+2024-05-19 16:52:53,355 - root - INFO - Checked JS versions: ['1.7.1'].
+2024-05-19 16:52:53,359 - root - INFO - Checked config issues: [].
+2024-05-19 16:52:53,364 - root - INFO - Checked analytics config issues: Analytics not found.
+2024-05-19 16:52:53,374 - root - INFO - Checked script tags: ['Facebook Pixel detected.'].
+2024-05-19 16:52:53,374 - root - INFO - Multiple jQuery versions found: 1.7.1
+2024-05-19 16:52:53,374 - root - INFO - Analytics not found
+2024-05-19 16:52:53,374 - root - INFO - Facebook Pixel detected.
+2024-05-19 16:52:53,678 - root - INFO - Extracted 25 inline scripts.
+2024-05-19 16:52:53,803 - root - INFO - Extracted 15 CSS files.
+2024-05-19 16:53:23,885 - root - INFO - Checked deprecated HTML issues: [].
+2024-05-19 16:53:23,886 - root - INFO - Performance metrics for https://www.crownbio.com/: {'load_time': '1.2s', 'first_contentful_paint': '0.8s', 'speed_index': '1.0s'}.
+2024-05-19 16:53:23,904 - root - INFO - Accessibility issues: ['Found 2 images without alt attributes'].
+2024-05-19 16:53:43,449 - root - INFO - Broken links: ['javascript:void(0)', 'tel:+1%20858%20622%202900', 'tel:+44%20870%20242%202900', 'javascript:;', 'https://www.crownbio.com/www.crownbio.com/model-systems/in-vitro/organoids/organoid-fibroblast-and-immune-cell-co-culture', 'https://tma.crownbio.com/', 'https://tma.crownbio.com/', 'https://tma.crownbio.com/', 'https://tma.crownbio.com/', 'javascript:;', 'javascript:;', 'mailto:sales@crownbio.com', 'tel:+1%20858%20622%202900', 'https://twitter.com/crownbioscience', 'https://twitter.com/crownbioscience'].
+2024-05-19 16:53:43,469 - root - INFO - Security issues: [].
+2024-05-19 16:53:43,469 - root - INFO - URL: https://www.crownbio.com/
+2024-05-19 16:53:43,469 - root - INFO - 
+=== Duplicate Trackers ===
+2024-05-19 16:53:43,469 - root - INFO - 
+=== Script Issues ===
+2024-05-19 16:53:43,469 - root - INFO - Multiple jQuery versions found: 1.7.1
+2024-05-19 16:53:43,469 - root - INFO - Analytics not found
+2024-05-19 16:53:43,469 - root - INFO - Facebook Pixel detected.
+2024-05-19 16:53:43,469 - root - INFO - 
+=== CSS Files ===
+2024-05-19 16:53:43,469 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/56644805417/1633282878067/WR_Crownbio_2021/Css/flags.min.css
+2024-05-19 16:53:43,469 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/module_assets/56644992881/1690908833500/module_56644992881_WR_Language_Selector_V1.min.css
+2024-05-19 16:53:43,469 - root - INFO - https://www.crownbio.com/hubfs/WRCrownbio2021%20Assets/SlickSlider/slick.css
+2024-05-19 16:53:43,469 - root - INFO - https://www.crownbio.com/hubfs/WRCrownbio2021%20Assets/SlickSlider/slick-theme.css
+2024-05-19 16:53:43,469 - root - INFO - https://cdn2.hubspot.net/hub/7052064/hub_generated/template_assets/1715974729680/hubspot/hubspot_default/shared/responsive/layout.min.css
+2024-05-19 16:53:43,469 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/3906898640/1569840645735/Coded_files/Custom/system/default/Hs_Default_Custom_Style.min.css
+2024-05-19 16:53:43,469 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/54467076641/1630669238287/WR_Crownbio_2021/Css/bootstrap.min.css
+2024-05-19 16:53:43,469 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/54467272486/1700179715827/WR_Crownbio_2021/Css/font-awesome.min.css
+2024-05-19 16:53:43,469 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/54466288002/1715791548300/WR_Crownbio_2021/Css/wr-crown-styles-2021.css
+2024-05-19 16:53:43,469 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/54467339402/1703683692589/WR_Crownbio_2021/Css/custom-menu.min.css
+2024-05-19 16:53:43,469 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/92813325824/1669219408694/WR_Crownbio_2021/Css/animate.min.css
+2024-05-19 16:53:43,469 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/101908743692/1678826534329/WR_Crownbio_2021/Css/custom-cookie-banner.min.css
+2024-05-19 16:53:43,469 - root - INFO - https://www.google.com/cse/static/element/8435450f13508ca1/default+en.css
+2024-05-19 16:53:43,469 - root - INFO - https://www.google.com/cse/static/style/look/v4/shiny.css
+2024-05-19 16:53:43,469 - root - INFO - https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap
+2024-05-19 16:53:43,469 - root - INFO - 
+=== Deprecated HTML ===
+2024-05-19 16:53:43,469 - root - INFO - 
+=== Performance Metrics ===
+2024-05-19 16:53:43,469 - root - INFO - load_time: 1.2s
+2024-05-19 16:53:43,469 - root - INFO - first_contentful_paint: 0.8s
+2024-05-19 16:53:43,469 - root - INFO - speed_index: 1.0s
+2024-05-19 16:53:43,470 - root - INFO - 
+=== SEO Issues ===
+2024-05-19 16:53:43,470 - root - INFO - 
+=== Accessibility Issues ===
+2024-05-19 16:53:43,470 - root - INFO - Found 2 images without alt attributes
+2024-05-19 16:53:43,470 - root - INFO - 
+=== Broken Links ===
+2024-05-19 16:53:43,470 - root - INFO - javascript:void(0)
+2024-05-19 16:53:43,470 - root - INFO - tel:+1%20858%20622%202900
+2024-05-19 16:53:43,470 - root - INFO - tel:+44%20870%20242%202900
+2024-05-19 16:53:43,470 - root - INFO - javascript:;
+2024-05-19 16:53:43,470 - root - INFO - https://www.crownbio.com/www.crownbio.com/model-systems/in-vitro/organoids/organoid-fibroblast-and-immune-cell-co-culture
+2024-05-19 16:53:43,470 - root - INFO - https://tma.crownbio.com/
+2024-05-19 16:53:43,470 - root - INFO - https://tma.crownbio.com/
+2024-05-19 16:53:43,470 - root - INFO - https://tma.crownbio.com/
+2024-05-19 16:53:43,470 - root - INFO - https://tma.crownbio.com/
+2024-05-19 16:53:43,470 - root - INFO - javascript:;
+2024-05-19 16:53:43,470 - root - INFO - javascript:;
+2024-05-19 16:53:43,470 - root - INFO - mailto:sales@crownbio.com
+2024-05-19 16:53:43,470 - root - INFO - tel:+1%20858%20622%202900
+2024-05-19 16:53:43,470 - root - INFO - https://twitter.com/crownbioscience
+2024-05-19 16:53:43,470 - root - INFO - https://twitter.com/crownbioscience
+2024-05-19 16:53:43,470 - root - INFO - 
+=== Security Issues ===
+2024-05-19 16:53:43,471 - root - INFO - Report generated and saved to ./reports/report_20240519_165343.txt.
+2024-05-19 16:53:43,471 - root - INFO - Inline scripts saved to ./reports/report_20240519_165343_inline_scripts.txt.

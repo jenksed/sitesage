@@ -1,0 +1,281 @@
+2024-05-19 13:51:13,177 - root - INFO - Logging setup complete.
+2024-05-19 13:51:13,177 - root - INFO - Configuration loaded.
+2024-05-19 13:51:13,555 - root - INFO - WebDriver setup complete.
+2024-05-19 13:51:13,570 - root - INFO - Checking https://www.crownbio.com/ for issues...
+2024-05-19 13:51:16,326 - root - INFO - Extracted 0 trackers for pattern 'analytics.js'.
+2024-05-19 13:51:16,326 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:51:16,630 - root - INFO - Extracted 0 trackers for pattern 'gtag/js'.
+2024-05-19 13:51:16,630 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:51:16,926 - root - INFO - Extracted 0 trackers for pattern 'hs-scripts.com'.
+2024-05-19 13:51:16,926 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:51:17,376 - root - INFO - Extracted 0 trackers for pattern 'hotjar.com'.
+2024-05-19 13:51:17,376 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:51:17,795 - root - INFO - Extracted 0 trackers for pattern 'googletagmanager.com/gtm.js'.
+2024-05-19 13:51:17,795 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:51:17,795 - root - INFO - No duplicate tracking codes detected.
+2024-05-19 13:51:18,096 - root - INFO - Extracted 34 scripts.
+2024-05-19 13:51:18,098 - root - INFO - Checked JS versions: ['1.7.1'].
+2024-05-19 13:51:18,102 - root - INFO - Checked config issues: [].
+2024-05-19 13:51:18,106 - root - INFO - Checked analytics config issues: Analytics not found.
+2024-05-19 13:51:18,114 - root - INFO - Checked script tags: ['Facebook Pixel detected.'].
+2024-05-19 13:51:18,114 - root - INFO - Multiple jQuery versions found: 1.7.1
+2024-05-19 13:51:18,114 - root - INFO - Analytics not found
+2024-05-19 13:51:18,114 - root - INFO - Facebook Pixel detected.
+2024-05-19 13:51:18,396 - root - INFO - Extracted 25 inline scripts.
+2024-05-19 13:51:18,535 - root - INFO - Extracted 15 CSS files.
+2024-05-19 13:51:48,673 - root - INFO - Checked deprecated HTML issues: [].
+2024-05-19 13:51:48,674 - root - INFO - Performance metrics for https://www.crownbio.com/: {'load_time': '1.2s', 'first_contentful_paint': '0.8s', 'speed_index': '1.0s'}.
+2024-05-19 13:51:58,730 - root - INFO - SEO issues: ['Missing H1 tag'].
+2024-05-19 13:51:58,736 - root - INFO - Accessibility issues: ['Found 2 images without alt attributes'].
+2024-05-19 13:52:00,213 - root - INFO - Checking https://www.crownbio.com/resources for issues...
+2024-05-19 13:52:01,314 - root - INFO - Extracted 0 trackers for pattern 'analytics.js'.
+2024-05-19 13:52:01,314 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:52:01,516 - root - INFO - Extracted 0 trackers for pattern 'gtag/js'.
+2024-05-19 13:52:01,516 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:52:01,708 - root - INFO - Extracted 0 trackers for pattern 'hs-scripts.com'.
+2024-05-19 13:52:01,708 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:52:01,923 - root - INFO - Extracted 0 trackers for pattern 'hotjar.com'.
+2024-05-19 13:52:01,923 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:52:02,169 - root - INFO - Extracted 0 trackers for pattern 'googletagmanager.com/gtm.js'.
+2024-05-19 13:52:02,169 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:52:02,169 - root - INFO - No duplicate tracking codes detected.
+2024-05-19 13:52:02,437 - root - INFO - Extracted 32 scripts.
+2024-05-19 13:52:02,441 - root - INFO - Checked JS versions: ['1.7.1'].
+2024-05-19 13:52:02,443 - root - INFO - Checked config issues: [].
+2024-05-19 13:52:02,445 - root - INFO - Checked analytics config issues: Analytics not found.
+2024-05-19 13:52:02,453 - root - INFO - Checked script tags: ['Facebook Pixel detected.'].
+2024-05-19 13:52:02,453 - root - INFO - Multiple jQuery versions found: 1.7.1
+2024-05-19 13:52:02,453 - root - INFO - Analytics not found
+2024-05-19 13:52:02,453 - root - INFO - Facebook Pixel detected.
+2024-05-19 13:52:02,630 - root - INFO - Extracted 19 inline scripts.
+2024-05-19 13:52:02,711 - root - INFO - Extracted 12 CSS files.
+2024-05-19 13:52:32,786 - root - INFO - Checked deprecated HTML issues: [].
+2024-05-19 13:52:32,787 - root - INFO - Performance metrics for https://www.crownbio.com/resources: {'load_time': '1.2s', 'first_contentful_paint': '0.8s', 'speed_index': '1.0s'}.
+2024-05-19 13:52:32,801 - root - INFO - SEO issues: [].
+2024-05-19 13:52:32,804 - root - INFO - Accessibility issues: ['Found 2 images without alt attributes'].
+2024-05-19 13:53:04,996 - root - INFO - Broken links: ['https://www.crownbio.com/privacy-policy', 'javascript:void(0)', 'tel:+1%20858%20622%202900', 'tel:+44%20870%20242%202900', 'https://www.crownbio.com/contact-us?hsLang=en', 'https://www.crownbio.com/?hsLang=en', 'javascript:;', 'https://www.crownbio.com/www.crownbio.com/model-systems/in-vitro/organoids/organoid-fibroblast-and-immune-cell-co-culture', 'https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis', 'https://www.crownbio.com/model-systems/in-vivo/cell-line-derived-cdx-tumor-models', 'https://www.crownbio.com/therapeutic-areas/cystopathic-diseases', 'https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/polycystic-kidney-disease', 'https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis', 'https://www.crownbio.com/model-systems/in-vitro/hucell', 'https://www.crownbio.com/technologies/crispr-cas9-gene-editing', 'https://www.crownbio.com/model-systems/in-vitro/organoids/organoid-and-immune-cell-co-culture', 'https://www.crownbio.com/technologies/in-vitro-imaging', 'https://www.crownbio.com/technologies/in-vitro-imaging/high-content-imaging', 'https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis', 'https://www.crownbio.com/model-systems/in-vivo/immune-mediated-inflammatory-disease-models', 'https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/rodent-models', 'https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/ms-models', 'https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/ms-nash-mouse-model', 'https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/peritonitis-models', 'https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/rheumatoid-arthritis', 'https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/sle-models', 'https://www.crownbio.com/technologies/biomarker-analysis/clinical-chemistry-services', 'https://tma.crownbio.com/', 'https://www.crownbio.com/technologies/biomarker-analysis/proteomics', 'https://www.crownbio.com/technologies/biomarker-analysis/proteomics/4d-dia-quantitative-proteomics', 'https://www.crownbio.com/technologies/in-vitro-imaging/3d-ex-vivo-patient-tissue-platform', 'https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis', 'https://www.crownbio.com/service-type/biomarker-discovery', 'https://www.crownbio.com/service-type/biomarker-discovery/husignature', 'https://www.crownbio.com/service-type/dmpk-services', 'https://tma.crownbio.com/', 'https://tma.crownbio.com/', 'https://tma.crownbio.com/', 'https://www.crownbio.com/service-type/laboratory-services/bioanalytical-services', 'https://www.crownbio.com/technologies/biomarker-analysis/clinical-chemistry-services', 'https://www.crownbio.com/service-type/pharmacology-and-bioanalytical-services/safety-pharmacology-studies', 'https://www.crownbio.com/service-type/pharmacology-and-bioanalytical-services/rodent-immuno-safety-models', 'javascript:;', 'javascript:;', 'https://www.crownbio.com/webinar-large-scale-organoid-panel-screening-revolutionizing-oncology-drug-discovery?hsLang=en', 'https://www.crownbio.com/hubfs/Assets2023/Crown-Bioscience-Factsheet-HF-Ultrasound.pdf?hsLang=en', 'https://www.crownbio.com/white-paper/pretreated-patient-derived-xenograft-models?hsLang=en', 'https://www.crownbio.com/white-paper/pretreated-patient-derived-xenograft-models?hsLang=en', 'https://www.crownbio.com/resources/ebook/new-technologies-tools-and-trends-for-cancer-immunotherapy-research?hsLang=en', 'https://www.crownbio.com/resources/ebook/new-technologies-tools-and-trends-for-cancer-immunotherapy-research?hsLang=en', 'https://www.crownbio.com/webinar-four-step-preclinical-strategy-to-tackle-cancer-drug-resistance?hsLang=en', 'https://www.crownbio.com/webinar-four-step-preclinical-strategy-to-tackle-cancer-drug-resistance?hsLang=en', 'https://blog.crownbio.com/organoidxplore-routine-and-rapid-compound-testing-in-a-large-panel-of-organoids?hsLang=en', 'https://www.crownbio.com/contact-us?hsLang=en', 'https://www.crownbio.com/about-us/our-journey?hsLang=en', 'https://www.crownbio.com/about-us/our-company/?hsLang=en', 'https://www.crownbio.com/about-us/our-purpose/?hsLang=en', 'https://www.crownbio.com/about-us/our-responsibility?hsLang=en', 'https://www.crownbio.com/about-us/leadership-team?hsLang=en', 'https://www.crownbio.com/about-us/news-and-events?hsLang=en', 'https://www.crownbio.com/about-us/jsr-life-sciences?hsLang=en', 'https://www.crownbio.com/therapeutic-areas?hsLang=en', 'https://www.crownbio.com/model-systems?hsLang=en', 'https://www.crownbio.com/technologies?hsLang=en', 'https://www.crownbio.com/service-type?hsLang=en', 'https://www.crownbio.com/resources?hsLang=en', 'https://www.crownbio.com/models?hsLang=en', 'https://www.crownbio.com/publications?hsLang=en', 'https://www.crownbio.com/resources/listing?hsLang=en#rescat-factsheets', 'https://www.crownbio.com/resources/listing?hsLang=en#rescat-whitepapers', 'https://www.crownbio.com/resources/listing?hsLang=en#rescat-ebooks', 'https://www.crownbio.com/resources/listing?hsLang=en#rescat-webinars', 'https://www.crownbio.com/resources/listing?hsLang=en#rescat-ebooks', 'https://www.crownbio.com/databases?hsLang=en', 'https://www.crownbio.com/databases/oncoexpress?hsLang=en', 'https://www.crownbio.com/databases/xenobase?hsLang=en', 'https://www.crownbio.com/databases/mubase?hsLang=en', 'https://www.crownbio.com/databases/hubase?hsLang=en', 'https://www.crownbio.com/databases/organoidbase?hsLang=en', 'https://www.crownbio.com/crownlink-registration?hsLang=en', 'https://www.crownbio.com/contact-us?hsLang=en', 'mailto:sales@crownbio.com', 'tel:+1%20858%20622%202900', 'https://www.crownbio.com/contact-us?hsLang=en', 'https://www.crownbio.com/contact-us/distributors?hsLang=en', 'https://twitter.com/crownbioscience', 'https://www.crownbio.com/?hsLang=en', 'https://www.crownbio.com/privacy-policy/?hsLang=en', 'https://twitter.com/crownbioscience', 'https://www.crownbio.com/privacy-policy/?hsLang=en'].
+2024-05-19 13:53:05,013 - root - INFO - Security issues: [].
+2024-05-19 13:53:05,014 - root - INFO - URL: https://www.crownbio.com/
+2024-05-19 13:53:05,014 - root - INFO - 
+=== Duplicate Trackers ===
+2024-05-19 13:53:05,014 - root - INFO - 
+=== Script Issues ===
+2024-05-19 13:53:05,014 - root - INFO - Multiple jQuery versions found: 1.7.1
+2024-05-19 13:53:05,014 - root - INFO - Analytics not found
+2024-05-19 13:53:05,014 - root - INFO - Facebook Pixel detected.
+2024-05-19 13:53:05,014 - root - INFO - 
+=== Inline Scripts ===
+2024-05-19 13:53:05,014 - root - INFO - See ./reports/report_20240519_135305_inline_scripts.txt for details.
+2024-05-19 13:53:05,014 - root - INFO - 
+=== CSS Files ===
+2024-05-19 13:53:05,014 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/56644805417/1633282878067/WR_Crownbio_2021/Css/flags.min.css
+2024-05-19 13:53:05,014 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/module_assets/56644992881/1690908833500/module_56644992881_WR_Language_Selector_V1.min.css
+2024-05-19 13:53:05,014 - root - INFO - https://www.crownbio.com/hubfs/WRCrownbio2021%20Assets/SlickSlider/slick.css
+2024-05-19 13:53:05,014 - root - INFO - https://www.crownbio.com/hubfs/WRCrownbio2021%20Assets/SlickSlider/slick-theme.css
+2024-05-19 13:53:05,014 - root - INFO - https://cdn2.hubspot.net/hub/7052064/hub_generated/template_assets/1715974729680/hubspot/hubspot_default/shared/responsive/layout.min.css
+2024-05-19 13:53:05,014 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/3906898640/1569840645735/Coded_files/Custom/system/default/Hs_Default_Custom_Style.min.css
+2024-05-19 13:53:05,014 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/54467076641/1630669238287/WR_Crownbio_2021/Css/bootstrap.min.css
+2024-05-19 13:53:05,014 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/54467272486/1700179715827/WR_Crownbio_2021/Css/font-awesome.min.css
+2024-05-19 13:53:05,014 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/54466288002/1715791548300/WR_Crownbio_2021/Css/wr-crown-styles-2021.css
+2024-05-19 13:53:05,014 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/54467339402/1703683692589/WR_Crownbio_2021/Css/custom-menu.min.css
+2024-05-19 13:53:05,014 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/92813325824/1669219408694/WR_Crownbio_2021/Css/animate.min.css
+2024-05-19 13:53:05,014 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/101908743692/1678826534329/WR_Crownbio_2021/Css/custom-cookie-banner.min.css
+2024-05-19 13:53:05,014 - root - INFO - https://www.google.com/cse/static/element/8435450f13508ca1/default+en.css
+2024-05-19 13:53:05,014 - root - INFO - https://www.google.com/cse/static/style/look/v4/shiny.css
+2024-05-19 13:53:05,014 - root - INFO - https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap
+2024-05-19 13:53:05,014 - root - INFO - 
+=== Deprecated HTML ===
+2024-05-19 13:53:05,014 - root - INFO - 
+=== Performance Metrics ===
+2024-05-19 13:53:05,014 - root - INFO - load_time: 1.2s
+2024-05-19 13:53:05,014 - root - INFO - first_contentful_paint: 0.8s
+2024-05-19 13:53:05,014 - root - INFO - speed_index: 1.0s
+2024-05-19 13:53:05,014 - root - INFO - 
+=== SEO Issues ===
+2024-05-19 13:53:05,014 - root - INFO - Missing H1 tag
+2024-05-19 13:53:05,014 - root - INFO - 
+=== Accessibility Issues ===
+2024-05-19 13:53:05,014 - root - INFO - Found 2 images without alt attributes
+2024-05-19 13:53:05,014 - root - INFO - 
+=== Broken Links ===
+2024-05-19 13:53:05,014 - root - INFO - https://www.crownbio.com/privacy-policy
+2024-05-19 13:53:05,014 - root - INFO - javascript:void(0)
+2024-05-19 13:53:05,014 - root - INFO - tel:+1%20858%20622%202900
+2024-05-19 13:53:05,014 - root - INFO - tel:+44%20870%20242%202900
+2024-05-19 13:53:05,014 - root - INFO - https://www.crownbio.com/contact-us?hsLang=en
+2024-05-19 13:53:05,014 - root - INFO - https://www.crownbio.com/?hsLang=en
+2024-05-19 13:53:05,014 - root - INFO - javascript:;
+2024-05-19 13:53:05,014 - root - INFO - https://www.crownbio.com/www.crownbio.com/model-systems/in-vitro/organoids/organoid-fibroblast-and-immune-cell-co-culture
+2024-05-19 13:53:05,014 - root - INFO - https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis
+2024-05-19 13:53:05,014 - root - INFO - https://www.crownbio.com/model-systems/in-vivo/cell-line-derived-cdx-tumor-models
+2024-05-19 13:53:05,014 - root - INFO - https://www.crownbio.com/therapeutic-areas/cystopathic-diseases
+2024-05-19 13:53:05,014 - root - INFO - https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/polycystic-kidney-disease
+2024-05-19 13:53:05,014 - root - INFO - https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis
+2024-05-19 13:53:05,014 - root - INFO - https://www.crownbio.com/model-systems/in-vitro/hucell
+2024-05-19 13:53:05,014 - root - INFO - https://www.crownbio.com/technologies/crispr-cas9-gene-editing
+2024-05-19 13:53:05,014 - root - INFO - https://www.crownbio.com/model-systems/in-vitro/organoids/organoid-and-immune-cell-co-culture
+2024-05-19 13:53:05,014 - root - INFO - https://www.crownbio.com/technologies/in-vitro-imaging
+2024-05-19 13:53:05,014 - root - INFO - https://www.crownbio.com/technologies/in-vitro-imaging/high-content-imaging
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/model-systems/in-vivo/immune-mediated-inflammatory-disease-models
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/rodent-models
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/ms-models
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/ms-nash-mouse-model
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/peritonitis-models
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/rheumatoid-arthritis
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/sle-models
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/technologies/biomarker-analysis/clinical-chemistry-services
+2024-05-19 13:53:05,015 - root - INFO - https://tma.crownbio.com/
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/technologies/biomarker-analysis/proteomics
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/technologies/biomarker-analysis/proteomics/4d-dia-quantitative-proteomics
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/technologies/in-vitro-imaging/3d-ex-vivo-patient-tissue-platform
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/service-type/biomarker-discovery
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/service-type/biomarker-discovery/husignature
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/service-type/dmpk-services
+2024-05-19 13:53:05,015 - root - INFO - https://tma.crownbio.com/
+2024-05-19 13:53:05,015 - root - INFO - https://tma.crownbio.com/
+2024-05-19 13:53:05,015 - root - INFO - https://tma.crownbio.com/
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/service-type/laboratory-services/bioanalytical-services
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/technologies/biomarker-analysis/clinical-chemistry-services
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/service-type/pharmacology-and-bioanalytical-services/safety-pharmacology-studies
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/service-type/pharmacology-and-bioanalytical-services/rodent-immuno-safety-models
+2024-05-19 13:53:05,015 - root - INFO - javascript:;
+2024-05-19 13:53:05,015 - root - INFO - javascript:;
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/webinar-large-scale-organoid-panel-screening-revolutionizing-oncology-drug-discovery?hsLang=en
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/hubfs/Assets2023/Crown-Bioscience-Factsheet-HF-Ultrasound.pdf?hsLang=en
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/white-paper/pretreated-patient-derived-xenograft-models?hsLang=en
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/white-paper/pretreated-patient-derived-xenograft-models?hsLang=en
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/resources/ebook/new-technologies-tools-and-trends-for-cancer-immunotherapy-research?hsLang=en
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/resources/ebook/new-technologies-tools-and-trends-for-cancer-immunotherapy-research?hsLang=en
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/webinar-four-step-preclinical-strategy-to-tackle-cancer-drug-resistance?hsLang=en
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/webinar-four-step-preclinical-strategy-to-tackle-cancer-drug-resistance?hsLang=en
+2024-05-19 13:53:05,015 - root - INFO - https://blog.crownbio.com/organoidxplore-routine-and-rapid-compound-testing-in-a-large-panel-of-organoids?hsLang=en
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/contact-us?hsLang=en
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/about-us/our-journey?hsLang=en
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/about-us/our-company/?hsLang=en
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/about-us/our-purpose/?hsLang=en
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/about-us/our-responsibility?hsLang=en
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/about-us/leadership-team?hsLang=en
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/about-us/news-and-events?hsLang=en
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/about-us/jsr-life-sciences?hsLang=en
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/therapeutic-areas?hsLang=en
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/model-systems?hsLang=en
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/technologies?hsLang=en
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/service-type?hsLang=en
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/resources?hsLang=en
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/models?hsLang=en
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/publications?hsLang=en
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/resources/listing?hsLang=en#rescat-factsheets
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/resources/listing?hsLang=en#rescat-whitepapers
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/resources/listing?hsLang=en#rescat-ebooks
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/resources/listing?hsLang=en#rescat-webinars
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/resources/listing?hsLang=en#rescat-ebooks
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/databases?hsLang=en
+2024-05-19 13:53:05,015 - root - INFO - https://www.crownbio.com/databases/oncoexpress?hsLang=en
+2024-05-19 13:53:05,016 - root - INFO - https://www.crownbio.com/databases/xenobase?hsLang=en
+2024-05-19 13:53:05,016 - root - INFO - https://www.crownbio.com/databases/mubase?hsLang=en
+2024-05-19 13:53:05,016 - root - INFO - https://www.crownbio.com/databases/hubase?hsLang=en
+2024-05-19 13:53:05,016 - root - INFO - https://www.crownbio.com/databases/organoidbase?hsLang=en
+2024-05-19 13:53:05,016 - root - INFO - https://www.crownbio.com/crownlink-registration?hsLang=en
+2024-05-19 13:53:05,016 - root - INFO - https://www.crownbio.com/contact-us?hsLang=en
+2024-05-19 13:53:05,016 - root - INFO - mailto:sales@crownbio.com
+2024-05-19 13:53:05,016 - root - INFO - tel:+1%20858%20622%202900
+2024-05-19 13:53:05,016 - root - INFO - https://www.crownbio.com/contact-us?hsLang=en
+2024-05-19 13:53:05,016 - root - INFO - https://www.crownbio.com/contact-us/distributors?hsLang=en
+2024-05-19 13:53:05,016 - root - INFO - https://twitter.com/crownbioscience
+2024-05-19 13:53:05,016 - root - INFO - https://www.crownbio.com/?hsLang=en
+2024-05-19 13:53:05,016 - root - INFO - https://www.crownbio.com/privacy-policy/?hsLang=en
+2024-05-19 13:53:05,016 - root - INFO - https://twitter.com/crownbioscience
+2024-05-19 13:53:05,016 - root - INFO - https://www.crownbio.com/privacy-policy/?hsLang=en
+2024-05-19 13:53:05,016 - root - INFO - 
+=== Security Issues ===
+2024-05-19 13:53:05,017 - root - INFO - Report generated and saved to ./reports/report_20240519_135305.txt.
+2024-05-19 13:53:05,017 - root - INFO - Inline scripts saved to ./reports/report_20240519_135305_inline_scripts.txt.
+2024-05-19 13:53:05,546 - root - INFO - Broken links: ['javascript:void(0)', 'tel:+1%20858%20622%202900', 'tel:+44%20870%20242%202900', 'javascript:;', 'https://www.crownbio.com/www.crownbio.com/model-systems/in-vitro/organoids/organoid-fibroblast-and-immune-cell-co-culture', 'https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/polycystic-kidney-disease', 'https://www.crownbio.com/model-systems/in-vivo/muprime', 'https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/rodent-models', 'https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/inflammatory-bowel-disease', 'https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/ms-nash-mouse-model', 'https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/peritonitis-models', 'https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/sle-models', 'https://www.crownbio.com/technologies', 'https://www.crownbio.com/technologies/biomarker-analysis/clinical-chemistry-services', 'https://www.crownbio.com/technologies/biomarker-analysis/digital-pathology', 'https://tma.crownbio.com/', 'https://www.crownbio.com/technologies/biomarker-analysis/rare-cell-analysis', 'https://www.crownbio.com/technologies/biomarker-analysis/proteomics/4d-dia-quantitative-proteomics', 'https://www.crownbio.com/technologies/genomics/mouse-io-rna-seq-panel', 'https://www.crownbio.com/technologies/in-vitro-imaging/3d-ex-vivo-patient-tissue-platform', 'https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis', 'https://www.crownbio.com/service-type/biomarker-discovery/hutrial', 'https://tma.crownbio.com/', 'https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis', 'https://tma.crownbio.com/', 'https://tma.crownbio.com/', 'https://www.crownbio.com/technologies/biomarker-analysis/clinical-chemistry-services', 'javascript:;', 'https://www.crownbio.com/about-us/our-journey', 'https://www.crownbio.com/about-us/our-company', 'https://www.crownbio.com/about-us/our-purpose', 'javascript:;', 'https://www.crownbio.com/resources?hsLang=en', 'javascript:void(0)', 'https://www.crownbio.com/resources/listing#rescat-factsheets', 'https://www.crownbio.com/resources/listing#rescat-onwebinars', 'https://www.crownbio.com/resources', 'https://www.crownbio.com/databases/oncoexpress?hsLang=en', 'mailto:sales@crownbio.com', 'tel:+1%20858%20622%202900', 'https://twitter.com/crownbioscience', 'https://twitter.com/crownbioscience'].
+2024-05-19 13:53:05,557 - root - INFO - Security issues: [].
+2024-05-19 13:53:05,557 - root - INFO - URL: https://www.crownbio.com/resources
+2024-05-19 13:53:05,557 - root - INFO - 
+=== Duplicate Trackers ===
+2024-05-19 13:53:05,557 - root - INFO - 
+=== Script Issues ===
+2024-05-19 13:53:05,557 - root - INFO - Multiple jQuery versions found: 1.7.1
+2024-05-19 13:53:05,557 - root - INFO - Analytics not found
+2024-05-19 13:53:05,557 - root - INFO - Facebook Pixel detected.
+2024-05-19 13:53:05,557 - root - INFO - 
+=== Inline Scripts ===
+2024-05-19 13:53:05,557 - root - INFO - See ./reports/report_20240519_135305_inline_scripts.txt for details.
+2024-05-19 13:53:05,557 - root - INFO - 
+=== CSS Files ===
+2024-05-19 13:53:05,557 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/56644805417/1633282878067/WR_Crownbio_2021/Css/flags.min.css
+2024-05-19 13:53:05,557 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/module_assets/56644992881/1690908833500/module_56644992881_WR_Language_Selector_V1.min.css
+2024-05-19 13:53:05,557 - root - INFO - https://cdn2.hubspot.net/hub/7052064/hub_generated/template_assets/1715974729680/hubspot/hubspot_default/shared/responsive/layout.min.css
+2024-05-19 13:53:05,557 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/3906898640/1569840645735/Coded_files/Custom/system/default/Hs_Default_Custom_Style.min.css
+2024-05-19 13:53:05,557 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/54467076641/1630669238287/WR_Crownbio_2021/Css/bootstrap.min.css
+2024-05-19 13:53:05,557 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/54467272486/1700179715827/WR_Crownbio_2021/Css/font-awesome.min.css
+2024-05-19 13:53:05,557 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/54466288002/1715791548300/WR_Crownbio_2021/Css/wr-crown-styles-2021.css
+2024-05-19 13:53:05,557 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/54467339402/1703683692589/WR_Crownbio_2021/Css/custom-menu.min.css
+2024-05-19 13:53:05,557 - root - INFO - https://www.crownbio.com/hs-fs/hub/1933423/hub_generated/template_assets/101908743692/1678826534329/WR_Crownbio_2021/Css/custom-cookie-banner.min.css
+2024-05-19 13:53:05,557 - root - INFO - https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap
+2024-05-19 13:53:05,557 - root - INFO - https://www.google.com/cse/static/element/8435450f13508ca1/default+en.css
+2024-05-19 13:53:05,557 - root - INFO - https://www.google.com/cse/static/style/look/v4/shiny.css
+2024-05-19 13:53:05,557 - root - INFO - 
+=== Deprecated HTML ===
+2024-05-19 13:53:05,557 - root - INFO - 
+=== Performance Metrics ===
+2024-05-19 13:53:05,557 - root - INFO - load_time: 1.2s
+2024-05-19 13:53:05,557 - root - INFO - first_contentful_paint: 0.8s
+2024-05-19 13:53:05,557 - root - INFO - speed_index: 1.0s
+2024-05-19 13:53:05,558 - root - INFO - 
+=== SEO Issues ===
+2024-05-19 13:53:05,558 - root - INFO - 
+=== Accessibility Issues ===
+2024-05-19 13:53:05,558 - root - INFO - Found 2 images without alt attributes
+2024-05-19 13:53:05,558 - root - INFO - 
+=== Broken Links ===
+2024-05-19 13:53:05,558 - root - INFO - javascript:void(0)
+2024-05-19 13:53:05,558 - root - INFO - tel:+1%20858%20622%202900
+2024-05-19 13:53:05,558 - root - INFO - tel:+44%20870%20242%202900
+2024-05-19 13:53:05,558 - root - INFO - javascript:;
+2024-05-19 13:53:05,558 - root - INFO - https://www.crownbio.com/www.crownbio.com/model-systems/in-vitro/organoids/organoid-fibroblast-and-immune-cell-co-culture
+2024-05-19 13:53:05,558 - root - INFO - https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/polycystic-kidney-disease
+2024-05-19 13:53:05,558 - root - INFO - https://www.crownbio.com/model-systems/in-vivo/muprime
+2024-05-19 13:53:05,558 - root - INFO - https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/rodent-models
+2024-05-19 13:53:05,558 - root - INFO - https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/inflammatory-bowel-disease
+2024-05-19 13:53:05,558 - root - INFO - https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/ms-nash-mouse-model
+2024-05-19 13:53:05,558 - root - INFO - https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/peritonitis-models
+2024-05-19 13:53:05,558 - root - INFO - https://www.crownbio.com/model-systems/in-vivo/specialist-disease-models/sle-models
+2024-05-19 13:53:05,558 - root - INFO - https://www.crownbio.com/technologies
+2024-05-19 13:53:05,558 - root - INFO - https://www.crownbio.com/technologies/biomarker-analysis/clinical-chemistry-services
+2024-05-19 13:53:05,558 - root - INFO - https://www.crownbio.com/technologies/biomarker-analysis/digital-pathology
+2024-05-19 13:53:05,558 - root - INFO - https://tma.crownbio.com/
+2024-05-19 13:53:05,558 - root - INFO - https://www.crownbio.com/technologies/biomarker-analysis/rare-cell-analysis
+2024-05-19 13:53:05,558 - root - INFO - https://www.crownbio.com/technologies/biomarker-analysis/proteomics/4d-dia-quantitative-proteomics
+2024-05-19 13:53:05,558 - root - INFO - https://www.crownbio.com/technologies/genomics/mouse-io-rna-seq-panel
+2024-05-19 13:53:05,558 - root - INFO - https://www.crownbio.com/technologies/in-vitro-imaging/3d-ex-vivo-patient-tissue-platform
+2024-05-19 13:53:05,558 - root - INFO - https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis
+2024-05-19 13:53:05,558 - root - INFO - https://www.crownbio.com/service-type/biomarker-discovery/hutrial
+2024-05-19 13:53:05,558 - root - INFO - https://tma.crownbio.com/
+2024-05-19 13:53:05,558 - root - INFO - https://www.crownbio.com/therapeutic-areas/cystopathic-diseases/3d-patient-derived-swelling-assay-for-cystic-fibrosis
+2024-05-19 13:53:05,558 - root - INFO - https://tma.crownbio.com/
+2024-05-19 13:53:05,558 - root - INFO - https://tma.crownbio.com/
+2024-05-19 13:53:05,558 - root - INFO - https://www.crownbio.com/technologies/biomarker-analysis/clinical-chemistry-services
+2024-05-19 13:53:05,558 - root - INFO - javascript:;
+2024-05-19 13:53:05,558 - root - INFO - https://www.crownbio.com/about-us/our-journey
+2024-05-19 13:53:05,558 - root - INFO - https://www.crownbio.com/about-us/our-company
+2024-05-19 13:53:05,558 - root - INFO - https://www.crownbio.com/about-us/our-purpose
+2024-05-19 13:53:05,558 - root - INFO - javascript:;
+2024-05-19 13:53:05,558 - root - INFO - https://www.crownbio.com/resources?hsLang=en
+2024-05-19 13:53:05,558 - root - INFO - javascript:void(0)
+2024-05-19 13:53:05,558 - root - INFO - https://www.crownbio.com/resources/listing#rescat-factsheets
+2024-05-19 13:53:05,558 - root - INFO - https://www.crownbio.com/resources/listing#rescat-onwebinars
+2024-05-19 13:53:05,558 - root - INFO - https://www.crownbio.com/resources
+2024-05-19 13:53:05,559 - root - INFO - https://www.crownbio.com/databases/oncoexpress?hsLang=en
+2024-05-19 13:53:05,559 - root - INFO - mailto:sales@crownbio.com
+2024-05-19 13:53:05,559 - root - INFO - tel:+1%20858%20622%202900
+2024-05-19 13:53:05,559 - root - INFO - https://twitter.com/crownbioscience
+2024-05-19 13:53:05,559 - root - INFO - https://twitter.com/crownbioscience
+2024-05-19 13:53:05,559 - root - INFO - 
+=== Security Issues ===
+2024-05-19 13:53:05,560 - root - INFO - Report generated and saved to ./reports/report_20240519_135305.txt.
+2024-05-19 13:53:05,560 - root - INFO - Inline scripts saved to ./reports/report_20240519_135305_inline_scripts.txt.

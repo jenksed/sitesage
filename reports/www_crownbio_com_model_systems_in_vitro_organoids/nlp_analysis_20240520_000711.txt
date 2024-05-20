@@ -1,0 +1,363 @@
+URL: https://www.crownbio.com/model-systems/in-vitro/organoids
+
+=== Text Sentences ===
+We Value Your PrivacyThis website stores cookies on your computer.
+These cookies are used to collect information about how you interact with our website and allow us to remember you.
+We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media.
+To find out more about the cookies we use, see our Privacy Policy
+If you decline, your information won’t be tracked when you visit this website.
+A single cookie will be used in your browser to remember your preference not to be tracked.
+
+Cookies and Tracking settings
+Accept
+Decline
+Contact Us
+Databases
+CrownLink
+Search
+English
+Services
+About Us
+Our Science
+MODEL SYSTEMS
+IN VITRO
+ORGANOIDS
+Organoids for Oncology Drug Development
+Preclinical oncology drug development and validation services using tumor organoids and the HUB tumor organoid biobank.
+
+Progress Oncology Drug Development with Organoids Developed using HUB Protocols
+  Make use of the great translatability of our 3D organoid models which show unprecedented patient response predictivity.
+Benefit from faster development and enhanced scalability of organoids.
+Model and mirror patient population diversity via screening multiple tumor organoid models simultaneously, and access both tumor and healthy organoids to evaluate in vitro data with clinically relevant drug potency and efficacy as well as off target effects.
+
+FEATURES
+APPLICATIONS
+STUDY OPTIONS
+Features
+ Proprietary culture methods: Highly refined culture methods developed using Clevers Lab HUB’s protocols via exclusive partnerships, providing proprietary services
+Varied indications: Multiple organoids available for over 20 organ and tissue types
+Amenable to genetic perturbation via gene editing techniques such as RNA interference or CRISPR/Cas to identify and validate biological targets and discover mechanistic biomarkers
+Maximizing the efficiency of the organoid platform with powerful imaging technology to penetrate the 3D structure and visualize the dynamic interplay of cells and their response to drug candidates.
+  
+Matched models: Paired in vitro PDXO and in vivo PDX models provide improved predictivity and a more rapid and informed study transition
+Clinically relevant models:
+Harnessing ASCs either directly from patients (PDOs) or from xenograft tissue (PDXOs) to recapitulate the complex architecture of in vivo tissue.
+Unlimited expansion for large-scale screens
+Living biobanks: Organoid database which includes light microscopy, genomic, transcriptomic, and pharmacology data
+
+Integrated radiotherapy capabilities: Drug-Radiation combination testing using organoids
+  Organoid Applications
+Drug discovery and development:
+Test candidate efficacy, safety, side effects, and pharmacokinetic properties as well as mechanism of action
+Safety and toxicity studies: Evaluate safety and toxicity profiles using healthy organoids, developed from non-transformed cells
+Personalized medicine: Leverage HUB OrganoidsTM as patient epitomes to design targeted and personalized therapies and stratify your patient population
+Disease modeling: Capture disease relevance and patient population heterogeneity
+Bridging in vitro and in vivo: Identify your target patient population before entering the clinical trails
+Predictive biomarker identification: Determine potential biomarkers of therapeutic response with companion diagnostics
+  Study Options
+Preclinical oncology drug development and validation services using unique organoid models developed using IP-protected Hubrecht Organoid Technology (HUB) protocols, as well as HUB’s biobank of already established patient-derived organoids (PDOs)
+Large-scale screens and drug radiation: Select models, and evaluate efficacy and multi-drug combination strategies
+Efficacy and viability quantification: Identify responder and non-responder tumor models.
+Leverage high content services to produce highly comprehensive morphology readouts in both 2D and 3D models.
+Use multifactorial data for downstream lead ID and decision-making
+HCI-based phenotype screening: Phenotypical screen up to thousands of compounds.
+Layer and score drug effects with image mediated screens
+Immunotherapy assessment: Benefit from the only immuno- oncology platform incorporating patient-relevant 3D in vitro models co-cultured with non-autologous immune cells
+OrganoidXplore:
+The first large-scale, panel based organoid screening service
+OrganoidBase™
+ 
+
+High Content Services
+  Immunology
+  Request a quote
+Crown Bioscience needs the contact information you provide to us to contact you about our products and services.
+You may unsubscribe from these communications at anytime.
+
+For information on how to unsubscribe, as well as our privacy practices and commitment to protecting your privacy, check out our Privacy Policy.
+
+In Vitro
+2D Cell Lines and Panels
+PDX-Derived Cell Lines: PrimePanel™
+2D HuCell™
+CRISPR/Cas9 Gene Editing
+Organoids
+Organoid and Immune Cell Co-Culture
+
+In Vivo
+Blog Post
+Advancing Cancer Drug Discovery with Exclusive Organoid Technology Using Adult Stem Cells
+READ NOW
+Application Note
+Drug Discovery in 3D
+DOWNLOAD NOW
+White Paper
+When and How to Use Tumor Organoids in Drug Discovery
+DOWNLOAD NOW
+
+© 2024 Crown Bioscience.
+
+Terms of Use
+Privacy Statement
+   
+
+=== Named Entities ===
+Cookies (ORG)
+Accept
+Decline
+Contact Us
+Databases (PERSON)
+Us (GPE)
+Our Science
+MODEL SYSTEMS (WORK_OF_ART)
+HUB (ORG)
+Progress Oncology Drug Development (ORG)
+FEATURES (PRODUCT)
+Clevers Lab HUB (WORK_OF_ART)
+Varied (ORG)
+over 20 (CARDINAL)
+RNA (ORG)
+CRISPR (PERSON)
+PDX (ORG)
+Organoid (GPE)
+Integrated (NORP)
+Evaluate (ORG)
+Bridging (ORG)
+IP (ORG)
+Hubrecht Organoid Technology (ORG)
+HUB (ORG)
+HUB (ORG)
+Efficacy (ORG)
+Identify (ORG)
+2D (ORG)
+HCI (GPE)
+up to thousands (CARDINAL)
+OrganoidXplore (ORG)
+first (ORDINAL)
+Crown Bioscience (PRODUCT)
+Privacy Policy (ORG)
+Vitro (PRODUCT)
+2D Cell Lines (ORG)
+PrimePanel (ORG)
+HuCell (ORG)
+Organoid (ORG)
+Immune Cell Co-Culture (ORG)
+Exclusive Organoid Technology Using Adult Stem Cells (ORG)
+Application Note
+Drug Discovery (WORK_OF_ART)
+DOWNLOAD (ORG)
+Discovery (PRODUCT)
+DOWNLOAD (ORG)
+2024 (CARDINAL)
+
+=== Keywords ===
+We
+cookies
+your computer
+These cookies
+information
+you
+our website
+us
+you
+We
+this information
+order
+your browsing experience
+analytics
+metrics
+our visitors
+this website
+other media
+the cookies
+we
+our Privacy Policy
+you
+your information
+you
+this website
+A single cookie
+your browser
+your preference
+Cookies and Tracking settings
+Us
+Oncology Drug Development
+Preclinical oncology drug development
+validation services
+tumor organoids
+the HUB tumor organoid biobank
+Progress Oncology Drug Development
+Organoids
+HUB Protocols
+use
+the great translatability
+our 3D organoid models
+which
+unprecedented patient response predictivity
+faster development
+enhanced scalability
+organoids
+Model and mirror patient population diversity
+multiple tumor organoid models
+both tumor
+healthy organoids
+vitro data
+clinically relevant drug potency
+efficacy
+target effects
+FEATURES
+APPLICATIONS
+STUDY OPTIONS
+Features
+ Proprietary culture methods
+Highly refined culture methods
+Clevers Lab HUB’s protocols
+exclusive partnerships
+proprietary services
+Varied indications
+Multiple organoids
+over 20 organ and tissue types
+genetic perturbation
+techniques
+RNA interference
+CRISPR/Cas
+biological targets
+mechanistic biomarkers
+the efficiency
+the organoid platform
+powerful imaging technology
+the 3D structure
+the dynamic interplay
+cells
+their response
+drug candidates
+Matched models
+vitro PDXO
+vivo PDX models
+improved predictivity
+relevant models
+ASCs
+patients
+PDOs
+xenograft tissue
+PDXOs
+the complex architecture
+vivo tissue
+Unlimited expansion
+large-scale screens
+Living biobanks
+Organoid database
+which
+pharmacology
+data
+Integrated radiotherapy capabilities
+Drug-Radiation combination testing
+organoids
+  Organoid Applications
+Drug discovery
+development
+Test candidate efficacy
+safety
+side effects
+pharmacokinetic properties
+mechanism
+action
+Safety and toxicity studies
+safety and toxicity profiles
+healthy organoids
+non-transformed cells
+Personalized medicine
+Leverage HUB
+patient epitomes
+targeted and personalized therapies
+your patient population
+Disease modeling
+Capture disease relevance
+patient population heterogeneity
+Bridging
+vivo
+your target patient population
+the clinical trails
+Predictive biomarker identification
+potential biomarkers
+therapeutic response
+companion diagnostics
+  Study Options
+Preclinical oncology drug development
+validation services
+unique organoid models
+IP-protected Hubrecht Organoid Technology (HUB) protocols
+HUB
+already established patient-derived organoids
+PDOs)
+Large-scale screens
+drug radiation
+Select models
+efficacy and multi-drug combination strategies
+Efficacy
+viability
+quantification
+responder
+non-responder tumor models
+high content services
+highly comprehensive morphology readouts
+both 2D and 3D models
+multifactorial data
+downstream lead ID
+Phenotypical screen
+thousands
+compounds
+Layer
+score drug effects
+image mediated screens
+Immunotherapy assessment
+the only immuno- oncology platform
+patient-relevant 3D
+vitro models
+non-autologous immune cells
+OrganoidXplore
+screening service
+OrganoidBase
+a quote
+Crown Bioscience
+the contact information
+you
+us
+you
+our products
+services
+You
+these communications
+information
+your privacy
+our Privacy Policy
+Vitro
+2D Cell Lines
+Panels
+PDX
+-Derived Cell Lines
+PrimePanel
+2D HuCell™
+CRISPR/Cas9 Gene Editing
+Organoids
+Organoid
+Immune Cell
+Co
+-
+Culture
+Blog Post
+Exclusive Organoid Technology
+Adult Stem Cells
+NOW
+Application Note
+Drug Discovery
+Tumor Organoids
+Drug Discovery
+DOWNLOAD
+© 2024 Crown Bioscience
+Terms
+Use
+Privacy Statement
+
+=== Sentiment Analysis ===
+{'neg': 0.026, 'neu': 0.884, 'pos': 0.091, 'compound': 0.9916}

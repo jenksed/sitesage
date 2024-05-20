@@ -1,0 +1,55 @@
+2024-05-19 13:59:53,117 - root - INFO - Logging setup complete.
+2024-05-19 13:59:53,117 - root - INFO - Configuration loaded.
+2024-05-19 13:59:53,514 - root - INFO - WebDriver setup complete.
+2024-05-19 13:59:53,530 - root - INFO - Checking https://www.crownbio.com/resources for SEO issues...
+2024-05-19 13:59:56,633 - root - INFO - URL: https://www.crownbio.com/resources
+2024-05-19 13:59:56,633 - root - INFO - 
+=== Meta Tags ===
+2024-05-19 13:59:56,633 - root - INFO - author: Crown Bioscience, Inc
+2024-05-19 13:59:56,633 - root - INFO - description: Accelerate your oncology research with Crown Bioscience's extensive materials. Fast-track your studies now!
+
+
+2024-05-19 13:59:56,633 - root - INFO - generator: HubSpot
+2024-05-19 13:59:56,633 - root - INFO - viewport: width=device-width, initial-scale=1
+2024-05-19 13:59:56,633 - root - INFO - og:description: Accelerate your oncology research with Crown Bioscience's extensive materials. Fast-track your studies now!
+
+
+2024-05-19 13:59:56,634 - root - INFO - og:title: Crown Bioscience Resource Hub | Factsheets, Webinars & More
+2024-05-19 13:59:56,634 - root - INFO - twitter:description: Accelerate your oncology research with Crown Bioscience's extensive materials. Fast-track your studies now!
+
+
+2024-05-19 13:59:56,634 - root - INFO - twitter:title: Crown Bioscience Resource Hub | Factsheets, Webinars & More
+2024-05-19 13:59:56,634 - root - INFO - og:url: https://www.crownbio.com/resources
+2024-05-19 13:59:56,634 - root - INFO - twitter:card: summary
+2024-05-19 13:59:56,634 - root - INFO - 
+=== Header Tags ===
+2024-05-19 13:59:56,634 - root - INFO - h1: ['Resources']
+2024-05-19 13:59:56,634 - root - INFO - h2: []
+2024-05-19 13:59:56,634 - root - INFO - h3: ['Application Notes', 'On Demand Webinars', 'Factsheets', 'Posters', 'Quick Facts', 'White Papers', 'eBooks', 'Search our Resources']
+2024-05-19 13:59:56,634 - root - INFO - h4: ['ABOUT US', 'OUR SERVICES', 'RESOURCES', 'PLATFORMS', 'TALK TO US']
+2024-05-19 13:59:56,634 - root - INFO - h5: []
+2024-05-19 13:59:56,634 - root - INFO - h6: []
+2024-05-19 13:59:56,635 - root - INFO - SEO report generated and saved to ./reports/resources/seo_audit_20240519_135956.txt.
+2024-05-19 13:59:56,635 - root - INFO - Checking https://www.crownbio.com/models for SEO issues...
+2024-05-19 13:59:57,360 - root - INFO - URL: https://www.crownbio.com/models
+2024-05-19 13:59:57,360 - root - INFO - 
+=== Meta Tags ===
+2024-05-19 13:59:57,360 - root - INFO - author: Crown Bioscience, Inc
+2024-05-19 13:59:57,360 - root - INFO - description: Crown Bioscience offers a well-annotated collection of preclinical models. Simply click on a collection to see a full list of available models and find the ones that best fit your specific research needs. Trust in our preclinical model collection to accelerate your research today!
+2024-05-19 13:59:57,360 - root - INFO - generator: HubSpot
+2024-05-19 13:59:57,360 - root - INFO - viewport: width=device-width, initial-scale=1
+2024-05-19 13:59:57,360 - root - INFO - og:description: Crown Bioscience offers a well-annotated collection of preclinical models. Simply click on a collection to see a full list of available models and find the ones that best fit your specific research needs. Trust in our preclinical model collection to accelerate your research today!
+2024-05-19 13:59:57,360 - root - INFO - og:title: Preclinical Models Collection | Oncology Care Model
+2024-05-19 13:59:57,361 - root - INFO - twitter:description: Crown Bioscience offers a well-annotated collection of preclinical models. Simply click on a collection to see a full list of available models and find the ones that best fit your specific research needs. Trust in our preclinical model collection to accelerate your research today!
+2024-05-19 13:59:57,361 - root - INFO - twitter:title: Preclinical Models Collection | Oncology Care Model
+2024-05-19 13:59:57,361 - root - INFO - og:url: https://www.crownbio.com/models
+2024-05-19 13:59:57,361 - root - INFO - twitter:card: summary
+2024-05-19 13:59:57,361 - root - INFO - 
+=== Header Tags ===
+2024-05-19 13:59:57,361 - root - INFO - h1: ['Crown Bioscience Preclinical Model Collection']
+2024-05-19 13:59:57,361 - root - INFO - h2: []
+2024-05-19 13:59:57,361 - root - INFO - h3: ['Patient-Derived Xenograft', 'Syngeneic', 'Tumor Homograft', 'Human Target\nKnock-In', 'HSC and PBMC Humanized', 'Cell Line Derived Xenograft']
+2024-05-19 13:59:57,361 - root - INFO - h4: ['ABOUT US', 'OUR SERVICES', 'RESOURCES', 'PLATFORMS', 'TALK TO US']
+2024-05-19 13:59:57,361 - root - INFO - h5: []
+2024-05-19 13:59:57,361 - root - INFO - h6: []
+2024-05-19 13:59:57,361 - root - INFO - SEO report generated and saved to ./reports/models/seo_audit_20240519_135957.txt.

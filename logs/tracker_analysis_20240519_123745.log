@@ -1,0 +1,45 @@
+2024-05-19 12:37:45,441 - root - INFO - Logging setup complete.
+2024-05-19 12:37:45,824 - root - INFO - WebDriver setup complete.
+2024-05-19 12:37:45,826 - root - INFO - Checking https://www.crownbio.com/ for issues...
+2024-05-19 12:37:48,835 - root - INFO - Extracted 0 trackers for pattern 'analytics.js'.
+2024-05-19 12:37:48,835 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 12:37:49,174 - root - INFO - Extracted 0 trackers for pattern 'gtag/js'.
+2024-05-19 12:37:49,174 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 12:37:49,496 - root - INFO - Extracted 0 trackers for pattern 'hs-scripts.com'.
+2024-05-19 12:37:49,497 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 12:37:49,826 - root - INFO - Extracted 0 trackers for pattern 'hotjar.com'.
+2024-05-19 12:37:49,826 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 12:37:50,146 - root - INFO - Extracted 0 trackers for pattern 'googletagmanager.com/gtm.js'.
+2024-05-19 12:37:50,146 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 12:37:50,146 - root - INFO - No duplicate tracking codes detected.
+2024-05-19 12:37:50,488 - root - INFO - Extracted 34 scripts.
+2024-05-19 12:37:50,491 - root - INFO - Checked JS versions: ['1.7.1'].
+2024-05-19 12:37:50,493 - root - INFO - Checked config issues: [].
+2024-05-19 12:37:50,496 - root - INFO - Checked analytics config issues: ['Analytics tracking code not found or misconfigured.'].
+2024-05-19 12:37:50,496 - root - INFO - Multiple jQuery versions found: 1.7.1
+2024-05-19 12:37:50,496 - root - INFO - Analytics tracking code not found or misconfigured.
+2024-05-19 12:37:50,780 - root - INFO - Extracted 25 inline scripts.
+2024-05-19 12:37:50,905 - root - INFO - Extracted 15 CSS files.
+2024-05-19 12:37:50,908 - root - ERROR - An error occurred: Message: javascript error: {"status":12,"value":"Failed to execute 'querySelectorAll' on 'Document': '<font>' is not a valid selector."}
+  (Session info: chrome-headless-shell=125.0.6422.61)
+Stacktrace:
+0   chromedriver                        0x000000010294a4a0 chromedriver + 4301984
+1   chromedriver                        0x0000000102942de8 chromedriver + 4271592
+2   chromedriver                        0x000000010257419c chromedriver + 278940
+3   chromedriver                        0x000000010257866c chromedriver + 296556
+4   chromedriver                        0x000000010257a740 chromedriver + 304960
+5   chromedriver                        0x00000001025ef72c chromedriver + 784172
+6   chromedriver                        0x00000001025eec5c chromedriver + 781404
+7   chromedriver                        0x00000001025ab004 chromedriver + 503812
+8   chromedriver                        0x00000001025ab9ec chromedriver + 506348
+9   chromedriver                        0x00000001029124e8 chromedriver + 4072680
+10  chromedriver                        0x0000000102916f94 chromedriver + 4091796
+11  chromedriver                        0x00000001028f972c chromedriver + 3970860
+12  chromedriver                        0x000000010291787c chromedriver + 4094076
+13  chromedriver                        0x00000001028ec6ac chromedriver + 3917484
+14  chromedriver                        0x0000000102934ae0 chromedriver + 4213472
+15  chromedriver                        0x0000000102934c5c chromedriver + 4213852
+16  chromedriver                        0x00000001029429e0 chromedriver + 4270560
+17  libsystem_pthread.dylib             0x0000000199e9af94 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000199e95d34 thread_start + 8
+

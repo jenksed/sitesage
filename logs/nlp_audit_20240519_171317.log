@@ -1,0 +1,80 @@
+2024-05-19 17:13:17,750 - root - INFO - Logging setup complete.
+2024-05-19 17:13:17,750 - root - INFO - Configuration loaded.
+2024-05-19 17:13:17,762 - root - INFO - Checking https://www.crownbio.com/therapeutic-areas for NLP analysis...
+2024-05-19 17:13:18,070 - root - INFO - URL: https://www.crownbio.com/therapeutic-areas
+2024-05-19 17:13:18,070 - root - INFO - 
+=== Text Sentences ===
+2024-05-19 17:13:18,070 - root - INFO - US Tel: +1 858 622 2900 UK Tel: +44 870 242 2900 All Contact Information At Crown Bioscience, we are driven by our mission to ensure that every patient gets the right treatment at the right time.
+2024-05-19 17:13:18,070 - root - INFO - That is why we are trusted by the world’s leading biopharmaceutical companies to advance their preclinical and translational research programs.
+2024-05-19 17:13:18,070 - root - INFO - With our extensive experience in the areas of oncology and immuno-oncology.
+2024-05-19 17:13:18,070 - root - INFO - Leverage the infinite possibilities of scientific innovation.  
+2024-05-19 17:13:18,070 - root - INFO - Accelerate your oncology program using our comprehensive suite of in vivo, in vitro and ex vivo biological services      Explore a unique collection of ex-vivo patient tissue, validated syngeneic, mouse tumor homograft models, and humanized genetically engineered mouse models.    
+2024-05-19 17:13:18,070 - root - INFO - © 2024 Crown Bioscience.
+2024-05-19 17:13:18,071 - root - INFO - All Rights Reserved.  
+2024-05-19 17:13:18,071 - root - INFO - Privacy Policy.
+2024-05-19 17:13:18,071 - root - INFO - Manage Privacy Preferences     © 2024 Crown Bioscience.
+2024-05-19 17:13:18,071 - root - INFO - All Rights Reserved.
+2024-05-19 17:13:18,071 - root - INFO - 
+=== Named Entities ===
+2024-05-19 17:13:18,071 - root - INFO - US (GPE)
+2024-05-19 17:13:18,071 - root - INFO - 858 (CARDINAL)
+2024-05-19 17:13:18,071 - root - INFO - 2900 (DATE)
+2024-05-19 17:13:18,071 - root - INFO - UK (GPE)
+2024-05-19 17:13:18,071 - root - INFO - 870 (CARDINAL)
+2024-05-19 17:13:18,071 - root - INFO - 2900 (DATE)
+2024-05-19 17:13:18,071 - root - INFO - All Contact Information (WORK_OF_ART)
+2024-05-19 17:13:18,071 - root - INFO - Accelerate (ORG)
+2024-05-19 17:13:18,071 - root - INFO - mouse (PERSON)
+2024-05-19 17:13:18,071 - root - INFO - 2024 (DATE)
+2024-05-19 17:13:18,071 - root - INFO - 2024 (DATE)
+2024-05-19 17:13:18,071 - root - INFO - 2024-05-19 (DATE)
+2024-05-19 17:13:18,071 - root - INFO - 
+=== Keywords ===
+2024-05-19 17:13:18,071 - root - INFO - +1 858 622 2900 UK
+2024-05-19 17:13:18,071 - root - INFO - Tel
+2024-05-19 17:13:18,071 - root - INFO - +44
+2024-05-19 17:13:18,071 - root - INFO - All Contact Information
+2024-05-19 17:13:18,071 - root - INFO - Crown Bioscience
+2024-05-19 17:13:18,071 - root - INFO - we
+2024-05-19 17:13:18,071 - root - INFO - our mission
+2024-05-19 17:13:18,071 - root - INFO - every patient
+2024-05-19 17:13:18,071 - root - INFO - the right treatment
+2024-05-19 17:13:18,071 - root - INFO - the right time
+2024-05-19 17:13:18,071 - root - INFO - That
+2024-05-19 17:13:18,071 - root - INFO - we
+2024-05-19 17:13:18,071 - root - INFO - the world’s leading biopharmaceutical companies
+2024-05-19 17:13:18,071 - root - INFO - their preclinical and translational research programs
+2024-05-19 17:13:18,071 - root - INFO - our extensive experience
+2024-05-19 17:13:18,071 - root - INFO - the areas
+2024-05-19 17:13:18,071 - root - INFO - oncology
+2024-05-19 17:13:18,071 - root - INFO - immuno-oncology
+2024-05-19 17:13:18,071 - root - INFO - the infinite possibilities
+2024-05-19 17:13:18,071 - root - INFO - scientific innovation
+2024-05-19 17:13:18,071 - root - INFO - your oncology program
+2024-05-19 17:13:18,071 - root - INFO - our comprehensive suite
+2024-05-19 17:13:18,071 - root - INFO - vivo
+2024-05-19 17:13:18,071 - root - INFO - ex vivo biological services
+2024-05-19 17:13:18,071 - root - INFO - a unique collection
+2024-05-19 17:13:18,071 - root - INFO - ex-vivo patient tissue
+2024-05-19 17:13:18,071 - root - INFO - , validated syngeneic
+2024-05-19 17:13:18,071 - root - INFO - mouse tumor homograft models
+2024-05-19 17:13:18,071 - root - INFO - genetically engineered mouse models
+2024-05-19 17:13:18,071 - root - INFO - © 2024 Crown Bioscience
+2024-05-19 17:13:18,071 - root - INFO - All Rights
+2024-05-19 17:13:18,071 - root - INFO - Privacy Policy
+2024-05-19 17:13:18,071 - root - INFO - Manage Privacy Preferences     © 2024 Crown Bioscience
+2024-05-19 17:13:18,072 - root - INFO - All Rights
+2024-05-19 17:13:18,072 - root - INFO - Privacy Policy
+2024-05-19 17:13:18,072 - root - INFO - 
+=== Sentiment Analysis ===
+2024-05-19 17:13:18,072 - root - INFO - {'neg': 0.018, 'neu': 0.898, 'pos': 0.084, 'compound': 0.8225}
+2024-05-19 17:13:18,072 - root - INFO - 
+=== Readability Scores ===
+2024-05-19 17:13:18,072 - root - INFO - {'flesch_reading_ease': 32.49, 'smog_index': 13.2, 'flesch_kincaid_grade': 12.1, 'coleman_liau_index': 14.96, 'automated_readability_index': 12.9, 'dale_chall_readability_score': 12.67, 'difficult_words': 50, 'linsear_write_formula': 13.8, 'gunning_fog': 12.82, 'text_standard': '12th and 13th grade'}
+2024-05-19 17:13:18,072 - root - INFO - 
+=== Engagement Metrics ===
+2024-05-19 17:13:18,072 - root - INFO - {'word_count': 171, 'sentence_count': 11, 'avg_sentence_length': 15.545454545454545}
+2024-05-19 17:13:18,072 - root - INFO - 
+=== Part-of-Speech Tags ===
+2024-05-19 17:13:18,072 - root - INFO - [('US', 'PROPN'), ('Tel', 'PROPN'), (':', 'PUNCT'), ('+1', 'PROPN'), ('858', 'NUM'), ('622', 'NUM'), ('2900', 'NUM'), ('UK', 'PROPN'), ('Tel', 'PROPN'), (':', 'PUNCT'), ('+44', 'PROPN'), ('870', 'NUM'), ('242', 'NUM'), ('2900', 'NUM'), ('All', 'DET'), ('Contact', 'PROPN'), ('Information', 'NOUN'), ('At', 'ADP'), ('Crown', 'PROPN'), ('Bioscience', 'PROPN'), (',', 'PUNCT'), ('we', 'PRON'), ('are', 'AUX'), ('driven', 'VERB'), ('by', 'ADP'), ('our', 'PRON'), ('mission', 'NOUN'), ('to', 'PART'), ('ensure', 'VERB'), ('that', 'SCONJ'), ('every', 'DET'), ('patient', 'NOUN'), ('gets', 'VERB'), ('the', 'DET'), ('right', 'ADJ'), ('treatment', 'NOUN'), ('at', 'ADP'), ('the', 'DET'), ('right', 'ADJ'), ('time', 'NOUN'), ('.', 'PUNCT'), ('That', 'PRON'), ('is', 'AUX'), ('why', 'SCONJ'), ('we', 'PRON'), ('are', 'AUX'), ('trusted', 'VERB'), ('by', 'ADP'), ('the', 'DET'), ('world', 'NOUN'), ('’s', 'PART'), ('leading', 'VERB'), ('biopharmaceutical', 'ADJ'), ('companies', 'NOUN'), ('to', 'PART'), ('advance', 'VERB'), ('their', 'PRON'), ('preclinical', 'ADJ'), ('and', 'CCONJ'), ('translational', 'ADJ'), ('research', 'NOUN'), ('programs', 'NOUN'), ('.', 'PUNCT'), ('With', 'ADP'), ('our', 'PRON'), ('extensive', 'ADJ'), ('experience', 'NOUN'), ('in', 'ADP'), ('the', 'DET'), ('areas', 'NOUN'), ('of', 'ADP'), ('oncology', 'NOUN'), ('and', 'CCONJ'), ('immuno', 'NOUN'), ('-', 'PUNCT'), ('oncology', 'NOUN'), ('.', 'PUNCT'), ('Leverage', 'VERB'), ('the', 'DET'), ('infinite', 'ADJ'), ('possibilities', 'NOUN'), ('of', 'ADP'), ('scientific', 'ADJ'), ('innovation', 'NOUN'), ('.', 'PUNCT'), (' ', 'SPACE'), ('Accelerate', 'VERB'), ('your', 'PRON'), ('oncology', 'NOUN'), ('program', 'NOUN'), ('using', 'VERB'), ('our', 'PRON'), ('comprehensive', 'ADJ'), ('suite', 'NOUN'), ('of', 'ADP'), ('in', 'ADP'), ('vivo', 'NOUN'), (',', 'PUNCT'), ('in', 'ADP'), ('vitro', 'X'), ('and', 'CCONJ'), ('ex', 'NOUN'), ('vivo', 'ADJ'), ('biological', 'ADJ'), ('services', 'NOUN'), ('\xa0 \xa0  ', 'SPACE'), ('Explore', 'VERB'), ('a', 'DET'), ('unique', 'ADJ'), ('collection', 'NOUN'), ('of', 'ADP'), ('ex', 'ADJ'), ('-', 'ADJ'), ('vivo', 'ADJ'), ('patient', 'ADJ'), ('tissue', 'NOUN'), (',', 'PUNCT'), ('validated', 'VERB'), ('syngeneic', 'PROPN'), (',', 'PUNCT'), ('mouse', 'PROPN'), ('tumor', 'NOUN'), ('homograft', 'NOUN'), ('models', 'NOUN'), (',', 'PUNCT'), ('and', 'CCONJ'), ('humanized', 'VERB'), ('genetically', 'ADV'), ('engineered', 'VERB'), ('mouse', 'NOUN'), ('models', 'NOUN'), ('.', 'PUNCT'), ('\xa0  ', 'SPACE'), ('©', 'ADJ'), ('2024', 'NUM'), ('Crown', 'PROPN'), ('Bioscience', 'PROPN'), ('.', 'PUNCT'), ('All', 'DET'), ('Rights', 'PROPN'), ('Reserved', 'VERB'), ('.', 'PUNCT'), (' ', 'SPACE'), ('Privacy', 'PROPN'), ('Policy', 'PROPN'), ('.', 'PUNCT'), ('Manage', 'PROPN'), ('Privacy', 'PROPN'), ('Preferences', 'PROPN'), ('    ', 'SPACE'), ('©', 'ADJ'), ('2024', 'NUM'), ('Crown', 'PROPN'), ('Bioscience', 'PROPN'), ('.', 'PUNCT'), ('All', 'DET'), ('Rights', 'PROPN'), ('Reserved', 'VERB'), ('.', 'PUNCT'), ('Privacy', 'PROPN'), ('Policy', 'PROPN'), ('2024', 'NUM'), ('-', 'PUNCT'), ('05', 'NUM'), ('-', 'SYM'), ('19', 'NUM'), ('2023', 'NUM'), ('-', 'SYM'), ('01', 'NUM'), ('-', 'SYM'), ('23', 'NUM')]
+2024-05-19 17:13:18,072 - root - INFO - NLP Report generated and saved to ./reports/therapeutic_areas/nlp_analysis_20240519_171318.txt.

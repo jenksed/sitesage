@@ -1,0 +1,53 @@
+2024-05-19 23:38:23,847 - root - INFO - Logging setup complete.
+2024-05-19 23:38:23,847 - root - INFO - Configuration loaded.
+2024-05-19 23:38:24,230 - root - INFO - WebDriver setup complete.
+2024-05-19 23:38:24,247 - root - INFO - Checking https://www.crownbio.com/therapeutic-areas for schema analysis...
+2024-05-19 23:38:26,303 - root - INFO - 
+=== Url ===
+2024-05-19 23:38:26,303 - root - INFO - h
+2024-05-19 23:38:26,303 - root - INFO - t
+2024-05-19 23:38:26,303 - root - INFO - t
+2024-05-19 23:38:26,303 - root - INFO - p
+2024-05-19 23:38:26,303 - root - INFO - s
+2024-05-19 23:38:26,303 - root - INFO - :
+2024-05-19 23:38:26,303 - root - INFO - /
+2024-05-19 23:38:26,303 - root - INFO - /
+2024-05-19 23:38:26,303 - root - INFO - w
+2024-05-19 23:38:26,303 - root - INFO - w
+2024-05-19 23:38:26,303 - root - INFO - w
+2024-05-19 23:38:26,303 - root - INFO - .
+2024-05-19 23:38:26,304 - root - INFO - c
+2024-05-19 23:38:26,304 - root - INFO - r
+2024-05-19 23:38:26,304 - root - INFO - o
+2024-05-19 23:38:26,304 - root - INFO - w
+2024-05-19 23:38:26,304 - root - INFO - n
+2024-05-19 23:38:26,304 - root - INFO - b
+2024-05-19 23:38:26,304 - root - INFO - i
+2024-05-19 23:38:26,304 - root - INFO - o
+2024-05-19 23:38:26,304 - root - INFO - .
+2024-05-19 23:38:26,304 - root - INFO - c
+2024-05-19 23:38:26,304 - root - INFO - o
+2024-05-19 23:38:26,304 - root - INFO - m
+2024-05-19 23:38:26,304 - root - INFO - /
+2024-05-19 23:38:26,304 - root - INFO - t
+2024-05-19 23:38:26,304 - root - INFO - h
+2024-05-19 23:38:26,304 - root - INFO - e
+2024-05-19 23:38:26,304 - root - INFO - r
+2024-05-19 23:38:26,304 - root - INFO - a
+2024-05-19 23:38:26,304 - root - INFO - p
+2024-05-19 23:38:26,304 - root - INFO - e
+2024-05-19 23:38:26,304 - root - INFO - u
+2024-05-19 23:38:26,304 - root - INFO - t
+2024-05-19 23:38:26,304 - root - INFO - i
+2024-05-19 23:38:26,304 - root - INFO - c
+2024-05-19 23:38:26,304 - root - INFO - -
+2024-05-19 23:38:26,304 - root - INFO - a
+2024-05-19 23:38:26,304 - root - INFO - r
+2024-05-19 23:38:26,304 - root - INFO - e
+2024-05-19 23:38:26,304 - root - INFO - a
+2024-05-19 23:38:26,304 - root - INFO - s
+2024-05-19 23:38:26,304 - root - INFO - 
+=== Schema Data ===
+2024-05-19 23:38:26,304 - root - INFO - {'@context': 'https://schema.org', '@type': 'WebPage', 'name': 'Therapeutic Areas', 'url': 'https://www.crownbio.com/therapeutic-areas', 'description': "Explore Crown Bioscience's expertise in therapeutic areas including oncology and immuno-oncology, leveraging innovative scientific solutions for preclinical and translational research programs.", 'breadcrumb': {'@type': 'BreadcrumbList', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.crownbio.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Therapeutic Areas', 'item': 'https://www.crownbio.com/therapeutic-areas'}, {'@type': 'ListItem', 'position': 3, 'name': 'Oncology', 'item': 'https://www.crownbio.com/therapeutic-areas#oncology'}, {'@type': 'ListItem', 'position': 4, 'name': 'Immuno-oncology', 'item': 'https://www.crownbio.com/therapeutic-areas#immuno-oncology'}]}, 'mainEntity': [{'@type': 'Service', 'name': 'Oncology', 'description': 'Accelerate your oncology program using our comprehensive suite of in vivo, in vitro, and ex vivo biological services.', 'url': 'https://www.crownbio.com/therapeutic-areas#oncology'}, {'@type': 'Service', 'name': 'Immuno-oncology', 'description': 'Explore a unique collection of ex-vivo patient tissue, validated syngeneic, mouse tumor homograft models, and humanized genetically engineered mouse models.', 'url': 'https://www.crownbio.com/therapeutic-areas#immuno-oncology'}], 'publisher': {'@type': 'Organization', 'name': 'Crown Bioscience', 'url': 'https://www.crownbio.com', 'logo': 'https://www.crownbio.com/hubfs/website/images/logo.svg'}}
+2024-05-19 23:38:26,305 - root - INFO - Schema Report generated and saved to ./reports/www_crownbio_com_therapeutic_areas/schema_audit_20240519_233826.txt.
+2024-05-19 23:38:26,305 - root - INFO - JSON report saved to ./reports/www_crownbio_com_therapeutic_areas/schema_audit_20240519_233826.json

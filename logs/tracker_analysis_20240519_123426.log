@@ -1,0 +1,4 @@
+2024-05-19 12:34:26,770 - root - INFO - Logging setup complete.
+2024-05-19 12:34:27,157 - root - INFO - Checking https://www.crownbio.com/ for issues...
+2024-05-19 12:34:31,350 - root - INFO - No duplicate tracking codes detected.
+2024-05-19 12:34:31,731 - root - ERROR - An error occurred: name 'logging' is not defined

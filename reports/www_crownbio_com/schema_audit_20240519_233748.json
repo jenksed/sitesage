@@ -1,0 +1,27 @@
+{
+    "url": "https://www.crownbio.com/",
+    "schema_data": [
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "Crown Bioscience",
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "100",
+                "bestRating": "100",
+                "worstRating": "0",
+                "reviewCount": "1947"
+            },
+            "customerEffort": {
+                "@type": "QuantitativeValue",
+                "value": "96",
+                "unitText": "Percent"
+            },
+            "customerExpectation": {
+                "@type": "QuantitativeValue",
+                "value": "92",
+                "unitText": "Percent"
+            }
+        }
+    ]
+}

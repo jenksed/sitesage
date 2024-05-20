@@ -1,0 +1,17 @@
+2024-05-19 16:58:59,946 - root - INFO - Logging setup complete.
+2024-05-19 16:58:59,946 - root - INFO - Configuration loaded.
+2024-05-19 16:59:00,342 - root - INFO - WebDriver setup complete.
+2024-05-19 16:59:00,358 - root - INFO - Checking https://www.crownbio.com/therapeutic-areas for issues...
+2024-05-19 16:59:02,534 - root - INFO - Extracted 0 trackers for pattern 'analytics.js'.
+2024-05-19 16:59:02,534 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 16:59:02,732 - root - INFO - Extracted 0 trackers for pattern 'gtag/js'.
+2024-05-19 16:59:02,732 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 16:59:02,924 - root - INFO - Extracted 0 trackers for pattern 'hs-scripts.com'.
+2024-05-19 16:59:02,924 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 16:59:03,138 - root - INFO - Extracted 0 trackers for pattern 'hotjar.com'.
+2024-05-19 16:59:03,138 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 16:59:03,337 - root - INFO - Extracted 0 trackers for pattern 'googletagmanager.com/gtm.js'.
+2024-05-19 16:59:03,337 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 16:59:03,337 - root - INFO - No duplicate tracking codes detected.
+2024-05-19 16:59:03,546 - root - INFO - Extracted 28 scripts.
+2024-05-19 16:59:03,546 - root - ERROR - An error occurred while processing https://www.crownbio.com/therapeutic-areas: name 'analyze_scripts' is not defined

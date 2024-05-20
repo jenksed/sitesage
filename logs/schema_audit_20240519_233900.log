@@ -1,0 +1,49 @@
+2024-05-19 23:39:00,454 - root - INFO - Logging setup complete.
+2024-05-19 23:39:00,454 - root - INFO - Configuration loaded.
+2024-05-19 23:39:00,852 - root - INFO - WebDriver setup complete.
+2024-05-19 23:39:00,867 - root - INFO - Checking https://www.crownbio.com/model-systems for schema analysis...
+2024-05-19 23:39:02,860 - root - INFO - 
+=== Url ===
+2024-05-19 23:39:02,860 - root - INFO - h
+2024-05-19 23:39:02,860 - root - INFO - t
+2024-05-19 23:39:02,860 - root - INFO - t
+2024-05-19 23:39:02,860 - root - INFO - p
+2024-05-19 23:39:02,860 - root - INFO - s
+2024-05-19 23:39:02,860 - root - INFO - :
+2024-05-19 23:39:02,860 - root - INFO - /
+2024-05-19 23:39:02,860 - root - INFO - /
+2024-05-19 23:39:02,860 - root - INFO - w
+2024-05-19 23:39:02,860 - root - INFO - w
+2024-05-19 23:39:02,860 - root - INFO - w
+2024-05-19 23:39:02,860 - root - INFO - .
+2024-05-19 23:39:02,860 - root - INFO - c
+2024-05-19 23:39:02,861 - root - INFO - r
+2024-05-19 23:39:02,861 - root - INFO - o
+2024-05-19 23:39:02,861 - root - INFO - w
+2024-05-19 23:39:02,861 - root - INFO - n
+2024-05-19 23:39:02,861 - root - INFO - b
+2024-05-19 23:39:02,861 - root - INFO - i
+2024-05-19 23:39:02,861 - root - INFO - o
+2024-05-19 23:39:02,861 - root - INFO - .
+2024-05-19 23:39:02,861 - root - INFO - c
+2024-05-19 23:39:02,861 - root - INFO - o
+2024-05-19 23:39:02,861 - root - INFO - m
+2024-05-19 23:39:02,861 - root - INFO - /
+2024-05-19 23:39:02,861 - root - INFO - m
+2024-05-19 23:39:02,861 - root - INFO - o
+2024-05-19 23:39:02,861 - root - INFO - d
+2024-05-19 23:39:02,861 - root - INFO - e
+2024-05-19 23:39:02,861 - root - INFO - l
+2024-05-19 23:39:02,861 - root - INFO - -
+2024-05-19 23:39:02,861 - root - INFO - s
+2024-05-19 23:39:02,861 - root - INFO - y
+2024-05-19 23:39:02,861 - root - INFO - s
+2024-05-19 23:39:02,861 - root - INFO - t
+2024-05-19 23:39:02,861 - root - INFO - e
+2024-05-19 23:39:02,861 - root - INFO - m
+2024-05-19 23:39:02,862 - root - INFO - s
+2024-05-19 23:39:02,862 - root - INFO - 
+=== Schema Data ===
+2024-05-19 23:39:02,862 - root - INFO - {'@context': 'https://schema.org', '@type': 'WebPage', 'name': 'Innovative Model Systems for Preclinical Studies', 'url': 'https://www.crownbio.com/model-systems', 'description': "Explore Crown Bioscience's comprehensive selection of in vitro, ex vivo, and in vivo model systems designed to advance preclinical development programs.", 'breadcrumb': {'@type': 'BreadcrumbList', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.crownbio.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Model Systems', 'item': 'https://www.crownbio.com/model-systems'}, {'@type': 'ListItem', 'position': 3, 'name': 'In Vitro Services', 'item': 'https://www.crownbio.com/model-systems#invitro'}, {'@type': 'ListItem', 'position': 4, 'name': 'In Vivo Model Systems', 'item': 'https://www.crownbio.com/model-systems#invivo'}, {'@type': 'ListItem', 'position': 5, 'name': 'Ex Vivo Services', 'item': 'https://www.crownbio.com/model-systems#exvivo'}]}, 'mainEntity': [{'@type': 'Service', 'name': 'In Vitro Services', 'description': 'Over 500 validated and well-characterized cell lines for drug response screening, including HUB organoids.', 'url': 'https://www.crownbio.com/model-systems#invitro'}, {'@type': 'Service', 'name': 'In Vivo Model Systems', 'description': 'Largest commercially available collection of PDX models and over 200 cell line-derived xenograft models.', 'url': 'https://www.crownbio.com/model-systems#invivo'}, {'@type': 'Service', 'name': 'Ex Vivo Services', 'description': '3D platform for evaluating monotherapy and combination drug responses in patient tumors with endogenous immune cell populations intact.', 'url': 'https://www.crownbio.com/model-systems#exvivo'}], 'publisher': {'@type': 'Organization', 'name': 'Crown Bioscience', 'url': 'https://www.crownbio.com', 'logo': 'https://www.crownbio.com/hubfs/website/images/logo.svg'}}
+2024-05-19 23:39:02,863 - root - INFO - Schema Report generated and saved to ./reports/www_crownbio_com_model_systems/schema_audit_20240519_233902.txt.
+2024-05-19 23:39:02,866 - root - INFO - JSON report saved to ./reports/www_crownbio_com_model_systems/schema_audit_20240519_233902.json

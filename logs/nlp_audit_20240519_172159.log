@@ -1,0 +1,50 @@
+2024-05-19 17:21:59,708 - root - INFO - Logging setup complete.
+2024-05-19 17:21:59,709 - root - INFO - Configuration loaded.
+2024-05-19 17:21:59,721 - root - INFO - Checking https://www.crownbio.com/model/pdx for NLP analysis...
+2024-05-19 17:22:00,319 - root - INFO - URL: https://www.crownbio.com/model/pdx
+2024-05-19 17:22:00,319 - root - INFO - 
+=== Text Sentences ===
+2024-05-19 17:22:00,319 - root - INFO - US Tel: +1 858 622 2900 UK Tel: +44 870 242 2900 All Contact Information Crown Bioscience's PDX collection consists of over 3,000+ well-characterized models that supports translational preclinical oncology research for over thirty human cancer types.
+2024-05-19 17:22:00,319 - root - INFO - Including rare indications and highly-specific molecular targets.
+2024-05-19 17:22:00,319 - root - INFO - Click a cancer type below to learn more about our models.
+2024-05-19 17:22:00,319 - root - INFO - Already Registered?
+2024-05-19 17:22:00,319 - root - INFO - Login
+2024-05-19 17:22:00,319 - root - INFO - 
+=== Named Entities ===
+2024-05-19 17:22:00,319 - root - INFO - US (GPE)
+2024-05-19 17:22:00,319 - root - INFO - 858 (CARDINAL)
+2024-05-19 17:22:00,319 - root - INFO - 2900 (DATE)
+2024-05-19 17:22:00,319 - root - INFO - UK (GPE)
+2024-05-19 17:22:00,319 - root - INFO - 870 (CARDINAL)
+2024-05-19 17:22:00,319 - root - INFO - 2900 (DATE)
+2024-05-19 17:22:00,319 - root - INFO - PDX (ORG)
+2024-05-19 17:22:00,319 - root - INFO - over 3,000 (CARDINAL)
+2024-05-19 17:22:00,319 - root - INFO - over thirty (CARDINAL)
+2024-05-19 17:22:00,319 - root - INFO - 
+=== Keywords ===
+2024-05-19 17:22:00,319 - root - INFO - US Tel
+2024-05-19 17:22:00,319 - root - INFO - +1 858 622 2900 UK
+2024-05-19 17:22:00,319 - root - INFO - Tel
+2024-05-19 17:22:00,319 - root - INFO - +44
+2024-05-19 17:22:00,319 - root - INFO - All Contact Information Crown Bioscience's PDX collection
+2024-05-19 17:22:00,319 - root - INFO - over 3,000+ well-characterized models
+2024-05-19 17:22:00,319 - root - INFO - that
+2024-05-19 17:22:00,319 - root - INFO - translational preclinical oncology research
+2024-05-19 17:22:00,319 - root - INFO - over thirty human cancer types
+2024-05-19 17:22:00,319 - root - INFO - rare indications
+2024-05-19 17:22:00,319 - root - INFO - highly-specific molecular targets
+2024-05-19 17:22:00,319 - root - INFO - a cancer type
+2024-05-19 17:22:00,319 - root - INFO - our models
+2024-05-19 17:22:00,319 - root - INFO - 
+=== Sentiment Analysis ===
+2024-05-19 17:22:00,319 - root - INFO - {'neg': 0.133, 'neu': 0.83, 'pos': 0.038, 'compound': -0.8074}
+2024-05-19 17:22:00,319 - root - INFO - 
+=== Readability Scores ===
+2024-05-19 17:22:00,319 - root - INFO - {'flesch_reading_ease': 34.97, 'smog_index': 14.1, 'flesch_kincaid_grade': 13.2, 'coleman_liau_index': 15.72, 'automated_readability_index': 16.1, 'dale_chall_readability_score': 14.67, 'difficult_words': 22, 'linsear_write_formula': 13.333333333333334, 'gunning_fog': 15.31, 'text_standard': '14th and 15th grade'}
+2024-05-19 17:22:00,319 - root - INFO - 
+=== Engagement Metrics ===
+2024-05-19 17:22:00,319 - root - INFO - {'word_count': 70, 'sentence_count': 5, 'avg_sentence_length': 14.0}
+2024-05-19 17:22:00,320 - root - INFO - 
+=== Part-of-Speech Tags ===
+2024-05-19 17:22:00,320 - root - INFO - [('US', 'PROPN'), ('Tel', 'PROPN'), (':', 'PUNCT'), ('+1', 'PROPN'), ('858', 'NUM'), ('622', 'NUM'), ('2900', 'NUM'), ('UK', 'PROPN'), ('Tel', 'PROPN'), (':', 'PUNCT'), ('+44', 'PROPN'), ('870', 'NUM'), ('242', 'NUM'), ('2900', 'NUM'), ('All', 'DET'), ('Contact', 'PROPN'), ('Information', 'PROPN'), ('Crown', 'PROPN'), ('Bioscience', 'PROPN'), ("'s", 'PART'), ('PDX', 'NOUN'), ('collection', 'NOUN'), ('consists', 'VERB'), ('of', 'ADP'), ('over', 'ADP'), ('3,000', 'NUM'), ('+', 'CCONJ'), ('well', 'ADV'), ('-', 'PUNCT'), ('characterized', 'VERB'), ('models', 'NOUN'), ('that', 'PRON'), ('supports', 'VERB'), ('translational', 'ADJ'), ('preclinical', 'ADJ'), ('oncology', 'NOUN'), ('research', 'NOUN'), ('for', 'ADP'), ('over', 'ADP'), ('thirty', 'NUM'), ('human', 'ADJ'), ('cancer', 'NOUN'), ('types', 'NOUN'), ('.', 'PUNCT'), ('Including', 'VERB'), ('rare', 'ADJ'), ('indications', 'NOUN'), ('and', 'CCONJ'), ('highly', 'ADV'), ('-', 'PUNCT'), ('specific', 'ADJ'), ('molecular', 'ADJ'), ('targets', 'NOUN'), ('.', 'PUNCT'), ('Click', 'VERB'), ('a', 'DET'), ('cancer', 'NOUN'), ('type', 'NOUN'), ('below', 'ADV'), ('to', 'PART'), ('learn', 'VERB'), ('more', 'ADJ'), ('about', 'ADP'), ('our', 'PRON'), ('models', 'NOUN'), ('.', 'PUNCT'), ('Already', 'ADV'), ('Registered', 'VERB'), ('?', 'PUNCT'), ('Login', 'VERB')]
+2024-05-19 17:22:00,320 - root - INFO - NLP Report generated and saved to ./reports/model_pdx/nlp_analysis_20240519_172200.txt.

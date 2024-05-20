@@ -1,0 +1,5 @@
+2024-05-20 00:28:21,350 - root - INFO - Logging setup complete.
+2024-05-20 00:28:21,351 - root - INFO - Configuration loaded.
+2024-05-20 00:28:21,785 - root - INFO - WebDriver setup complete.
+2024-05-20 00:28:21,797 - root - INFO - Checking https://www.crownbio.com/model-systems/in-vitro/organoids for NLP analysis...
+2024-05-20 00:28:24,785 - root - ERROR - An error occurred while processing https://www.crownbio.com/model-systems/in-vitro/organoids: name 're' is not defined

@@ -1,0 +1,57 @@
+2024-05-19 23:39:19,470 - root - INFO - Logging setup complete.
+2024-05-19 23:39:19,470 - root - INFO - Configuration loaded.
+2024-05-19 23:39:19,715 - root - INFO - WebDriver setup complete.
+2024-05-19 23:39:19,726 - root - INFO - Checking https://www.crownbio.com/model-systems/in-vivo for schema analysis...
+2024-05-19 23:39:21,758 - root - INFO - 
+=== Url ===
+2024-05-19 23:39:21,759 - root - INFO - h
+2024-05-19 23:39:21,759 - root - INFO - t
+2024-05-19 23:39:21,759 - root - INFO - t
+2024-05-19 23:39:21,759 - root - INFO - p
+2024-05-19 23:39:21,759 - root - INFO - s
+2024-05-19 23:39:21,759 - root - INFO - :
+2024-05-19 23:39:21,759 - root - INFO - /
+2024-05-19 23:39:21,759 - root - INFO - /
+2024-05-19 23:39:21,759 - root - INFO - w
+2024-05-19 23:39:21,759 - root - INFO - w
+2024-05-19 23:39:21,759 - root - INFO - w
+2024-05-19 23:39:21,759 - root - INFO - .
+2024-05-19 23:39:21,759 - root - INFO - c
+2024-05-19 23:39:21,759 - root - INFO - r
+2024-05-19 23:39:21,759 - root - INFO - o
+2024-05-19 23:39:21,759 - root - INFO - w
+2024-05-19 23:39:21,759 - root - INFO - n
+2024-05-19 23:39:21,759 - root - INFO - b
+2024-05-19 23:39:21,759 - root - INFO - i
+2024-05-19 23:39:21,759 - root - INFO - o
+2024-05-19 23:39:21,759 - root - INFO - .
+2024-05-19 23:39:21,759 - root - INFO - c
+2024-05-19 23:39:21,759 - root - INFO - o
+2024-05-19 23:39:21,759 - root - INFO - m
+2024-05-19 23:39:21,759 - root - INFO - /
+2024-05-19 23:39:21,759 - root - INFO - m
+2024-05-19 23:39:21,759 - root - INFO - o
+2024-05-19 23:39:21,759 - root - INFO - d
+2024-05-19 23:39:21,759 - root - INFO - e
+2024-05-19 23:39:21,759 - root - INFO - l
+2024-05-19 23:39:21,759 - root - INFO - -
+2024-05-19 23:39:21,759 - root - INFO - s
+2024-05-19 23:39:21,759 - root - INFO - y
+2024-05-19 23:39:21,759 - root - INFO - s
+2024-05-19 23:39:21,759 - root - INFO - t
+2024-05-19 23:39:21,759 - root - INFO - e
+2024-05-19 23:39:21,759 - root - INFO - m
+2024-05-19 23:39:21,759 - root - INFO - s
+2024-05-19 23:39:21,760 - root - INFO - /
+2024-05-19 23:39:21,760 - root - INFO - i
+2024-05-19 23:39:21,760 - root - INFO - n
+2024-05-19 23:39:21,760 - root - INFO - -
+2024-05-19 23:39:21,760 - root - INFO - v
+2024-05-19 23:39:21,760 - root - INFO - i
+2024-05-19 23:39:21,760 - root - INFO - v
+2024-05-19 23:39:21,760 - root - INFO - o
+2024-05-19 23:39:21,760 - root - INFO - 
+=== Schema Data ===
+2024-05-19 23:39:21,761 - root - INFO - {'@context': 'https://schema.org', '@type': 'ItemList', 'name': 'In Vivo Model Systems for Preclinical Oncology Research', 'description': "Explore Crown Bioscience's comprehensive suite of in vivo model systems, including PDX, CDX, syngeneic, humanized models, and more, to advance your preclinical oncology research.", 'url': 'https://www.crownbio.com/model-systems/in-vivo', 'numberOfItems': 8, 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'item': {'@type': 'Service', 'name': 'Patient-Derived Xenograft (PDX) Models', 'description': 'Leverage our unrivaled collection of PDX models, directly derived from patient tumors, to accurately reflect the heterogeneity and diversity of the human patient population. Drive translational success in preclinical oncology research.', 'url': 'https://www.crownbio.com/model-systems/in-vivo#pdx'}}, {'@type': 'ListItem', 'position': 2, 'item': {'@type': 'Service', 'name': 'Cell Line-Derived Xenograft (CDX) Models', 'description': 'Make informed decisions about the progression of your preclinical development program with our CDX models. Accelerate drug discovery and development timelines while minimizing costs.', 'url': 'https://www.crownbio.com/model-systems/in-vivo#cdx'}}, {'@type': 'ListItem', 'position': 3, 'item': {'@type': 'Service', 'name': 'Syngeneic Mouse Models', 'description': 'Discover our syngeneic models derived from immortalized mouse cancer cell lines. Evaluate single-agent and combination immunotherapies with fully competent immunity.', 'url': 'https://www.crownbio.com/model-systems/in-vivo#syngeneic'}}, {'@type': 'ListItem', 'position': 4, 'item': {'@type': 'Service', 'name': 'Humanized Mouse Models', 'description': 'Harness the human immune system against tumors with our humanized models. Utilize human hematopoietic stem cell (HSC) engraftment for clinically relevant preclinical research.', 'url': 'https://www.crownbio.com/model-systems/in-vivo#humanized'}}, {'@type': 'ListItem', 'position': 5, 'item': {'@type': 'Service', 'name': 'Mi Xeno™ Models', 'description': 'Explore Mi Xeno™, a simplified approach to evaluate immunotherapy within a human tumor microenvironment. Streamline your research process and enhance translational success.', 'url': 'https://www.crownbio.com/model-systems/in-vivo#mixeno'}}, {'@type': 'ListItem', 'position': 6, 'item': {'@type': 'Service', 'name': 'Genetically Engineered Mouse Models (GEMMs)', 'description': 'Discover our GEMMs, engineered to express humanized drug targets. Advance your understanding of immune checkpoint proteins and accelerate drug discovery.', 'url': 'https://www.crownbio.com/model-systems/in-vivo#gemms'}}, {'@type': 'ListItem', 'position': 7, 'item': {'@type': 'Service', 'name': 'Tumor Homograft (Mu Prime™) Models', 'description': 'Combine the predictive power of GEMMs with the operational simplicity and growth consistency of syngeneic models. Optimize your pharmacological research for translational success.', 'url': 'https://www.crownbio.com/model-systems/in-vivo#muprime'}}, {'@type': 'ListItem', 'position': 8, 'item': {'@type': 'Service', 'name': 'Orthotopic Tumor Models with Advanced Imaging', 'description': 'Explore our orthotopic tumor models for clinically relevant research. Track tumor progression in real-time using high-frequency ultrasound and bioluminescent imaging. Drive translational success with precise imaging insights.', 'url': 'https://www.crownbio.com/model-systems/in-vivo#orthotopics'}}], 'mainEntity': [{'@type': 'Service', 'name': 'Patient-Derived Xenograft (PDX) Models', 'description': 'Leverage our unrivaled collection of PDX models, directly derived from patient tumors, to accurately reflect the heterogeneity and diversity of the human patient population. Drive translational success in preclinical oncology research.', 'url': 'https://www.crownbio.com/model-systems/in-vivo#pdx'}, {'@type': 'Service', 'name': 'Cell Line-Derived Xenograft (CDX) Models', 'description': 'Make informed decisions about the progression of your preclinical development program with our CDX models. Accelerate drug discovery and development timelines while minimizing costs.', 'url': 'https://www.crownbio.com/model-systems/in-vivo#cdx'}, {'@type': 'Service', 'name': 'Syngeneic Mouse Models', 'description': 'Discover our syngeneic models derived from immortalized mouse cancer cell lines. Evaluate single-agent and combination immunotherapies with fully competent immunity.', 'url': 'https://www.crownbio.com/model-systems/in-vivo#syngeneic'}, {'@type': 'Service', 'name': 'Humanized Mouse Models', 'description': 'Harness the human immune system against tumors with our humanized models. Utilize human hematopoietic stem cell (HSC) engraftment for clinically relevant preclinical research.', 'url': 'https://www.crownbio.com/model-systems/in-vivo#humanized'}, {'@type': 'Service', 'name': 'Mi Xeno™ Models', 'description': 'Explore Mi Xeno™, a simplified approach to evaluate immunotherapy within a human tumor microenvironment. Streamline your research process and enhance translational success.', 'url': 'https://www.crownbio.com/model-systems/in-vivo#mixeno'}, {'@type': 'Service', 'name': 'Genetically Engineered Mouse Models (GEMMs)', 'description': 'Discover our GEMMs, engineered to express humanized drug targets. Advance your understanding of immune checkpoint proteins and accelerate drug discovery.', 'url': 'https://www.crownbio.com/model-systems/in-vivo#gemms'}, {'@type': 'Service', 'name': 'Tumor Homograft (Mu Prime™) Models', 'description': 'Combine the predictive power of GEMMs with the operational simplicity and growth consistency of syngeneic models. Optimize your pharmacological research for translational success.', 'url': 'https://www.crownbio.com/model-systems/in-vivo#muprime'}, {'@type': 'Service', 'name': 'Orthotopic Tumor Models with Advanced Imaging', 'description': 'Explore our orthotopic tumor models for clinically relevant research. Track tumor progression in real-time using high-frequency ultrasound and bioluminescent imaging. Drive translational success with precise imaging insights.', 'url': 'https://www.crownbio.com/model-systems/in-vivo#orthotopics'}], 'publisher': {'@type': 'Organization', 'name': 'Crown Bioscience', 'url': 'https://www.crownbio.com', 'logo': 'https://www.crownbio.com/hubfs/website/images/logo.svg'}}
+2024-05-19 23:39:21,762 - root - INFO - Schema Report generated and saved to ./reports/www_crownbio_com_model_systems_in_vivo/schema_audit_20240519_233921.txt.
+2024-05-19 23:39:21,763 - root - INFO - JSON report saved to ./reports/www_crownbio_com_model_systems_in_vivo/schema_audit_20240519_233921.json

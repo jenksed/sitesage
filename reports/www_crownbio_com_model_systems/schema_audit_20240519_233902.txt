@@ -1,0 +1,43 @@
+
+=== Url ===
+h
+t
+t
+p
+s
+:
+/
+/
+w
+w
+w
+.
+c
+r
+o
+w
+n
+b
+i
+o
+.
+c
+o
+m
+/
+m
+o
+d
+e
+l
+-
+s
+y
+s
+t
+e
+m
+s
+
+=== Schema Data ===
+{'@context': 'https://schema.org', '@type': 'WebPage', 'name': 'Innovative Model Systems for Preclinical Studies', 'url': 'https://www.crownbio.com/model-systems', 'description': "Explore Crown Bioscience's comprehensive selection of in vitro, ex vivo, and in vivo model systems designed to advance preclinical development programs.", 'breadcrumb': {'@type': 'BreadcrumbList', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.crownbio.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Model Systems', 'item': 'https://www.crownbio.com/model-systems'}, {'@type': 'ListItem', 'position': 3, 'name': 'In Vitro Services', 'item': 'https://www.crownbio.com/model-systems#invitro'}, {'@type': 'ListItem', 'position': 4, 'name': 'In Vivo Model Systems', 'item': 'https://www.crownbio.com/model-systems#invivo'}, {'@type': 'ListItem', 'position': 5, 'name': 'Ex Vivo Services', 'item': 'https://www.crownbio.com/model-systems#exvivo'}]}, 'mainEntity': [{'@type': 'Service', 'name': 'In Vitro Services', 'description': 'Over 500 validated and well-characterized cell lines for drug response screening, including HUB organoids.', 'url': 'https://www.crownbio.com/model-systems#invitro'}, {'@type': 'Service', 'name': 'In Vivo Model Systems', 'description': 'Largest commercially available collection of PDX models and over 200 cell line-derived xenograft models.', 'url': 'https://www.crownbio.com/model-systems#invivo'}, {'@type': 'Service', 'name': 'Ex Vivo Services', 'description': '3D platform for evaluating monotherapy and combination drug responses in patient tumors with endogenous immune cell populations intact.', 'url': 'https://www.crownbio.com/model-systems#exvivo'}], 'publisher': {'@type': 'Organization', 'name': 'Crown Bioscience', 'url': 'https://www.crownbio.com', 'logo': 'https://www.crownbio.com/hubfs/website/images/logo.svg'}}

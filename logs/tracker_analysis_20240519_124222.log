@@ -1,0 +1,27 @@
+2024-05-19 12:42:22,512 - root - INFO - Logging setup complete.
+2024-05-19 12:42:22,888 - root - INFO - WebDriver setup complete.
+2024-05-19 12:42:22,889 - root - INFO - Checking https://www.crownbio.com/ for issues...
+2024-05-19 12:42:25,778 - root - INFO - Extracted 0 trackers for pattern 'analytics.js'.
+2024-05-19 12:42:25,778 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 12:42:26,066 - root - INFO - Extracted 0 trackers for pattern 'gtag/js'.
+2024-05-19 12:42:26,067 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 12:42:26,364 - root - INFO - Extracted 0 trackers for pattern 'hs-scripts.com'.
+2024-05-19 12:42:26,364 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 12:42:26,690 - root - INFO - Extracted 0 trackers for pattern 'hotjar.com'.
+2024-05-19 12:42:26,690 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 12:42:26,993 - root - INFO - Extracted 0 trackers for pattern 'googletagmanager.com/gtm.js'.
+2024-05-19 12:42:26,993 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 12:42:26,993 - root - INFO - No duplicate tracking codes detected.
+2024-05-19 12:42:27,362 - root - INFO - Extracted 34 scripts.
+2024-05-19 12:42:27,367 - root - INFO - Checked JS versions: ['1.7.1'].
+2024-05-19 12:42:27,371 - root - INFO - Checked config issues: [].
+2024-05-19 12:42:27,373 - root - INFO - Checked analytics config issues: ['Analytics tracking code not found or misconfigured.'].
+2024-05-19 12:42:27,373 - root - INFO - Multiple jQuery versions found: 1.7.1
+2024-05-19 12:42:27,374 - root - INFO - Analytics tracking code not found or misconfigured.
+2024-05-19 12:42:27,661 - root - INFO - Extracted 25 inline scripts.
+2024-05-19 12:42:27,780 - root - INFO - Extracted 15 CSS files.
+2024-05-19 12:42:57,897 - root - INFO - Checked deprecated HTML issues: [].
+2024-05-19 12:42:57,898 - root - INFO - Performance metrics for https://www.crownbio.com/: {'load_time': '1.2s', 'first_contentful_paint': '0.8s', 'speed_index': '1.0s'}.
+2024-05-19 12:43:07,919 - root - INFO - SEO issues: ['Missing H1 tag'].
+2024-05-19 12:43:07,922 - root - INFO - Accessibility issues: ['Found 2 images without alt attributes'].
+2024-05-19 12:43:07,923 - root - ERROR - An error occurred: name 'By' is not defined

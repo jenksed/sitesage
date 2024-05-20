@@ -1,0 +1,5 @@
+2024-05-19 14:31:08,202 - root - INFO - Logging setup complete.
+2024-05-19 14:31:08,202 - root - INFO - Configuration loaded.
+2024-05-19 14:31:08,610 - root - INFO - WebDriver setup complete.
+2024-05-19 14:31:08,632 - root - INFO - Checking https://www.crownbio.com for NLP analysis...
+2024-05-19 14:31:11,035 - root - ERROR - An error occurred while processing https://www.crownbio.com: 'WebDriver' object has no attribute 'find_element_by_tag_name'

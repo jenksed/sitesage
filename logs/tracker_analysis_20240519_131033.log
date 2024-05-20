@@ -1,0 +1,51 @@
+2024-05-19 13:10:33,048 - root - INFO - Logging setup complete.
+2024-05-19 13:10:33,048 - root - INFO - Configuration loaded.
+2024-05-19 13:10:33,448 - root - INFO - WebDriver setup complete.
+2024-05-19 13:10:33,465 - root - INFO - Checking https://www.crownbio.com/resources for issues...
+2024-05-19 13:10:35,933 - root - INFO - Extracted 0 trackers for pattern 'analytics.js'.
+2024-05-19 13:10:35,933 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:10:36,114 - root - INFO - Extracted 0 trackers for pattern 'gtag/js'.
+2024-05-19 13:10:36,114 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:10:36,305 - root - INFO - Extracted 0 trackers for pattern 'hs-scripts.com'.
+2024-05-19 13:10:36,305 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:10:36,498 - root - INFO - Extracted 0 trackers for pattern 'hotjar.com'.
+2024-05-19 13:10:36,498 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:10:36,696 - root - INFO - Extracted 0 trackers for pattern 'googletagmanager.com/gtm.js'.
+2024-05-19 13:10:36,696 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:10:36,696 - root - INFO - No duplicate tracking codes detected.
+2024-05-19 13:10:36,885 - root - INFO - Extracted 32 scripts.
+2024-05-19 13:10:36,887 - root - INFO - Checked JS versions: ['1.7.1'].
+2024-05-19 13:10:36,889 - root - INFO - Checked config issues: [].
+2024-05-19 13:10:36,891 - root - INFO - Checked analytics config issues: ['Analytics tracking code not found or misconfigured.'].
+2024-05-19 13:10:36,891 - root - INFO - Multiple jQuery versions found: 1.7.1
+2024-05-19 13:10:36,891 - root - INFO - Analytics tracking code not found or misconfigured.
+2024-05-19 13:10:37,090 - root - INFO - Extracted 19 inline scripts.
+2024-05-19 13:10:37,174 - root - INFO - Extracted 12 CSS files.
+2024-05-19 13:11:07,230 - root - INFO - Checked deprecated HTML issues: [].
+2024-05-19 13:11:07,230 - root - INFO - Performance metrics for https://www.crownbio.com/resources: {'load_time': '1.2s', 'first_contentful_paint': '0.8s', 'speed_index': '1.0s'}.
+2024-05-19 13:11:07,246 - root - INFO - SEO issues: [].
+2024-05-19 13:11:07,250 - root - INFO - Accessibility issues: ['Found 2 images without alt attributes'].
+2024-05-19 13:11:08,250 - root - INFO - Checking https://www.crownbio.com/ for issues...
+2024-05-19 13:11:10,370 - root - INFO - Extracted 0 trackers for pattern 'analytics.js'.
+2024-05-19 13:11:10,370 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:11:10,604 - root - INFO - Extracted 0 trackers for pattern 'gtag/js'.
+2024-05-19 13:11:10,604 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:11:10,848 - root - INFO - Extracted 0 trackers for pattern 'hs-scripts.com'.
+2024-05-19 13:11:10,849 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:11:11,186 - root - INFO - Extracted 0 trackers for pattern 'hotjar.com'.
+2024-05-19 13:11:11,187 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:11:11,526 - root - INFO - Extracted 0 trackers for pattern 'googletagmanager.com/gtm.js'.
+2024-05-19 13:11:11,526 - root - INFO - Found 0 duplicate scripts.
+2024-05-19 13:11:11,526 - root - INFO - No duplicate tracking codes detected.
+2024-05-19 13:11:11,836 - root - INFO - Extracted 35 scripts.
+2024-05-19 13:11:11,840 - root - INFO - Checked JS versions: ['1.7.1'].
+2024-05-19 13:11:11,845 - root - INFO - Checked config issues: [].
+2024-05-19 13:11:11,847 - root - INFO - Checked analytics config issues: ['Analytics tracking code not found or misconfigured.'].
+2024-05-19 13:11:11,847 - root - INFO - Multiple jQuery versions found: 1.7.1
+2024-05-19 13:11:11,847 - root - INFO - Analytics tracking code not found or misconfigured.
+2024-05-19 13:11:12,138 - root - INFO - Extracted 25 inline scripts.
+2024-05-19 13:11:12,248 - root - INFO - Extracted 15 CSS files.
+2024-05-19 13:11:42,328 - root - INFO - Checked deprecated HTML issues: [].
+2024-05-19 13:11:42,328 - root - INFO - Performance metrics for https://www.crownbio.com/: {'load_time': '1.2s', 'first_contentful_paint': '0.8s', 'speed_index': '1.0s'}.
+2024-05-19 13:11:52,347 - root - INFO - SEO issues: ['Missing H1 tag'].
+2024-05-19 13:11:52,352 - root - INFO - Accessibility issues: ['Found 2 images without alt attributes'].

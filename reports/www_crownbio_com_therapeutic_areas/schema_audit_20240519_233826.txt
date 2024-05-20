@@ -1,0 +1,47 @@
+
+=== Url ===
+h
+t
+t
+p
+s
+:
+/
+/
+w
+w
+w
+.
+c
+r
+o
+w
+n
+b
+i
+o
+.
+c
+o
+m
+/
+t
+h
+e
+r
+a
+p
+e
+u
+t
+i
+c
+-
+a
+r
+e
+a
+s
+
+=== Schema Data ===
+{'@context': 'https://schema.org', '@type': 'WebPage', 'name': 'Therapeutic Areas', 'url': 'https://www.crownbio.com/therapeutic-areas', 'description': "Explore Crown Bioscience's expertise in therapeutic areas including oncology and immuno-oncology, leveraging innovative scientific solutions for preclinical and translational research programs.", 'breadcrumb': {'@type': 'BreadcrumbList', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.crownbio.com/'}, {'@type': 'ListItem', 'position': 2, 'name': 'Therapeutic Areas', 'item': 'https://www.crownbio.com/therapeutic-areas'}, {'@type': 'ListItem', 'position': 3, 'name': 'Oncology', 'item': 'https://www.crownbio.com/therapeutic-areas#oncology'}, {'@type': 'ListItem', 'position': 4, 'name': 'Immuno-oncology', 'item': 'https://www.crownbio.com/therapeutic-areas#immuno-oncology'}]}, 'mainEntity': [{'@type': 'Service', 'name': 'Oncology', 'description': 'Accelerate your oncology program using our comprehensive suite of in vivo, in vitro, and ex vivo biological services.', 'url': 'https://www.crownbio.com/therapeutic-areas#oncology'}, {'@type': 'Service', 'name': 'Immuno-oncology', 'description': 'Explore a unique collection of ex-vivo patient tissue, validated syngeneic, mouse tumor homograft models, and humanized genetically engineered mouse models.', 'url': 'https://www.crownbio.com/therapeutic-areas#immuno-oncology'}], 'publisher': {'@type': 'Organization', 'name': 'Crown Bioscience', 'url': 'https://www.crownbio.com', 'logo': 'https://www.crownbio.com/hubfs/website/images/logo.svg'}}

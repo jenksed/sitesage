@@ -1,0 +1,5 @@
+2024-05-20 00:34:48,389 - root - INFO - Logging setup complete.
+2024-05-20 00:34:48,389 - root - INFO - Configuration loaded.
+2024-05-20 00:34:48,788 - root - INFO - WebDriver setup complete.
+2024-05-20 00:34:48,805 - root - INFO - Checking https://www.crownbio.com/model-systems/in-vitro/organoids for NLP analysis...
+2024-05-20 00:34:51,580 - root - ERROR - An error occurred while processing https://www.crownbio.com/model-systems/in-vitro/organoids: name 'extract_page_text' is not defined

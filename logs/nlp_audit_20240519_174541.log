@@ -1,0 +1,667 @@
+2024-05-19 17:45:41,558 - root - INFO - Logging setup complete.
+2024-05-19 17:45:41,558 - root - INFO - Configuration loaded.
+2024-05-19 17:45:41,571 - root - INFO - Checking https://www.crownbio.com/model/pdx for NLP analysis...
+2024-05-19 17:45:42,543 - root - INFO - URL: https://www.crownbio.com/model/pdx
+2024-05-19 17:45:42,543 - root - INFO - 
+=== Text Sentences ===
+2024-05-19 17:45:42,543 - root - INFO - Contact Us
+Databases
+CrownLink
+US Tel: +1 858 622 2900
+UK Tel: +44 870 242 2900
+All Contact Information
+Services Therapeutic Areas Oncology In Vitro Services 2D Cell Lines and Panels PDX-Derived Cell Lines: Prime Panel ™ Organoids Organoid and Immune Cell Co-Culture Omni Screen ™ High Content Imaging Services 3D Ex Vivo Patient Tissue Platform 3D Patient-Derived Swelling Assay for Cystic Fibrosis In Vivo Services Patient-Derived Xenograft Models CDX Models Immuno-oncology In Vitro Services In Vivo Models CDX Models Syngeneic Models Humanized Models Mi Xeno ™ Cystopathic Diseases High Content Imaging Services Cyst Swelling Assay for ADPKD 3D Patient-Derived Swelling Assay for Cystic Fibrosis ﻿Model
+2024-05-19 17:45:42,543 - root - INFO - Systems In Vitro 2D Cell Lines and Panels PDX-Derived Cell Lines: Prime Panel ™ 2D Hu Cell ™ CRISPR/Cas9 Organoids Organoid and Immune Cell Co-Culture In Vitro High Quality Imaging Ex Vivo Patient Tissue Platform High Content Imaging Services 3D Ex Vivo Patient Tissue Platform 3D Patient-Derived Swelling Assay for Cystic Fibrosis In Vivo Patient-Derived Xenograft Models Cell Line Derived Xenograft Models Syngeneic Tumor Models Humanized Models Mi Xeno ™ GEMMs Tumor Homograft (Mu Prime ™ )
+2024-05-19 17:45:42,543 - root - INFO - Orthotopic and Bioluminescent Models Immune Mediated Inflammatory Disease Models Diabetes IBD MS Models NASH Peritonitis Models Rheumatoid Arthritis Systemic Lupus Erythematosus Technologies Bioinformatics Crown Syn ™ Service Cell Line and Biosample Authentication Mouse
+2024-05-19 17:45:42,543 - root - INFO - I/O RNA-Seq Panel Biomarker Analysis Clinical Chemistry Services Cytokine & Chemokine Profiling Flow Cytometry Digital Pathology Tumor Tissue Miscroarray Rare Cell Analysis Mass Spectrometry-based Proteomics 4D-DIA Quantitative Proteomics 4D Phosphoproteomics CRISPR/Cas9 Genomics Standard Genomics Services Next Generation Sequencing Services Cell Line Authentication (CLA) with Deep Sequencing Mouse I/O RNA-Seq Panel NGS Data Analysis In Vitro High Content
+2024-05-19 17:45:42,543 - root - INFO - Imaging Ex Vivo Patient Tissue Platform High Content Imaging Services 3D Ex Vivo Patient Tissue Platform 3D Patient-Derived Swelling Assay for Cystic Fibrosis Mass Spectrometry-based Proteomics Service Type Biomarker Discovery Biomarkers of Response: Hu Mark ™ Biomarker Discovery and Companion Diagnostics Mouse Clinical Trials:
+2024-05-19 17:45:42,543 - root - INFO - Hu Trial ™ Signatures of Response: Hu Signature ™ DMPK Services Laboratory Services Genomics and Transcriptomics Standard Genomics Services Advanced Genomics and NGS Mouse I/O RNA-Seq Panel Cell Line Authentication with Deep Sequencing NGS data analysis Microbiome Sequencing Spatial Biology and Digital Pathology Digital Pathology Rare Cell Analysis High Content Imaging 3D Ex Vivo Patient Tissue Platform 3D Patient-Derived Swelling Assay for Cystic Fibrosis Rare Cell Analysis Tumor Tissue Microarray Immune Monitoring RNA sequencing Mouse I/O RNA-Seq panel Flow Cytometry Cytokine and chemokine profiling Digital Pathology Tumor Tissue Miscroarray ELISA and Multiplex Immunoassays Bioanalytical Services DMPK and Bioanalytical Services Flow Cytometry Cytokine and Chemokine Profiling Biofluid Test NanoString Spatial Multiomics Profiling Pharmacology and Bioanalytical Services Rodent Immuno-Safety Models Safety Pharmacology Studies Structural Biology Target Validation Screens Omni Screen ™ Mu Screen ™ Toxicology Efficacy Testing
+Therapeutic Areas Oncology In Vitro Services 2D Cell Lines and Panels PDX-Derived Cell Lines: Prime Panel ™ Organoids Organoid and Immune Cell Co-Culture Omni Screen ™ High Content Imaging Services 3D Ex Vivo Patient Tissue Platform 3D Patient-Derived Swelling Assay for Cystic Fibrosis In Vivo Services Patient-Derived Xenograft Models CDX Models Immuno-oncology In Vitro Services In Vivo Models CDX Models Syngeneic Models Humanized Models Mi Xeno ™ Cystopathic Diseases High Content Imaging Services Cyst Swelling Assay for ADPKD 3D Patient-Derived Swelling Assay for Cystic Fibrosis
+Oncology In Vitro Services 2D Cell Lines and Panels PDX-Derived Cell Lines: Prime Panel ™ Organoids Organoid and Immune Cell Co-Culture Omni Screen ™ High Content Imaging Services 3D Ex Vivo Patient Tissue Platform 3D Patient-Derived Swelling Assay for Cystic Fibrosis In Vivo Services Patient-Derived Xenograft Models CDX Models
+In Vitro Services 2D Cell Lines and Panels PDX-Derived Cell Lines: Prime Panel ™ Organoids Organoid and Immune Cell Co-Culture Omni Screen ™ High Content Imaging Services 3D Ex Vivo Patient Tissue Platform 3D Patient-Derived Swelling Assay for Cystic Fibrosis
+2D Cell Lines and Panels PDX-Derived Cell Lines: Prime Panel ™
+PDX-Derived Cell Lines: Prime Panel ™
+Organoids Organoid and Immune Cell Co-Culture
+Organoid and Immune Cell Co-Culture
+Omni Screen ™
+High Content Imaging Services 3D Ex Vivo Patient Tissue Platform 3D Patient-Derived Swelling Assay for Cystic Fibrosis
+3D Ex Vivo Patient Tissue Platform
+3D Patient-Derived Swelling Assay for Cystic Fibrosis
+
+2024-05-19 17:45:42,543 - root - INFO - In Vivo Services Patient-Derived Xenograft Models CDX Models
+Patient-Derived Xenograft Models
+CDX Models
+Immuno-oncology In Vitro Services In Vivo Models CDX Models Syngeneic Models Humanized Models Mi Xeno ™
+In Vitro Services
+In Vivo Models
+2024-05-19 17:45:42,543 - root - INFO - CDX Models Syngeneic Models Humanized Models Mi Xeno ™
+Syngeneic Models
+Humanized Models
+Mi Xeno ™
+Cystopathic Diseases High Content Imaging Services Cyst Swelling Assay for ADPKD 3D Patient-Derived Swelling Assay for Cystic Fibrosis
+High Content Imaging Services Cyst Swelling Assay for ADPKD 3D Patient-Derived Swelling Assay for Cystic Fibrosis
+Cyst Swelling Assay for ADPKD
+﻿Model
+2024-05-19 17:45:42,543 - root - INFO - Systems In Vitro 2D Cell Lines and Panels PDX-Derived Cell Lines: Prime Panel ™ 2D Hu Cell ™ CRISPR/Cas9 Organoids Organoid and Immune Cell Co-Culture In Vitro High Quality Imaging Ex Vivo Patient Tissue Platform High Content Imaging Services 3D Ex Vivo Patient Tissue Platform 3D Patient-Derived Swelling Assay for Cystic Fibrosis In Vivo Patient-Derived Xenograft Models Cell Line Derived Xenograft Models Syngeneic Tumor Models Humanized Models Mi Xeno ™ GEMMs Tumor Homograft (Mu Prime ™ )
+2024-05-19 17:45:42,548 - root - INFO - Orthotopic and Bioluminescent Models Immune Mediated Inflammatory Disease Models Diabetes IBD MS Models
+2024-05-19 17:45:42,548 - root - INFO - 
+=== Named Entities ===
+2024-05-19 17:45:42,548 - root - INFO - Us (GPE)
+2024-05-19 17:45:42,548 - root - INFO - US (GPE)
+2024-05-19 17:45:42,548 - root - INFO - 858 (CARDINAL)
+2024-05-19 17:45:42,548 - root - INFO - UK (GPE)
+2024-05-19 17:45:42,548 - root - INFO - 870 (CARDINAL)
+2024-05-19 17:45:42,548 - root - INFO - 242 (CARDINAL)
+2024-05-19 17:45:42,548 - root - INFO - 2900 (CARDINAL)
+2024-05-19 17:45:42,548 - root - INFO - All Contact Information
+Services Therapeutic Areas Oncology In (WORK_OF_ART)
+2024-05-19 17:45:42,548 - root - INFO - 2D Cell Lines (ORG)
+2024-05-19 17:45:42,548 - root - INFO - Organoid (PERSON)
+2024-05-19 17:45:42,548 - root - INFO - Immune Cell Co-Culture Omni Screen (ORG)
+2024-05-19 17:45:42,548 - root - INFO - Vivo Models CDX Models Syngeneic Models Humanized Models Mi Xeno ™ Cystopathic Diseases High Content Imaging Services (ORG)
+2024-05-19 17:45:42,548 - root - INFO - Vitro 2D Cell Lines (ORG)
+2024-05-19 17:45:42,548 - root - INFO - Organoid (PERSON)
+2024-05-19 17:45:42,548 - root - INFO - Immune Cell Co-Culture (ORG)
+2024-05-19 17:45:42,548 - root - INFO - Tumor Homograft (ORG)
+2024-05-19 17:45:42,548 - root - INFO - Biosample Authentication Mouse (PERSON)
+2024-05-19 17:45:42,548 - root - INFO - Panel Biomarker Analysis Clinical Chemistry Services Cytokine & Chemokine Profiling Flow Cytometry Digital Pathology Tumor Tissue (ORG)
+2024-05-19 17:45:42,548 - root - INFO - Proteomics 4D-DIA Quantitative Proteomics 4D Phosphoproteomics CRISPR/Cas9 Genomics Standard Genomics Services Next Generation Sequencing Services Cell Line Authentication (ORG)
+2024-05-19 17:45:42,548 - root - INFO - Deep Sequencing Mouse (PERSON)
+2024-05-19 17:45:42,548 - root - INFO - Proteomics Service Type Biomarker Discovery Biomarkers of Response (ORG)
+2024-05-19 17:45:42,548 - root - INFO - Biomarker Discovery (ORG)
+2024-05-19 17:45:42,548 - root - INFO - Hu Trial ™ Signatures (PERSON)
+2024-05-19 17:45:42,549 - root - INFO - NGS Mouse (PERSON)
+2024-05-19 17:45:42,549 - root - INFO - Deep Sequencing NGS (ORG)
+2024-05-19 17:45:42,549 - root - INFO - Microbiome Sequencing Spatial Biology (ORG)
+2024-05-19 17:45:42,549 - root - INFO - Digital Pathology Digital Pathology Rare Cell Analysis High Content Imaging (ORG)
+2024-05-19 17:45:42,549 - root - INFO - Microarray Immune Monitoring RNA (PERSON)
+2024-05-19 17:45:42,549 - root - INFO - Mouse (PERSON)
+2024-05-19 17:45:42,549 - root - INFO - Flow Cytometry Cytokine (PERSON)
+2024-05-19 17:45:42,549 - root - INFO - Digital Pathology Tumor Tissue (ORG)
+2024-05-19 17:45:42,549 - root - INFO - Multiplex Immunoassays Bioanalytical Services DMPK (ORG)
+2024-05-19 17:45:42,549 - root - INFO - Bioanalytical Services Flow Cytometry Cytokine (ORG)
+2024-05-19 17:45:42,549 - root - INFO - Chemokine Profiling Biofluid Test NanoString Spatial Multiomics Profiling Pharmacology and Bioanalytical Services Rodent Immuno-Safety Models Safety Pharmacology Studies Structural Biology Target Validation (ORG)
+2024-05-19 17:45:42,549 - root - INFO - Omni Screen (PERSON)
+2024-05-19 17:45:42,549 - root - INFO - 2D Cell Lines (ORG)
+2024-05-19 17:45:42,549 - root - INFO - Organoid (PERSON)
+2024-05-19 17:45:42,549 - root - INFO - Immune Cell Co-Culture Omni Screen (ORG)
+2024-05-19 17:45:42,549 - root - INFO - Vivo Models CDX Models Syngeneic Models Humanized Models Mi Xeno ™ Cystopathic Diseases High Content Imaging Services (ORG)
+2024-05-19 17:45:42,549 - root - INFO - 2D Cell Lines (ORG)
+2024-05-19 17:45:42,549 - root - INFO - Organoid (PERSON)
+2024-05-19 17:45:42,549 - root - INFO - Immune Cell Co-Culture Omni Screen (ORG)
+2024-05-19 17:45:42,549 - root - INFO - 2D Cell Lines (ORG)
+2024-05-19 17:45:42,549 - root - INFO - Organoid (PERSON)
+2024-05-19 17:45:42,553 - root - INFO - Immune Cell Co-Culture Omni Screen (ORG)
+2024-05-19 17:45:42,553 - root - INFO - 2D Cell Lines (ORG)
+2024-05-19 17:45:42,553 - root - INFO - Organoid (PERSON)
+2024-05-19 17:45:42,553 - root - INFO - Immune Cell Co-Culture
+ (ORG)
+2024-05-19 17:45:42,553 - root - INFO - Organoid (GPE)
+2024-05-19 17:45:42,553 - root - INFO - Immune Cell Co-Culture (ORG)
+2024-05-19 17:45:42,553 - root - INFO - Xenograft Models (PRODUCT)
+2024-05-19 17:45:42,553 - root - INFO - CDX Models (ORG)
+2024-05-19 17:45:42,553 - root - INFO - Immuno (PERSON)
+2024-05-19 17:45:42,553 - root - INFO - Vivo Models CDX Models Syngeneic Models Humanized Models Mi Xeno (ORG)
+2024-05-19 17:45:42,553 - root - INFO - Vivo Models (WORK_OF_ART)
+2024-05-19 17:45:42,553 - root - INFO - Syngeneic Models (ORG)
+2024-05-19 17:45:42,553 - root - INFO - Cystopathic Diseases High Content Imaging Services Cyst Swelling Assay for ADPKD 3D Patient-Derived Swelling Assay for Cystic Fibrosis
+High Content Imaging Services Cyst Swelling Assay for ADPKD 3D Patient-Derived Swelling Assay for Cystic Fibrosis
+Cyst Swelling Assay for ADPKD (WORK_OF_ART)
+2024-05-19 17:45:42,553 - root - INFO - Vitro 2D Cell Lines (ORG)
+2024-05-19 17:45:42,553 - root - INFO - Organoid (PERSON)
+2024-05-19 17:45:42,553 - root - INFO - Immune Cell Co-Culture (ORG)
+2024-05-19 17:45:42,553 - root - INFO - Tumor Homograft (ORG)
+2024-05-19 17:45:42,553 - root - INFO - Organoid (PERSON)
+2024-05-19 17:45:42,553 - root - INFO - Immune Cell Co-Culture (ORG)
+2024-05-19 17:45:42,553 - root - INFO - 2D Hu Cell (WORK_OF_ART)
+2024-05-19 17:45:42,553 - root - INFO - Tumor Homograft (ORG)
+2024-05-19 17:45:42,553 - root - INFO - Tumor Homograft (ORG)
+2024-05-19 17:45:42,553 - root - INFO - Orthotopic and Bioluminescent Models (ORG)
+2024-05-19 17:45:42,553 - root - INFO - Immune Mediated Inflammatory Disease Models Diabetes IBD MS Models NASH Peritonitis Models Rheumatoid Arthritis Systemic Lupus Erythematosus
+Diabetes
+IBD
+MS Models (ORG)
+2024-05-19 17:45:42,553 - root - INFO - Peritonitis Models
+Rheumatoid Arthritis
+Systemic Lupus Erythematosus
+Technologies Bioinformatics Crown Syn ™ Service Cell Line (WORK_OF_ART)
+2024-05-19 17:45:42,553 - root - INFO - Biosample Authentication Mouse (PERSON)
+2024-05-19 17:45:42,553 - root - INFO - Panel Biomarker Analysis Clinical Chemistry Services Cytokine & Chemokine Profiling Flow Cytometry Digital Pathology Tumor Tissue (ORG)
+2024-05-19 17:45:42,553 - root - INFO - Proteomics 4D-DIA Quantitative Proteomics 4D Phosphoproteomics CRISPR/Cas9 Genomics Standard Genomics Services Next Generation Sequencing Services Cell Line Authentication (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Deep Sequencing Mouse (PERSON)
+2024-05-19 17:45:42,554 - root - INFO - Proteomics
+Bioinformatics Crown Syn ™ (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Biosample Authentication Mouse (PERSON)
+2024-05-19 17:45:42,554 - root - INFO - Cell Line (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Biosample Authentication (PERSON)
+2024-05-19 17:45:42,554 - root - INFO - Mouse (PERSON)
+2024-05-19 17:45:42,554 - root - INFO - Biomarker Analysis Clinical Chemistry Services Cytokine & Chemokine Profiling Flow Cytometry Digital Pathology (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Proteomics 4D-DIA Quantitative Proteomics 4D Phosphoproteomics
+Clinical Chemistry Services
+Cytokine & Chemokine Profiling
+Flow Cytometry (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Digital Pathology Tumor Tissue Miscroarray (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Tumor Tissue Miscroarray
+Rare Cell Analysis (FAC)
+2024-05-19 17:45:42,554 - root - INFO - Proteomics 4D-DIA Quantitative Proteomics 4D Phosphoproteomics (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Phosphoproteomics
+Genomics Standard Genomics Services Next Generation Sequencing Services Cell Line Authentication (WORK_OF_ART)
+2024-05-19 17:45:42,554 - root - INFO - Deep Sequencing Mouse (PERSON)
+2024-05-19 17:45:42,554 - root - INFO - Standard Genomics Services (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Next Generation Sequencing Services (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Cell Line Authentication (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Deep Sequencing (PERSON)
+2024-05-19 17:45:42,554 - root - INFO - Mass Spectrometry (GPE)
+2024-05-19 17:45:42,554 - root - INFO - Proteomics
+Service Type Biomarker Discovery Biomarkers of Response (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Biomarker Discovery (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Hu Trial ™ Signatures (PERSON)
+2024-05-19 17:45:42,554 - root - INFO - NGS Mouse (PERSON)
+2024-05-19 17:45:42,554 - root - INFO - Deep Sequencing NGS (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Microbiome Sequencing Spatial Biology (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Digital Pathology Digital Pathology Rare Cell Analysis High Content Imaging (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Microarray Immune Monitoring RNA (PERSON)
+2024-05-19 17:45:42,554 - root - INFO - Mouse (PERSON)
+2024-05-19 17:45:42,554 - root - INFO - Flow Cytometry Cytokine (PERSON)
+2024-05-19 17:45:42,554 - root - INFO - Digital Pathology Tumor Tissue (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Multiplex Immunoassays Bioanalytical Services DMPK (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Bioanalytical Services Flow Cytometry Cytokine (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Chemokine Profiling Biofluid Test NanoString Spatial Multiomics Profiling Pharmacology and Bioanalytical Services Rodent Immuno-Safety Models Safety Pharmacology Studies Structural Biology Target Validation (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Omni Screen (PERSON)
+2024-05-19 17:45:42,554 - root - INFO - Biomarker Discovery (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Hu Trial ™ Signatures (PERSON)
+2024-05-19 17:45:42,554 - root - INFO - Biomarker Discovery (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Hu Trial (PERSON)
+2024-05-19 17:45:42,554 - root - INFO - Laboratory Services Genomics and Transcriptomics Standard Genomics Services Advanced Genomics (ORG)
+2024-05-19 17:45:42,554 - root - INFO - NGS Mouse (PERSON)
+2024-05-19 17:45:42,554 - root - INFO - Deep Sequencing NGS (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Microbiome Sequencing Spatial Biology (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Digital Pathology Digital Pathology (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Microarray Immune Monitoring RNA (PERSON)
+2024-05-19 17:45:42,554 - root - INFO - Mouse (PERSON)
+2024-05-19 17:45:42,554 - root - INFO - Flow Cytometry Cytokine (PERSON)
+2024-05-19 17:45:42,554 - root - INFO - Digital Pathology Tumor Tissue (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Multiplex Immunoassays Bioanalytical Services DMPK (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Bioanalytical Services (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Chemokine Profiling Biofluid Test NanoString Spatial Multiomics Profiling
+ (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Genomics and Transcriptomics Standard Genomics Services Advanced Genomics (ORG)
+2024-05-19 17:45:42,554 - root - INFO - NGS Mouse (PERSON)
+2024-05-19 17:45:42,554 - root - INFO - Deep Sequencing NGS (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Microbiome Sequencing
+Advanced Genomics (PERSON)
+2024-05-19 17:45:42,554 - root - INFO - NGS (ORG)
+2024-05-19 17:45:42,554 - root - INFO - Deep Sequencing (PERSON)
+2024-05-19 17:45:42,554 - root - INFO - NGS (ORG)
+2024-05-19 17:45:42,555 - root - INFO - Microbiome Sequencing
+Spatial Biology (PERSON)
+2024-05-19 17:45:42,555 - root - INFO - Digital Pathology Digital Pathology (ORG)
+2024-05-19 17:45:42,555 - root - INFO - Digital Pathology Rare Cell Analysis (ORG)
+2024-05-19 17:45:42,555 - root - INFO - Tumor Tissue Microarray (ORG)
+2024-05-19 17:45:42,555 - root - INFO - Immune Monitoring RNA (ORG)
+2024-05-19 17:45:42,555 - root - INFO - Mouse (PERSON)
+2024-05-19 17:45:42,555 - root - INFO - Flow Cytometry Cytokine (PERSON)
+2024-05-19 17:45:42,555 - root - INFO - Digital Pathology Tumor Tissue (ORG)
+2024-05-19 17:45:42,555 - root - INFO - Multiplex Immunoassays (PERSON)
+2024-05-19 17:45:42,555 - root - INFO - RNA (ORG)
+2024-05-19 17:45:42,555 - root - INFO - Mouse (PERSON)
+2024-05-19 17:45:42,555 - root - INFO - Cytokine (PRODUCT)
+2024-05-19 17:45:42,555 - root - INFO - ELISA (ORG)
+2024-05-19 17:45:42,555 - root - INFO - Multiplex Immunoassays
+Bioanalytical Services (ORG)
+2024-05-19 17:45:42,555 - root - INFO - Bioanalytical Services Flow Cytometry Cytokine (ORG)
+2024-05-19 17:45:42,555 - root - INFO - Chemokine Profiling Biofluid Test (ORG)
+2024-05-19 17:45:42,555 - root - INFO - DMPK (ORG)
+2024-05-19 17:45:42,555 - root - INFO - Bioanalytical Services (ORG)
+2024-05-19 17:45:42,555 - root - INFO - Cytokine (PRODUCT)
+2024-05-19 17:45:42,555 - root - INFO - Pharmacology and Bioanalytical Services Rodent Immuno-Safety Models Safety Pharmacology Studies Structural Biology Target Validation (ORG)
+2024-05-19 17:45:42,555 - root - INFO - Structural Biology
+Target Validation (ORG)
+2024-05-19 17:45:42,555 - root - INFO - Omni Screen (PERSON)
+2024-05-19 17:45:42,555 - root - INFO - Mu Screen (FAC)
+2024-05-19 17:45:42,555 - root - INFO - Careers
+Our Science Publications Resources Blog
+Publications
+Resources
+Blog
+Start Your Study Now
+Patient-Derived Xenograft (PDX (WORK_OF_ART)
+2024-05-19 17:45:42,555 - root - INFO - Xenograft (ORG)
+2024-05-19 17:45:42,555 - root - INFO - PDX (ORG)
+2024-05-19 17:45:42,555 - root - INFO - over 3,000 (CARDINAL)
+2024-05-19 17:45:42,555 - root - INFO - over thirty (CARDINAL)
+2024-05-19 17:45:42,555 - root - INFO - Acute Lymphoblastic Leukemia (ORG)
+2024-05-19 17:45:42,555 - root - INFO - Kidney Cancer (PERSON)
+2024-05-19 17:45:42,555 - root - INFO - Liver Cancer (PERSON)
+2024-05-19 17:45:42,555 - root - INFO - Lung Cancer (PERSON)
+2024-05-19 17:45:42,555 - root - INFO - Lymphoma (GPE)
+2024-05-19 17:45:42,555 - root - INFO - Mixed Mullerian Cancer (PERSON)
+2024-05-19 17:45:42,555 - root - INFO - Ovarian Cancer
+Pancreatic Cancer (PERSON)
+2024-05-19 17:45:42,555 - root - INFO - Uterine Cancer (PERSON)
+2024-05-19 17:45:42,555 - root - INFO - Us (GPE)
+2024-05-19 17:45:42,555 - root - INFO - Model Systems
+Technologies
+Service Type
+Preclinical Models
+Factsheets (ORG)
+2024-05-19 17:45:42,555 - root - INFO - White Papers
+Ebooks
+Webinars
+Platforms (WORK_OF_ART)
+2024-05-19 17:45:42,555 - root - INFO - Onco Express (ORG)
+2024-05-19 17:45:42,555 - root - INFO - Xeno Base (PERSON)
+2024-05-19 17:45:42,555 - root - INFO - Mu Base ® (FAC)
+2024-05-19 17:45:42,555 - root - INFO - Crown Link (PRODUCT)
+2024-05-19 17:45:42,555 - root - INFO - Us (GPE)
+2024-05-19 17:45:42,555 - root - INFO - 858 381 (CARDINAL)
+2024-05-19 17:45:42,555 - root - INFO - 
+=== Keywords ===
+2024-05-19 17:45:42,555 - root - INFO - Us
+Databases
+CrownLink
+US Tel
+2024-05-19 17:45:42,555 - root - INFO - 622 2900
+UK
+2024-05-19 17:45:42,555 - root - INFO - All Contact Information
+Services
+2024-05-19 17:45:42,555 - root - INFO - Therapeutic Areas
+2024-05-19 17:45:42,555 - root - INFO - Vitro
+2024-05-19 17:45:42,555 - root - INFO - 2D Cell Lines
+2024-05-19 17:45:42,555 - root - INFO - Panels
+2024-05-19 17:45:42,555 - root - INFO - Prime Panel
+2024-05-19 17:45:42,555 - root - INFO - Organoids Organoid
+2024-05-19 17:45:42,555 - root - INFO - Immune Cell Co-Culture Omni Screen
+2024-05-19 17:45:42,556 - root - INFO - ™
+2024-05-19 17:45:42,556 - root - INFO - High Content Imaging Services
+2024-05-19 17:45:42,556 - root - INFO - Ex Vivo Patient Tissue Platform 3D Patient-Derived Swelling Assay
+2024-05-19 17:45:42,556 - root - INFO - Cystic Fibrosis
+2024-05-19 17:45:42,556 - root - INFO - Vivo Services Patient-Derived Xenograft Models
+2024-05-19 17:45:42,556 - root - INFO - Vitro
+2024-05-19 17:45:42,556 - root - INFO - Vivo Models
+2024-05-19 17:45:42,556 - root - INFO - CDX Models Syngeneic Models Humanized Models Mi Xeno
+2024-05-19 17:45:42,556 - root - INFO - Cystopathic Diseases High Content Imaging Services Cyst Swelling Assay
+2024-05-19 17:45:42,556 - root - INFO - ADPKD 3D Patient-Derived Swelling Assay
+2024-05-19 17:45:42,556 - root - INFO - Cystic Fibrosis
+2024-05-19 17:45:42,556 - root - INFO - Vitro
+2024-05-19 17:45:42,556 - root - INFO - Prime Panel
+2024-05-19 17:45:42,556 - root - INFO - 2D Hu Cell
+2024-05-19 17:45:42,556 - root - INFO - CRISPR/Cas9 Organoids Organoid
+2024-05-19 17:45:42,556 - root - INFO - Immune Cell Co
+2024-05-19 17:45:42,556 - root - INFO - -
+2024-05-19 17:45:42,556 - root - INFO - Culture
+2024-05-19 17:45:42,556 - root - INFO - Vitro
+2024-05-19 17:45:42,556 - root - INFO - High Quality Imaging Ex Vivo Patient Tissue
+2024-05-19 17:45:42,556 - root - INFO - Platform High Content Imaging Services
+2024-05-19 17:45:42,556 - root - INFO - Ex Vivo Patient Tissue Platform 3D Patient-Derived Swelling Assay
+2024-05-19 17:45:42,556 - root - INFO - Cystic Fibrosis
+2024-05-19 17:45:42,556 - root - INFO - Vivo Patient-Derived Xenograft Models Cell Line Derived Xenograft Models
+2024-05-19 17:45:42,556 - root - INFO - Syngeneic Tumor Models Humanized Models Mi Xeno
+2024-05-19 17:45:42,556 - root - INFO - Tumor Homograft
+2024-05-19 17:45:42,556 - root - INFO - Mu Prime
+2024-05-19 17:45:42,556 - root - INFO - Orthotopic and Bioluminescent Models Immune Mediated Inflammatory Disease Models Diabetes
+2024-05-19 17:45:42,556 - root - INFO - MS Models
+2024-05-19 17:45:42,556 - root - INFO - Miscroarray
+2024-05-19 17:45:42,556 - root - INFO - Services
+2024-05-19 17:45:42,556 - root - INFO - Cell Line Authentication
+2024-05-19 17:45:42,556 - root - INFO - CLA
+2024-05-19 17:45:42,556 - root - INFO - Deep Sequencing Mouse I/O RNA-Seq Panel NGS Data Analysis
+2024-05-19 17:45:42,556 - root - INFO - Vitro
+2024-05-19 17:45:42,556 - root - INFO - Imaging Ex Vivo Patient Tissue
+2024-05-19 17:45:42,556 - root - INFO - Platform High Content Imaging Services
+2024-05-19 17:45:42,556 - root - INFO - Ex Vivo Patient Tissue Platform 3D Patient-Derived Swelling Assay
+2024-05-19 17:45:42,556 - root - INFO - Cystic Fibrosis Mass Spectrometry-based Proteomics Service Type Biomarker Discovery Biomarkers
+2024-05-19 17:45:42,556 - root - INFO - Response
+2024-05-19 17:45:42,556 - root - INFO - Hu Mark
+2024-05-19 17:45:42,556 - root - INFO - Biomarker Discovery
+2024-05-19 17:45:42,556 - root - INFO - Companion Diagnostics Mouse Clinical Trials
+2024-05-19 17:45:42,556 - root - INFO - Hu Trial
+2024-05-19 17:45:42,556 - root - INFO - Signatures
+2024-05-19 17:45:42,556 - root - INFO - Response
+2024-05-19 17:45:42,556 - root - INFO - Hu Signature
+2024-05-19 17:45:42,556 - root - INFO - DMPK Services Laboratory Services Genomics
+2024-05-19 17:45:42,556 - root - INFO - Transcriptomics Standard Genomics Services
+2024-05-19 17:45:42,556 - root - INFO - Advanced Genomics
+2024-05-19 17:45:42,557 - root - INFO - I/O RNA-Seq Panel Cell Line Authentication
+2024-05-19 17:45:42,557 - root - INFO - NGS data analysis
+2024-05-19 17:45:42,557 - root - INFO - Spatial Biology
+2024-05-19 17:45:42,557 - root - INFO - Digital Pathology
+2024-05-19 17:45:42,557 - root - INFO - Cystic Fibrosis Rare Cell Analysis Tumor Tissue Microarray Immune Monitoring RNA
+2024-05-19 17:45:42,557 - root - INFO - Mouse I/O RNA-Seq panel Flow Cytometry Cytokine
+2024-05-19 17:45:42,557 - root - INFO - Digital Pathology Tumor Tissue
+2024-05-19 17:45:42,557 - root - INFO - Miscroarray ELISA
+2024-05-19 17:45:42,557 - root - INFO - Multiplex Immunoassays Bioanalytical Services DMPK
+2024-05-19 17:45:42,557 - root - INFO - Bioanalytical Services
+2024-05-19 17:45:42,557 - root - INFO - Flow Cytometry Cytokine and Chemokine Profiling Biofluid Test NanoString Spatial Multiomics Profiling Pharmacology and Bioanalytical Services Rodent Immuno-Safety Models Safety Pharmacology Studies Structural Biology Target Validation Screens Omni Screen
+2024-05-19 17:45:42,557 - root - INFO - Mu Screen
+2024-05-19 17:45:42,557 - root - INFO - Vitro
+2024-05-19 17:45:42,557 - root - INFO - Prime Panel
+2024-05-19 17:45:42,557 - root - INFO - Organoids Organoid
+2024-05-19 17:45:42,557 - root - INFO - Immune Cell Co-Culture Omni Screen
+2024-05-19 17:45:42,557 - root - INFO - High Content Imaging Services
+2024-05-19 17:45:42,557 - root - INFO - Ex Vivo Patient Tissue Platform 3D Patient-Derived Swelling Assay
+2024-05-19 17:45:42,557 - root - INFO - Cystic Fibrosis
+2024-05-19 17:45:42,557 - root - INFO - Vivo Services Patient-Derived Xenograft Models
+2024-05-19 17:45:42,557 - root - INFO - Vitro
+2024-05-19 17:45:42,557 - root - INFO - Vivo Models
+2024-05-19 17:45:42,557 - root - INFO - CDX Models Syngeneic Models Humanized Models Mi Xeno
+2024-05-19 17:45:42,557 - root - INFO - Cystopathic Diseases High Content Imaging Services Cyst Swelling Assay
+2024-05-19 17:45:42,557 - root - INFO - ADPKD 3D Patient-Derived Swelling Assay
+2024-05-19 17:45:42,557 - root - INFO - Vitro
+2024-05-19 17:45:42,557 - root - INFO - Prime Panel
+2024-05-19 17:45:42,557 - root - INFO - Organoids Organoid
+2024-05-19 17:45:42,557 - root - INFO - Immune Cell Co-Culture Omni Screen
+2024-05-19 17:45:42,557 - root - INFO - High Content Imaging Services
+2024-05-19 17:45:42,557 - root - INFO - Ex Vivo Patient Tissue Platform 3D Patient-Derived Swelling Assay
+2024-05-19 17:45:42,557 - root - INFO - Cystic Fibrosis
+2024-05-19 17:45:42,557 - root - INFO - Vitro Services
+2024-05-19 17:45:42,557 - root - INFO - Prime Panel
+2024-05-19 17:45:42,557 - root - INFO - Organoids Organoid
+2024-05-19 17:45:42,557 - root - INFO - Immune Cell Co-Culture Omni Screen
+2024-05-19 17:45:42,557 - root - INFO - High Content Imaging Services
+2024-05-19 17:45:42,557 - root - INFO - Ex Vivo Patient Tissue Platform 3D Patient-Derived Swelling Assay
+2024-05-19 17:45:42,557 - root - INFO - Cystic Fibrosis
+2D Cell Lines and Panels PDX-Derived Cell Lines
+2024-05-19 17:45:42,557 - root - INFO - Prime Panel
+2024-05-19 17:45:42,557 - root - INFO - Organoids Organoid
+2024-05-19 17:45:42,557 - root - INFO - Immune Cell Co-Culture
+Organoid
+2024-05-19 17:45:42,557 - root - INFO - Immune Cell Co-Culture
+Omni Screen
+2024-05-19 17:45:42,557 - root - INFO - Ex Vivo Patient Tissue Platform 3D Patient-Derived Swelling Assay
+2024-05-19 17:45:42,557 - root - INFO - Cystic Fibrosis
+3D Ex Vivo Patient Tissue Platform
+3D Patient-Derived Swelling Assay
+2024-05-19 17:45:42,557 - root - INFO - Cystic Fibrosis
+2024-05-19 17:45:42,557 - root - INFO - Vivo Services Patient-Derived Xenograft Models
+2024-05-19 17:45:42,557 - root - INFO - CDX Models
+Patient-Derived Xenograft Models
+2024-05-19 17:45:42,557 - root - INFO - CDX Models
+2024-05-19 17:45:42,557 - root - INFO - Vitro
+2024-05-19 17:45:42,557 - root - INFO - Vivo Models CDX Models Syngeneic Models Humanized Models Mi Xeno
+2024-05-19 17:45:42,558 - root - INFO - Vitro
+2024-05-19 17:45:42,558 - root - INFO - Vivo Models
+2024-05-19 17:45:42,558 - root - INFO - CDX Models
+2024-05-19 17:45:42,558 - root - INFO - Syngeneic Models Humanized Models Mi Xeno
+2024-05-19 17:45:42,558 - root - INFO - Syngeneic Models
+Humanized Models
+2024-05-19 17:45:42,558 - root - INFO - Mi Xeno
+2024-05-19 17:45:42,558 - root - INFO - ADPKD 3D Patient-Derived Swelling Assay
+2024-05-19 17:45:42,558 - root - INFO - High Content Imaging Services
+2024-05-19 17:45:42,558 - root - INFO - ADPKD 3D Patient-Derived Swelling Assay
+2024-05-19 17:45:42,558 - root - INFO - Cystic Fibrosis
+Cyst Swelling Assay
+2024-05-19 17:45:42,558 - root - INFO - ADPKD
+2024-05-19 17:45:42,558 - root - INFO - Vitro
+2024-05-19 17:45:42,558 - root - INFO - Prime Panel
+2024-05-19 17:45:42,558 - root - INFO - 2D Hu Cell
+2024-05-19 17:45:42,558 - root - INFO - CRISPR/Cas9 Organoids Organoid
+2024-05-19 17:45:42,558 - root - INFO - Immune Cell Co
+2024-05-19 17:45:42,558 - root - INFO - -
+2024-05-19 17:45:42,558 - root - INFO - Culture
+2024-05-19 17:45:42,558 - root - INFO - Vitro
+2024-05-19 17:45:42,558 - root - INFO - High Quality Imaging Ex Vivo Patient Tissue
+2024-05-19 17:45:42,558 - root - INFO - Platform High Content Imaging Services
+2024-05-19 17:45:42,558 - root - INFO - Ex Vivo Patient Tissue Platform 3D Patient-Derived Swelling Assay
+2024-05-19 17:45:42,558 - root - INFO - Cystic Fibrosis
+2024-05-19 17:45:42,558 - root - INFO - Vivo Patient-Derived Xenograft Models Cell Line Derived Xenograft Models
+2024-05-19 17:45:42,558 - root - INFO - Syngeneic Tumor Models Humanized Models Mi Xeno
+2024-05-19 17:45:42,558 - root - INFO - Tumor Homograft
+2024-05-19 17:45:42,558 - root - INFO - Mu Prime
+2024-05-19 17:45:42,558 - root - INFO - Orthotopic and Bioluminescent Models Immune Mediated Inflammatory Disease Models Diabetes
+2024-05-19 17:45:42,558 - root - INFO - MS Models
+2024-05-19 17:45:42,558 - root - INFO - Peritonitis Models Rheumatoid Arthritis Systemic Lupus Erythematosus
+2024-05-19 17:45:42,558 - root - INFO - Vitro
+2024-05-19 17:45:42,558 - root - INFO - Prime Panel
+2024-05-19 17:45:42,558 - root - INFO - 2D Hu Cell
+2024-05-19 17:45:42,558 - root - INFO - CRISPR/Cas9 Organoids Organoid
+2024-05-19 17:45:42,558 - root - INFO - Immune Cell Co
+2024-05-19 17:45:42,558 - root - INFO - -
+2024-05-19 17:45:42,558 - root - INFO - Culture
+2024-05-19 17:45:42,558 - root - INFO - Vitro
+2024-05-19 17:45:42,558 - root - INFO - High Quality Imaging Ex Vivo Patient Tissue
+2024-05-19 17:45:42,558 - root - INFO - Platform High Content Imaging Services
+2024-05-19 17:45:42,558 - root - INFO - Ex Vivo Patient Tissue Platform 3D Patient-Derived Swelling Assay
+2024-05-19 17:45:42,558 - root - INFO - Cystic Fibrosis
+2024-05-19 17:45:42,558 - root - INFO - 2D Hu Cell
+2024-05-19 17:45:42,558 - root - INFO - CRISPR/Cas9
+2024-05-19 17:45:42,558 - root - INFO - Vitro
+2024-05-19 17:45:42,558 - root - INFO - High Quality Imaging Ex Vivo Patient Tissue
+2024-05-19 17:45:42,558 - root - INFO - Platform High Content Imaging Services
+2024-05-19 17:45:42,558 - root - INFO - Ex Vivo Patient Tissue Platform 3D Patient-Derived Swelling Assay
+2024-05-19 17:45:42,558 - root - INFO - Cystic Fibrosis
+Ex Vivo Patient Tissue Platform
+2024-05-19 17:45:42,558 - root - INFO - Vivo Patient-Derived Xenograft Models Cell Line Derived Xenograft Models
+2024-05-19 17:45:42,558 - root - INFO - Syngeneic Tumor Models Humanized Models Mi Xeno
+2024-05-19 17:45:42,558 - root - INFO - Tumor Homograft
+2024-05-19 17:45:42,558 - root - INFO - Mu Prime
+2024-05-19 17:45:42,558 - root - INFO - Orthotopic and Bioluminescent Models Immune Mediated Inflammatory Disease Models Diabetes
+2024-05-19 17:45:42,558 - root - INFO - MS Models
+2024-05-19 17:45:42,559 - root - INFO - Rheumatoid Arthritis Systemic Lupus Erythematosus
+Cell Line Derived Xenograft Models
+2024-05-19 17:45:42,559 - root - INFO - Syngeneic Tumor Models
+2024-05-19 17:45:42,559 - root - INFO - GEMMs
+2024-05-19 17:45:42,559 - root - INFO - Mu Prime
+2024-05-19 17:45:42,559 - root - INFO - Orthotopic and Bioluminescent Models
+Immune Mediated Inflammatory Disease Models Diabetes
+2024-05-19 17:45:42,559 - root - INFO - MS Models
+2024-05-19 17:45:42,559 - root - INFO - Peritonitis Models Rheumatoid Arthritis Systemic Lupus Erythematosus
+Diabetes
+2024-05-19 17:45:42,559 - root - INFO - IBD
+MS Models
+2024-05-19 17:45:42,559 - root - INFO - Miscroarray
+2024-05-19 17:45:42,559 - root - INFO - Services
+2024-05-19 17:45:42,559 - root - INFO - Cell Line Authentication
+2024-05-19 17:45:42,559 - root - INFO - CLA
+2024-05-19 17:45:42,559 - root - INFO - Deep Sequencing Mouse I/O RNA-Seq Panel NGS Data Analysis
+2024-05-19 17:45:42,559 - root - INFO - Vitro
+2024-05-19 17:45:42,559 - root - INFO - Imaging Ex Vivo Patient Tissue
+2024-05-19 17:45:42,559 - root - INFO - Platform High Content Imaging Services
+2024-05-19 17:45:42,559 - root - INFO - Ex Vivo Patient Tissue Platform 3D Patient-Derived Swelling Assay
+2024-05-19 17:45:42,559 - root - INFO - Cystic Fibrosis Mass Spectrometry-based Proteomics
+Bioinformatics Crown Syn
+2024-05-19 17:45:42,559 - root - INFO - Service Cell Line and Biosample Authentication Mouse I/O RNA-Seq Panel
+Crown Syn ™ Service
+Cell Line and Biosample Authentication
+Mouse I/O
+2024-05-19 17:45:42,559 - root - INFO - Biomarker Analysis
+2024-05-19 17:45:42,559 - root - INFO - Clinical Chemistry Services
+Cytokine & Chemokine Profiling
+Flow Cytometry
+Digital Pathology Tumor Tissue
+2024-05-19 17:45:42,559 - root - INFO - Mass Spectrometry-based Proteomics 4D-DIA Quantitative Proteomics 4D Phosphoproteomics
+2024-05-19 17:45:42,559 - root - INFO - 4D-DIA Quantitative Proteomics
+4D Phosphoproteomics
+Genomics Standard Genomics Services
+2024-05-19 17:45:42,559 - root - INFO - Services
+2024-05-19 17:45:42,559 - root - INFO - Cell Line Authentication
+2024-05-19 17:45:42,559 - root - INFO - CLA
+2024-05-19 17:45:42,559 - root - INFO - I/O RNA-Seq Panel NGS Data Analysis
+Standard Genomics Services
+2024-05-19 17:45:42,559 - root - INFO - Services
+Cell Line Authentication
+2024-05-19 17:45:42,559 - root - INFO - CLA
+2024-05-19 17:45:42,559 - root - INFO - Deep Sequencing
+NGS Data Analysis
+2024-05-19 17:45:42,559 - root - INFO - Vitro
+2024-05-19 17:45:42,559 - root - INFO - High Content
+2024-05-19 17:45:42,559 - root - INFO - Imaging Ex Vivo Patient Tissue
+2024-05-19 17:45:42,559 - root - INFO - Platform High Content Imaging Services
+2024-05-19 17:45:42,559 - root - INFO - Ex Vivo Patient Tissue Platform 3D Patient-Derived Swelling Assay
+2024-05-19 17:45:42,559 - root - INFO - Cystic Fibrosis
+Mass Spectrometry-based Proteomics
+Service Type Biomarker Discovery Biomarkers
+2024-05-19 17:45:42,559 - root - INFO - Response
+2024-05-19 17:45:42,559 - root - INFO - Hu Mark
+2024-05-19 17:45:42,559 - root - INFO - Biomarker Discovery
+2024-05-19 17:45:42,559 - root - INFO - Companion Diagnostics Mouse Clinical Trials
+2024-05-19 17:45:42,559 - root - INFO - Hu Trial
+2024-05-19 17:45:42,559 - root - INFO - Signatures
+2024-05-19 17:45:42,559 - root - INFO - Response
+2024-05-19 17:45:42,559 - root - INFO - Hu Signature
+2024-05-19 17:45:42,559 - root - INFO - DMPK Services Laboratory Services Genomics
+2024-05-19 17:45:42,559 - root - INFO - Transcriptomics Standard Genomics Services
+2024-05-19 17:45:42,559 - root - INFO - Advanced Genomics
+2024-05-19 17:45:42,559 - root - INFO - I/O RNA-Seq Panel Cell Line Authentication
+2024-05-19 17:45:42,559 - root - INFO - NGS data analysis
+2024-05-19 17:45:42,559 - root - INFO - Spatial Biology
+2024-05-19 17:45:42,559 - root - INFO - Digital Pathology
+2024-05-19 17:45:42,559 - root - INFO - Cystic Fibrosis Rare Cell Analysis Tumor Tissue Microarray Immune Monitoring RNA
+2024-05-19 17:45:42,560 - root - INFO - Mouse I/O RNA-Seq panel Flow Cytometry Cytokine
+2024-05-19 17:45:42,560 - root - INFO - Digital Pathology Tumor Tissue
+2024-05-19 17:45:42,560 - root - INFO - Miscroarray ELISA
+2024-05-19 17:45:42,560 - root - INFO - Multiplex Immunoassays Bioanalytical Services DMPK
+2024-05-19 17:45:42,560 - root - INFO - Bioanalytical Services
+2024-05-19 17:45:42,560 - root - INFO - Flow Cytometry Cytokine and Chemokine Profiling Biofluid Test NanoString Spatial Multiomics Profiling Pharmacology and Bioanalytical Services Rodent Immuno-Safety Models Safety Pharmacology Studies Structural Biology Target Validation Screens Omni Screen
+2024-05-19 17:45:42,560 - root - INFO - Mu Screen
+2024-05-19 17:45:42,560 - root - INFO - Toxicology Efficacy Testing
+Biomarker Discovery Biomarkers
+2024-05-19 17:45:42,560 - root - INFO - Response
+2024-05-19 17:45:42,560 - root - INFO - Hu Mark
+2024-05-19 17:45:42,560 - root - INFO - Biomarker Discovery
+2024-05-19 17:45:42,560 - root - INFO - Companion Diagnostics Mouse Clinical Trials
+2024-05-19 17:45:42,560 - root - INFO - Hu Trial
+2024-05-19 17:45:42,560 - root - INFO - Signatures
+2024-05-19 17:45:42,560 - root - INFO - Response
+2024-05-19 17:45:42,560 - root - INFO - Hu Signature
+2024-05-19 17:45:42,560 - root - INFO - Biomarkers
+2024-05-19 17:45:42,560 - root - INFO - Response
+2024-05-19 17:45:42,560 - root - INFO - ™
+2024-05-19 17:45:42,560 - root - INFO - Hu Trial ™
+Signatures
+2024-05-19 17:45:42,560 - root - INFO - Response
+2024-05-19 17:45:42,560 - root - INFO - DMPK Services
+Laboratory Services Genomics
+2024-05-19 17:45:42,560 - root - INFO - Transcriptomics Standard Genomics Services
+2024-05-19 17:45:42,560 - root - INFO - Advanced Genomics
+2024-05-19 17:45:42,560 - root - INFO - NGS Mouse
+2024-05-19 17:45:42,560 - root - INFO - NGS data analysis
+2024-05-19 17:45:42,560 - root - INFO - Spatial Biology
+2024-05-19 17:45:42,560 - root - INFO - Digital Pathology
+2024-05-19 17:45:42,560 - root - INFO - Ex Vivo Patient Tissue Platform
+2024-05-19 17:45:42,560 - root - INFO - Cystic Fibrosis Rare Cell Analysis Tumor Tissue Microarray Immune Monitoring RNA
+2024-05-19 17:45:42,560 - root - INFO - Mouse I/O RNA-Seq panel Flow Cytometry Cytokine
+2024-05-19 17:45:42,560 - root - INFO - Digital Pathology Tumor Tissue
+2024-05-19 17:45:42,560 - root - INFO - Miscroarray ELISA
+2024-05-19 17:45:42,560 - root - INFO - Multiplex Immunoassays Bioanalytical Services DMPK
+2024-05-19 17:45:42,560 - root - INFO - Bioanalytical Services
+2024-05-19 17:45:42,560 - root - INFO - Flow Cytometry Cytokine and Chemokine Profiling Biofluid Test NanoString Spatial Multiomics Profiling
+Genomics and Transcriptomics Standard Genomics Services Advanced Genomics and NGS Mouse I/O RNA-Seq Panel Cell Line Authentication
+2024-05-19 17:45:42,560 - root - INFO - NGS data analysis
+2024-05-19 17:45:42,560 - root - INFO - NGS
+Cell Line Authentication
+2024-05-19 17:45:42,560 - root - INFO - Deep Sequencing
+NGS data analysis
+2024-05-19 17:45:42,560 - root - INFO - Microbiome Sequencing
+Spatial Biology
+2024-05-19 17:45:42,560 - root - INFO - Digital Pathology
+2024-05-19 17:45:42,560 - root - INFO - Ex Vivo Patient Tissue Platform
+2024-05-19 17:45:42,560 - root - INFO - Cystic Fibrosis Rare Cell Analysis Tumor Tissue Microarray
+Digital Pathology Rare Cell Analysis
+High Content Imaging 3D Ex Vivo Patient Tissue Platform 3D Patient-Derived Swelling Assay
+2024-05-19 17:45:42,560 - root - INFO - Cystic Fibrosis
+Tumor Tissue Microarray
+Immune Monitoring RNA
+2024-05-19 17:45:42,560 - root - INFO - Mouse I/O RNA-Seq panel Flow Cytometry Cytokine
+2024-05-19 17:45:42,560 - root - INFO - Digital Pathology Tumor Tissue
+2024-05-19 17:45:42,560 - root - INFO - Miscroarray ELISA
+2024-05-19 17:45:42,560 - root - INFO - Multiplex Immunoassays
+RNA
+2024-05-19 17:45:42,560 - root - INFO - Mouse
+2024-05-19 17:45:42,560 - root - INFO - RNA-Seq panel
+Cytokine
+2024-05-19 17:45:42,560 - root - INFO - profiling
+ELISA
+2024-05-19 17:45:42,560 - root - INFO - Multiplex Immunoassays
+Bioanalytical Services DMPK
+2024-05-19 17:45:42,560 - root - INFO - Bioanalytical Services
+2024-05-19 17:45:42,561 - root - INFO - NanoString Spatial Multiomics Profiling
+Pharmacology and Bioanalytical Services Rodent Immuno-Safety Models Safety Pharmacology Studies
+2024-05-19 17:45:42,561 - root - INFO - Safety Pharmacology Studies
+2024-05-19 17:45:42,561 - root - INFO - Structural Biology
+2024-05-19 17:45:42,561 - root - INFO - Mu Screen
+2024-05-19 17:45:42,561 - root - INFO - ™
+Mu Screen ™
+Toxicology
+Efficacy Testing
+2024-05-19 17:45:42,561 - root - INFO - Us
+2024-05-19 17:45:42,561 - root - INFO - Our Company
+2024-05-19 17:45:42,561 - root - INFO - Our Purpose
+2024-05-19 17:45:42,561 - root - INFO - Our Responsibility Leadership Team News
+2024-05-19 17:45:42,561 - root - INFO - Events Careers
+2024-05-19 17:45:42,561 - root - INFO - Our Company
+2024-05-19 17:45:42,561 - root - INFO - Our Purpose
+2024-05-19 17:45:42,561 - root - INFO - Our Responsibility
+Leadership Team
+News
+2024-05-19 17:45:42,561 - root - INFO - Events
+Careers
+2024-05-19 17:45:42,561 - root - INFO - Our Science Publications Resources Blog
+Publications
+Resources
+Blog
+2024-05-19 17:45:42,561 - root - INFO - Your Study Now
+Patient-Derived Xenograft
+2024-05-19 17:45:42,561 - root - INFO - PDX
+2024-05-19 17:45:42,561 - root - INFO - Patient-Derived Xenograft
+2024-05-19 17:45:42,561 - root - INFO - PDX
+2024-05-19 17:45:42,561 - root - INFO - Models
+Crown Bioscience 's PDX collection
+2024-05-19 17:45:42,561 - root - INFO - over 3,000+ well-characterized models
+2024-05-19 17:45:42,561 - root - INFO - that
+2024-05-19 17:45:42,561 - root - INFO - translational preclinical oncology research
+2024-05-19 17:45:42,561 - root - INFO - over thirty human cancer types
+2024-05-19 17:45:42,561 - root - INFO - rare indications
+2024-05-19 17:45:42,561 - root - INFO - highly-specific molecular targets
+2024-05-19 17:45:42,561 - root - INFO - a cancer type
+2024-05-19 17:45:42,561 - root - INFO - our models
+2024-05-19 17:45:42,561 - root - INFO - Lymphoma
+Melanoma
+Mesothelioma
+Metastatic Carcinoma
+2024-05-19 17:45:42,561 - root - INFO - Sarcoma
+Skin Cancer
+2024-05-19 17:45:42,561 - root - INFO - Testical Cancer
+Thyroid Cancer
+Uterine Cancer
+2024-05-19 17:45:42,561 - root - INFO - Account
+2024-05-19 17:45:42,561 - root - INFO - All Model Data
+2024-05-19 17:45:42,561 - root - INFO - Us
+Leadership
+2024-05-19 17:45:42,561 - root - INFO - Our Services
+Therapeutic Areas
+Model Systems
+Technologies
+Service Type
+Preclinical Models
+Factsheets
+White Papers
+Ebooks
+Webinars
+Platforms
+Onco Express
+2024-05-19 17:45:42,561 - root - INFO - Xeno Base ®
+Mu Base ®
+2024-05-19 17:45:42,561 - root - INFO - Hu
+2024-05-19 17:45:42,561 - root - INFO - Base™
+Organoid Base™
+Crown Link™
+Talk
+2024-05-19 17:45:42,561 - root - INFO - Us
+2024-05-19 17:45:42,561 - root - INFO - +1 858 381 3547
+Distributors
+LinkedIn
+X
+2024-05-19 17:45:42,561 - root - INFO - 
+=== Sentiment Analysis ===
+2024-05-19 17:45:42,561 - root - INFO - {'neg': 0.071, 'neu': 0.9, 'pos': 0.028, 'compound': -0.9988}
+2024-05-19 17:45:42,561 - root - INFO - 
+=== Readability Scores ===
+2024-05-19 17:45:42,561 - root - INFO - {'flesch_reading_ease': -283.08, 'smog_index': 51.7, 'flesch_kincaid_grade': 133.3, 'coleman_liau_index': 21.44, 'automated_readability_index': 171.5, 'dale_chall_readability_score': 21.57, 'difficult_words': 155, 'linsear_write_formula': 62.0, 'gunning_fog': 131.26, 'text_standard': '21st and 22nd grade'}
+2024-05-19 17:45:42,561 - root - INFO - 
+=== Engagement Metrics ===
+2024-05-19 17:45:42,561 - root - INFO - {'word_count': 2458, 'sentence_count': 34, 'avg_sentence_length': 72.29411764705883}
+2024-05-19 17:45:42,561 - root - INFO - 
+=== Part-of-Speech Tags ===
+2024-05-19 17:45:42,563 - root - INFO - [('Contact', 'VERB'), ('Us', 'PROPN'), ('\n', 'SPACE'), ('Databases', 'PROPN'), ('\n', 'SPACE'), ('CrownLink', 'PROPN'), ('\n', 'SPACE'), ('US', 'PROPN'), ('Tel', 'PROPN'), (':', 'PUNCT'), ('+1', 'PROPN'), ('858', 'NUM'), ('622', 'NUM'), ('2900', 'NUM'), ('\n', 'SPACE'), ('UK', 'PROPN'), ('Tel', 'PROPN'), (':', 'PUNCT'), ('+44', 'PROPN'), ('870', 'NUM'), ('242', 'NUM'), ('2900', 'NUM'), ('\n', 'SPACE'), ('All', 'DET'), ('Contact', 'PROPN'), ('Information', 'PROPN'), ('\n', 'SPACE'), ('Services', 'PROPN'), ('Therapeutic', 'PROPN'), ('Areas', 'PROPN'), ('Oncology', 'PROPN'), ('In', 'ADP'), ('Vitro', 'PROPN'), ('Services', 'PROPN'), ('2D', 'PROPN'), ('Cell', 'PROPN'), ('Lines', 'PROPN'), ('and', 'CCONJ'), ('Panels', 'PROPN'), ('PDX', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Cell', 'PROPN'), ('Lines', 'NOUN'), (':', 'PUNCT'), ('Prime', 'PROPN'), ('Panel', 'PROPN'), ('™', 'VERB'), ('Organoids', 'PROPN'), ('Organoid', 'PROPN'), ('and', 'CCONJ'), ('Immune', 'PROPN'), ('Cell', 'PROPN'), ('Co', 'PROPN'), ('-', 'PROPN'), ('Culture', 'PROPN'), ('Omni', 'PROPN'), ('Screen', 'PROPN'), ('™', 'NOUN'), ('High', 'PROPN'), ('Content', 'PROPN'), ('Imaging', 'PROPN'), ('Services', 'PROPN'), ('3D', 'VERB'), ('Ex', 'PROPN'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('Tissue', 'PROPN'), ('Platform', 'PROPN'), ('3D', 'ADJ'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Swelling', 'NOUN'), ('Assay', 'PROPN'), ('for', 'ADP'), ('Cystic', 'PROPN'), ('Fibrosis', 'PROPN'), ('In', 'ADP'), ('Vivo', 'PROPN'), ('Services', 'PROPN'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Xenograft', 'PROPN'), ('Models', 'PROPN'), ('CDX', 'PROPN'), ('Models', 'PROPN'), ('Immuno', 'PROPN'), ('-', 'PUNCT'), ('oncology', 'NOUN'), ('In', 'ADP'), ('Vitro', 'PROPN'), ('Services', 'PROPN'), ('In', 'ADP'), ('Vivo', 'PROPN'), ('Models', 'PROPN'), ('CDX', 'PROPN'), ('Models', 'PROPN'), ('Syngeneic', 'PROPN'), ('Models', 'PROPN'), ('Humanized', 'PROPN'), ('Models', 'PROPN'), ('Mi', 'PROPN'), ('Xeno', 'PROPN'), ('™', 'VERB'), ('Cystopathic', 'PROPN'), ('Diseases', 'PROPN'), ('High', 'PROPN'), ('Content', 'PROPN'), ('Imaging', 'PROPN'), ('Services', 'PROPN'), ('Cyst', 'PROPN'), ('Swelling', 'VERB'), ('Assay', 'PROPN'), ('for', 'ADP'), ('ADPKD', 'PROPN'), ('3D', 'NOUN'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Swelling', 'NOUN'), ('Assay', 'PROPN'), ('for', 'ADP'), ('Cystic', 'PROPN'), ('Fibrosis', 'PROPN'), ('\ufeffModel', 'PUNCT'), ('Systems', 'PROPN'), ('In', 'ADP'), ('Vitro', 'PROPN'), ('2D', 'PROPN'), ('Cell', 'PROPN'), ('Lines', 'PROPN'), ('and', 'CCONJ'), ('Panels', 'PROPN'), ('PDX', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Cell', 'PROPN'), ('Lines', 'NOUN'), (':', 'PUNCT'), ('Prime', 'PROPN'), ('Panel', 'PROPN'), ('™', 'VERB'), ('2D', 'PROPN'), ('Hu', 'PROPN'), ('Cell', 'PROPN'), ('™', 'VERB'), ('CRISPR', 'PROPN'), ('/', 'SYM'), ('Cas9', 'PROPN'), ('Organoids', 'PROPN'), ('Organoid', 'PROPN'), ('and', 'CCONJ'), ('Immune', 'PROPN'), ('Cell', 'PROPN'), ('Co', 'PROPN'), ('-', 'NOUN'), ('Culture', 'PROPN'), ('In', 'PROPN'), ('Vitro', 'PROPN'), ('High', 'PROPN'), ('Quality', 'PROPN'), ('Imaging', 'PROPN'), ('Ex', 'PROPN'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('Tissue', 'PROPN'), ('Platform', 'PROPN'), ('High', 'PROPN'), ('Content', 'PROPN'), ('Imaging', 'PROPN'), ('Services', 'PROPN'), ('3D', 'VERB'), ('Ex', 'PROPN'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('Tissue', 'PROPN'), ('Platform', 'PROPN'), ('3D', 'ADJ'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Swelling', 'NOUN'), ('Assay', 'PROPN'), ('for', 'ADP'), ('Cystic', 'PROPN'), ('Fibrosis', 'PROPN'), ('In', 'ADP'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Xenograft', 'PROPN'), ('Models', 'PROPN'), ('Cell', 'PROPN'), ('Line', 'NOUN'), ('Derived', 'PROPN'), ('Xenograft', 'PROPN'), ('Models', 'PROPN'), ('Syngeneic', 'PROPN'), ('Tumor', 'PROPN'), ('Models', 'PROPN'), ('Humanized', 'PROPN'), ('Models', 'PROPN'), ('Mi', 'PROPN'), ('Xeno', 'PROPN'), ('™', 'NOUN'), ('GEMMs', 'NOUN'), ('Tumor', 'PROPN'), ('Homograft', 'PROPN'), ('(', 'PUNCT'), ('Mu', 'PROPN'), ('Prime', 'PROPN'), ('™', 'VERB'), (')', 'PUNCT'), ('Orthotopic', 'PROPN'), ('and', 'CCONJ'), ('Bioluminescent', 'PROPN'), ('Models', 'PROPN'), ('Immune', 'PROPN'), ('Mediated', 'PROPN'), ('Inflammatory', 'PROPN'), ('Disease', 'PROPN'), ('Models', 'PROPN'), ('Diabetes', 'PROPN'), ('IBD', 'VERB'), ('MS', 'PROPN'), ('Models', 'PROPN'), ('NASH', 'PROPN'), ('Peritonitis', 'PROPN'), ('Models', 'PROPN'), ('Rheumatoid', 'PROPN'), ('Arthritis', 'PROPN'), ('Systemic', 'PROPN'), ('Lupus', 'PROPN'), ('Erythematosus', 'PROPN'), ('Technologies', 'PROPN'), ('Bioinformatics', 'PROPN'), ('Crown', 'PROPN'), ('Syn', 'PROPN'), ('™', 'PUNCT'), ('Service', 'PROPN'), ('Cell', 'PROPN'), ('Line', 'PROPN'), ('and', 'CCONJ'), ('Biosample', 'PROPN'), ('Authentication', 'PROPN'), ('Mouse', 'PROPN'), ('I', 'PROPN'), ('/', 'SYM'), ('O', 'NOUN'), ('RNA', 'PROPN'), ('-', 'PROPN'), ('Seq', 'PROPN'), ('Panel', 'PROPN'), ('Biomarker', 'PROPN'), ('Analysis', 'PROPN'), ('Clinical', 'PROPN'), ('Chemistry', 'PROPN'), ('Services', 'PROPN'), ('Cytokine', 'PROPN'), ('&', 'CCONJ'), ('Chemokine', 'PROPN'), ('Profiling', 'PROPN'), ('Flow', 'PROPN'), ('Cytometry', 'PROPN'), ('Digital', 'PROPN'), ('Pathology', 'PROPN'), ('Tumor', 'PROPN'), ('Tissue', 'PROPN'), ('Miscroarray', 'PROPN'), ('Rare', 'PROPN'), ('Cell', 'PROPN'), ('Analysis', 'PROPN'), ('Mass', 'PROPN'), ('Spectrometry', 'PROPN'), ('-', 'PUNCT'), ('based', 'VERB'), ('Proteomics', 'PROPN'), ('4D', 'PROPN'), ('-', 'PUNCT'), ('DIA', 'PROPN'), ('Quantitative', 'PROPN'), ('Proteomics', 'PROPN'), ('4D', 'PROPN'), ('Phosphoproteomics', 'PROPN'), ('CRISPR', 'PROPN'), ('/', 'SYM'), ('Cas9', 'PROPN'), ('Genomics', 'PROPN'), ('Standard', 'PROPN'), ('Genomics', 'PROPN'), ('Services', 'PROPN'), ('Next', 'PROPN'), ('Generation', 'NOUN'), ('Sequencing', 'VERB'), ('Services', 'PROPN'), ('Cell', 'PROPN'), ('Line', 'PROPN'), ('Authentication', 'PROPN'), ('(', 'PUNCT'), ('CLA', 'PROPN'), (')', 'PUNCT'), ('with', 'ADP'), ('Deep', 'PROPN'), ('Sequencing', 'PROPN'), ('Mouse', 'PROPN'), ('I', 'PROPN'), ('/', 'SYM'), ('O', 'NOUN'), ('RNA', 'PROPN'), ('-', 'PROPN'), ('Seq', 'PROPN'), ('Panel', 'PROPN'), ('NGS', 'PROPN'), ('Data', 'PROPN'), ('Analysis', 'PROPN'), ('In', 'ADP'), ('Vitro', 'PROPN'), ('High', 'PROPN'), ('Content', 'PROPN'), ('Imaging', 'PROPN'), ('Ex', 'PROPN'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('Tissue', 'PROPN'), ('Platform', 'PROPN'), ('High', 'PROPN'), ('Content', 'PROPN'), ('Imaging', 'PROPN'), ('Services', 'PROPN'), ('3D', 'VERB'), ('Ex', 'PROPN'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('Tissue', 'PROPN'), ('Platform', 'PROPN'), ('3D', 'ADJ'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Swelling', 'NOUN'), ('Assay', 'PROPN'), ('for', 'ADP'), ('Cystic', 'PROPN'), ('Fibrosis', 'PROPN'), ('Mass', 'PROPN'), ('Spectrometry', 'PROPN'), ('-', 'PUNCT'), ('based', 'VERB'), ('Proteomics', 'PROPN'), ('Service', 'PROPN'), ('Type', 'PROPN'), ('Biomarker', 'PROPN'), ('Discovery', 'PROPN'), ('Biomarkers', 'PROPN'), ('of', 'ADP'), ('Response', 'PROPN'), (':', 'PUNCT'), ('Hu', 'PROPN'), ('Mark', 'PROPN'), ('™', 'PUNCT'), ('Biomarker', 'PROPN'), ('Discovery', 'PROPN'), ('and', 'CCONJ'), ('Companion', 'PROPN'), ('Diagnostics', 'PROPN'), ('Mouse', 'PROPN'), ('Clinical', 'PROPN'), ('Trials', 'PROPN'), (':', 'PUNCT'), ('Hu', 'PROPN'), ('Trial', 'PROPN'), ('™', 'VERB'), ('Signatures', 'NOUN'), ('of', 'ADP'), ('Response', 'PROPN'), (':', 'PUNCT'), ('Hu', 'PROPN'), ('Signature', 'NOUN'), ('™', 'VERB'), ('DMPK', 'PROPN'), ('Services', 'PROPN'), ('Laboratory', 'PROPN'), ('Services', 'PROPN'), ('Genomics', 'PROPN'), ('and', 'CCONJ'), ('Transcriptomics', 'PROPN'), ('Standard', 'PROPN'), ('Genomics', 'PROPN'), ('Services', 'PROPN'), ('Advanced', 'PROPN'), ('Genomics', 'PROPN'), ('and', 'CCONJ'), ('NGS', 'PROPN'), ('Mouse', 'PROPN'), ('I', 'PROPN'), ('/', 'SYM'), ('O', 'NOUN'), ('RNA', 'PROPN'), ('-', 'PROPN'), ('Seq', 'PROPN'), ('Panel', 'PROPN'), ('Cell', 'PROPN'), ('Line', 'PROPN'), ('Authentication', 'PROPN'), ('with', 'ADP'), ('Deep', 'PROPN'), ('Sequencing', 'VERB'), ('NGS', 'PROPN'), ('data', 'NOUN'), ('analysis', 'NOUN'), ('Microbiome', 'PROPN'), ('Sequencing', 'VERB'), ('Spatial', 'PROPN'), ('Biology', 'PROPN'), ('and', 'CCONJ'), ('Digital', 'PROPN'), ('Pathology', 'PROPN'), ('Digital', 'PROPN'), ('Pathology', 'PROPN'), ('Rare', 'PROPN'), ('Cell', 'PROPN'), ('Analysis', 'PROPN'), ('High', 'PROPN'), ('Content', 'PROPN'), ('Imaging', 'PROPN'), ('3D', 'NOUN'), ('Ex', 'PROPN'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('Tissue', 'PROPN'), ('Platform', 'PROPN'), ('3D', 'ADJ'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Swelling', 'NOUN'), ('Assay', 'PROPN'), ('for', 'ADP'), ('Cystic', 'PROPN'), ('Fibrosis', 'PROPN'), ('Rare', 'PROPN'), ('Cell', 'PROPN'), ('Analysis', 'PROPN'), ('Tumor', 'PROPN'), ('Tissue', 'PROPN'), ('Microarray', 'PROPN'), ('Immune', 'PROPN'), ('Monitoring', 'PROPN'), ('RNA', 'PROPN'), ('sequencing', 'VERB'), ('Mouse', 'PROPN'), ('I', 'PROPN'), ('/', 'SYM'), ('O', 'NOUN'), ('RNA', 'PROPN'), ('-', 'ADJ'), ('Seq', 'ADJ'), ('panel', 'NOUN'), ('Flow', 'PROPN'), ('Cytometry', 'PROPN'), ('Cytokine', 'PROPN'), ('and', 'CCONJ'), ('chemokine', 'ADJ'), ('profiling', 'VERB'), ('Digital', 'PROPN'), ('Pathology', 'PROPN'), ('Tumor', 'PROPN'), ('Tissue', 'PROPN'), ('Miscroarray', 'PROPN'), ('ELISA', 'PROPN'), ('and', 'CCONJ'), ('Multiplex', 'PROPN'), ('Immunoassays', 'PROPN'), ('Bioanalytical', 'PROPN'), ('Services', 'PROPN'), ('DMPK', 'PROPN'), ('and', 'CCONJ'), ('Bioanalytical', 'PROPN'), ('Services', 'PROPN'), ('Flow', 'PROPN'), ('Cytometry', 'PROPN'), ('Cytokine', 'PROPN'), ('and', 'CCONJ'), ('Chemokine', 'PROPN'), ('Profiling', 'PROPN'), ('Biofluid', 'PROPN'), ('Test', 'NOUN'), ('NanoString', 'PROPN'), ('Spatial', 'PROPN'), ('Multiomics', 'PROPN'), ('Profiling', 'PROPN'), ('Pharmacology', 'PROPN'), ('and', 'CCONJ'), ('Bioanalytical', 'PROPN'), ('Services', 'PROPN'), ('Rodent', 'PROPN'), ('Immuno', 'PROPN'), ('-', 'PUNCT'), ('Safety', 'PROPN'), ('Models', 'PROPN'), ('Safety', 'PROPN'), ('Pharmacology', 'PROPN'), ('Studies', 'PROPN'), ('Structural', 'PROPN'), ('Biology', 'PROPN'), ('Target', 'PROPN'), ('Validation', 'PROPN'), ('Screens', 'PROPN'), ('Omni', 'PROPN'), ('Screen', 'PROPN'), ('™', 'NOUN'), ('Mu', 'PROPN'), ('Screen', 'PROPN'), ('™', 'PUNCT'), ('Toxicology', 'PROPN'), ('Efficacy', 'PROPN'), ('Testing', 'PROPN'), ('\n', 'SPACE'), ('Therapeutic', 'PROPN'), ('Areas', 'PROPN'), ('Oncology', 'PROPN'), ('In', 'ADP'), ('Vitro', 'PROPN'), ('Services', 'PROPN'), ('2D', 'PROPN'), ('Cell', 'PROPN'), ('Lines', 'PROPN'), ('and', 'CCONJ'), ('Panels', 'PROPN'), ('PDX', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Cell', 'PROPN'), ('Lines', 'NOUN'), (':', 'PUNCT'), ('Prime', 'PROPN'), ('Panel', 'PROPN'), ('™', 'VERB'), ('Organoids', 'PROPN'), ('Organoid', 'PROPN'), ('and', 'CCONJ'), ('Immune', 'PROPN'), ('Cell', 'PROPN'), ('Co', 'PROPN'), ('-', 'PROPN'), ('Culture', 'PROPN'), ('Omni', 'PROPN'), ('Screen', 'PROPN'), ('™', 'NOUN'), ('High', 'PROPN'), ('Content', 'PROPN'), ('Imaging', 'PROPN'), ('Services', 'PROPN'), ('3D', 'VERB'), ('Ex', 'PROPN'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('Tissue', 'PROPN'), ('Platform', 'PROPN'), ('3D', 'ADJ'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Swelling', 'NOUN'), ('Assay', 'PROPN'), ('for', 'ADP'), ('Cystic', 'PROPN'), ('Fibrosis', 'PROPN'), ('In', 'ADP'), ('Vivo', 'PROPN'), ('Services', 'PROPN'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Xenograft', 'PROPN'), ('Models', 'PROPN'), ('CDX', 'PROPN'), ('Models', 'PROPN'), ('Immuno', 'PROPN'), ('-', 'PUNCT'), ('oncology', 'NOUN'), ('In', 'ADP'), ('Vitro', 'PROPN'), ('Services', 'PROPN'), ('In', 'ADP'), ('Vivo', 'PROPN'), ('Models', 'PROPN'), ('CDX', 'PROPN'), ('Models', 'PROPN'), ('Syngeneic', 'PROPN'), ('Models', 'PROPN'), ('Humanized', 'PROPN'), ('Models', 'PROPN'), ('Mi', 'PROPN'), ('Xeno', 'PROPN'), ('™', 'VERB'), ('Cystopathic', 'PROPN'), ('Diseases', 'PROPN'), ('High', 'PROPN'), ('Content', 'PROPN'), ('Imaging', 'PROPN'), ('Services', 'PROPN'), ('Cyst', 'PROPN'), ('Swelling', 'VERB'), ('Assay', 'PROPN'), ('for', 'ADP'), ('ADPKD', 'PROPN'), ('3D', 'NOUN'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Swelling', 'NOUN'), ('Assay', 'PROPN'), ('for', 'ADP'), ('Cystic', 'PROPN'), ('Fibrosis', 'PROPN'), ('\n', 'SPACE'), ('Oncology', 'PROPN'), ('In', 'PROPN'), ('Vitro', 'PROPN'), ('Services', 'PROPN'), ('2D', 'PROPN'), ('Cell', 'PROPN'), ('Lines', 'PROPN'), ('and', 'CCONJ'), ('Panels', 'PROPN'), ('PDX', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Cell', 'PROPN'), ('Lines', 'NOUN'), (':', 'PUNCT'), ('Prime', 'PROPN'), ('Panel', 'PROPN'), ('™', 'VERB'), ('Organoids', 'PROPN'), ('Organoid', 'PROPN'), ('and', 'CCONJ'), ('Immune', 'PROPN'), ('Cell', 'PROPN'), ('Co', 'PROPN'), ('-', 'PROPN'), ('Culture', 'PROPN'), ('Omni', 'PROPN'), ('Screen', 'PROPN'), ('™', 'NOUN'), ('High', 'PROPN'), ('Content', 'PROPN'), ('Imaging', 'PROPN'), ('Services', 'PROPN'), ('3D', 'VERB'), ('Ex', 'PROPN'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('Tissue', 'PROPN'), ('Platform', 'PROPN'), ('3D', 'ADJ'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Swelling', 'NOUN'), ('Assay', 'PROPN'), ('for', 'ADP'), ('Cystic', 'PROPN'), ('Fibrosis', 'PROPN'), ('In', 'ADP'), ('Vivo', 'PROPN'), ('Services', 'PROPN'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Xenograft', 'PROPN'), ('Models', 'PROPN'), ('CDX', 'PROPN'), ('Models', 'PROPN'), ('\n', 'SPACE'), ('In', 'ADP'), ('Vitro', 'PROPN'), ('Services', 'PROPN'), ('2D', 'PROPN'), ('Cell', 'PROPN'), ('Lines', 'PROPN'), ('and', 'CCONJ'), ('Panels', 'PROPN'), ('PDX', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Cell', 'PROPN'), ('Lines', 'NOUN'), (':', 'PUNCT'), ('Prime', 'PROPN'), ('Panel', 'PROPN'), ('™', 'VERB'), ('Organoids', 'PROPN'), ('Organoid', 'PROPN'), ('and', 'CCONJ'), ('Immune', 'PROPN'), ('Cell', 'PROPN'), ('Co', 'PROPN'), ('-', 'PROPN'), ('Culture', 'PROPN'), ('Omni', 'PROPN'), ('Screen', 'PROPN'), ('™', 'NOUN'), ('High', 'PROPN'), ('Content', 'PROPN'), ('Imaging', 'PROPN'), ('Services', 'PROPN'), ('3D', 'VERB'), ('Ex', 'PROPN'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('Tissue', 'PROPN'), ('Platform', 'PROPN'), ('3D', 'ADJ'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Swelling', 'NOUN'), ('Assay', 'PROPN'), ('for', 'ADP'), ('Cystic', 'PROPN'), ('Fibrosis', 'PROPN'), ('\n', 'SPACE'), ('2D', 'PROPN'), ('Cell', 'PROPN'), ('Lines', 'PROPN'), ('and', 'CCONJ'), ('Panels', 'PROPN'), ('PDX', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Cell', 'PROPN'), ('Lines', 'NOUN'), (':', 'PUNCT'), ('Prime', 'PROPN'), ('Panel', 'PROPN'), ('™', 'PUNCT'), ('\n', 'SPACE'), ('PDX', 'NOUN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Cell', 'PROPN'), ('Lines', 'NOUN'), (':', 'PUNCT'), ('Prime', 'PROPN'), ('Panel', 'PROPN'), ('™', 'PUNCT'), ('\n', 'SPACE'), ('Organoids', 'PROPN'), ('Organoid', 'PROPN'), ('and', 'CCONJ'), ('Immune', 'PROPN'), ('Cell', 'PROPN'), ('Co', 'PROPN'), ('-', 'PROPN'), ('Culture', 'PROPN'), ('\n', 'SPACE'), ('Organoid', 'PROPN'), ('and', 'CCONJ'), ('Immune', 'PROPN'), ('Cell', 'PROPN'), ('Co', 'PROPN'), ('-', 'PROPN'), ('Culture', 'PROPN'), ('\n', 'SPACE'), ('Omni', 'PROPN'), ('Screen', 'PROPN'), ('™', 'NUM'), ('\n', 'SPACE'), ('High', 'PROPN'), ('Content', 'PROPN'), ('Imaging', 'PROPN'), ('Services', 'PROPN'), ('3D', 'VERB'), ('Ex', 'PROPN'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('Tissue', 'PROPN'), ('Platform', 'PROPN'), ('3D', 'ADJ'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Swelling', 'NOUN'), ('Assay', 'PROPN'), ('for', 'ADP'), ('Cystic', 'PROPN'), ('Fibrosis', 'PROPN'), ('\n', 'SPACE'), ('3D', 'NOUN'), ('Ex', 'PROPN'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('Tissue', 'PROPN'), ('Platform', 'PROPN'), ('\n', 'SPACE'), ('3D', 'ADJ'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Swelling', 'NOUN'), ('Assay', 'PROPN'), ('for', 'ADP'), ('Cystic', 'PROPN'), ('Fibrosis', 'PROPN'), ('\n', 'SPACE'), ('In', 'ADP'), ('Vivo', 'PROPN'), ('Services', 'PROPN'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Xenograft', 'PROPN'), ('Models', 'PROPN'), ('CDX', 'PROPN'), ('Models', 'PROPN'), ('\n', 'SPACE'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Xenograft', 'PROPN'), ('Models', 'PROPN'), ('\n', 'SPACE'), ('CDX', 'PROPN'), ('Models', 'PROPN'), ('\n', 'SPACE'), ('Immuno', 'PROPN'), ('-', 'PUNCT'), ('oncology', 'NOUN'), ('In', 'ADP'), ('Vitro', 'PROPN'), ('Services', 'PROPN'), ('In', 'ADP'), ('Vivo', 'PROPN'), ('Models', 'PROPN'), ('CDX', 'PROPN'), ('Models', 'PROPN'), ('Syngeneic', 'PROPN'), ('Models', 'PROPN'), ('Humanized', 'PROPN'), ('Models', 'PROPN'), ('Mi', 'PROPN'), ('Xeno', 'PROPN'), ('™', 'PUNCT'), ('\n', 'SPACE'), ('In', 'ADP'), ('Vitro', 'PROPN'), ('Services', 'PROPN'), ('\n', 'SPACE'), ('In', 'ADP'), ('Vivo', 'PROPN'), ('Models', 'PROPN'), ('CDX', 'PROPN'), ('Models', 'PROPN'), ('Syngeneic', 'PROPN'), ('Models', 'PROPN'), ('Humanized', 'PROPN'), ('Models', 'PROPN'), ('Mi', 'PROPN'), ('Xeno', 'PROPN'), ('™', 'PUNCT'), ('\n', 'SPACE'), ('Syngeneic', 'PROPN'), ('Models', 'PROPN'), ('\n', 'SPACE'), ('Humanized', 'PROPN'), ('Models', 'PROPN'), ('\n', 'SPACE'), ('Mi', 'PROPN'), ('Xeno', 'PROPN'), ('™', 'PUNCT'), ('\n', 'SPACE'), ('Cystopathic', 'PROPN'), ('Diseases', 'PROPN'), ('High', 'PROPN'), ('Content', 'PROPN'), ('Imaging', 'PROPN'), ('Services', 'PROPN'), ('Cyst', 'PROPN'), ('Swelling', 'VERB'), ('Assay', 'PROPN'), ('for', 'ADP'), ('ADPKD', 'PROPN'), ('3D', 'NOUN'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Swelling', 'NOUN'), ('Assay', 'PROPN'), ('for', 'ADP'), ('Cystic', 'PROPN'), ('Fibrosis', 'PROPN'), ('\n', 'SPACE'), ('High', 'PROPN'), ('Content', 'PROPN'), ('Imaging', 'PROPN'), ('Services', 'PROPN'), ('Cyst', 'PROPN'), ('Swelling', 'VERB'), ('Assay', 'PROPN'), ('for', 'ADP'), ('ADPKD', 'PROPN'), ('3D', 'NOUN'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Swelling', 'NOUN'), ('Assay', 'PROPN'), ('for', 'ADP'), ('Cystic', 'PROPN'), ('Fibrosis', 'PROPN'), ('\n', 'SPACE'), ('Cyst', 'PROPN'), ('Swelling', 'PROPN'), ('Assay', 'PROPN'), ('for', 'ADP'), ('ADPKD', 'PROPN'), ('\n', 'SPACE'), ('\ufeffModel', 'PART'), ('Systems', 'PROPN'), ('In', 'ADP'), ('Vitro', 'PROPN'), ('2D', 'PROPN'), ('Cell', 'PROPN'), ('Lines', 'PROPN'), ('and', 'CCONJ'), ('Panels', 'PROPN'), ('PDX', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Cell', 'PROPN'), ('Lines', 'NOUN'), (':', 'PUNCT'), ('Prime', 'PROPN'), ('Panel', 'PROPN'), ('™', 'VERB'), ('2D', 'PROPN'), ('Hu', 'PROPN'), ('Cell', 'PROPN'), ('™', 'VERB'), ('CRISPR', 'PROPN'), ('/', 'SYM'), ('Cas9', 'PROPN'), ('Organoids', 'PROPN'), ('Organoid', 'PROPN'), ('and', 'CCONJ'), ('Immune', 'PROPN'), ('Cell', 'PROPN'), ('Co', 'PROPN'), ('-', 'NOUN'), ('Culture', 'PROPN'), ('In', 'PROPN'), ('Vitro', 'PROPN'), ('High', 'PROPN'), ('Quality', 'PROPN'), ('Imaging', 'PROPN'), ('Ex', 'PROPN'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('Tissue', 'PROPN'), ('Platform', 'PROPN'), ('High', 'PROPN'), ('Content', 'PROPN'), ('Imaging', 'PROPN'), ('Services', 'PROPN'), ('3D', 'VERB'), ('Ex', 'PROPN'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('Tissue', 'PROPN'), ('Platform', 'PROPN'), ('3D', 'ADJ'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Swelling', 'NOUN'), ('Assay', 'PROPN'), ('for', 'ADP'), ('Cystic', 'PROPN'), ('Fibrosis', 'PROPN'), ('In', 'ADP'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Xenograft', 'PROPN'), ('Models', 'PROPN'), ('Cell', 'PROPN'), ('Line', 'NOUN'), ('Derived', 'PROPN'), ('Xenograft', 'PROPN'), ('Models', 'PROPN'), ('Syngeneic', 'PROPN'), ('Tumor', 'PROPN'), ('Models', 'PROPN'), ('Humanized', 'PROPN'), ('Models', 'PROPN'), ('Mi', 'PROPN'), ('Xeno', 'PROPN'), ('™', 'NOUN'), ('GEMMs', 'NOUN'), ('Tumor', 'PROPN'), ('Homograft', 'PROPN'), ('(', 'PUNCT'), ('Mu', 'PROPN'), ('Prime', 'PROPN'), ('™', 'VERB'), (')', 'PUNCT'), ('Orthotopic', 'PROPN'), ('and', 'CCONJ'), ('Bioluminescent', 'PROPN'), ('Models', 'PROPN'), ('Immune', 'PROPN'), ('Mediated', 'PROPN'), ('Inflammatory', 'PROPN'), ('Disease', 'PROPN'), ('Models', 'PROPN'), ('Diabetes', 'PROPN'), ('IBD', 'VERB'), ('MS', 'PROPN'), ('Models', 'PROPN'), ('NASH', 'PROPN'), ('Peritonitis', 'PROPN'), ('Models', 'PROPN'), ('Rheumatoid', 'PROPN'), ('Arthritis', 'PROPN'), ('Systemic', 'PROPN'), ('Lupus', 'PROPN'), ('Erythematosus', 'PROPN'), ('\n', 'SPACE'), ('In', 'ADP'), ('Vitro', 'PROPN'), ('2D', 'PROPN'), ('Cell', 'PROPN'), ('Lines', 'PROPN'), ('and', 'CCONJ'), ('Panels', 'PROPN'), ('PDX', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Cell', 'PROPN'), ('Lines', 'NOUN'), (':', 'PUNCT'), ('Prime', 'PROPN'), ('Panel', 'PROPN'), ('™', 'VERB'), ('2D', 'PROPN'), ('Hu', 'PROPN'), ('Cell', 'PROPN'), ('™', 'VERB'), ('CRISPR', 'PROPN'), ('/', 'SYM'), ('Cas9', 'PROPN'), ('Organoids', 'PROPN'), ('Organoid', 'PROPN'), ('and', 'CCONJ'), ('Immune', 'PROPN'), ('Cell', 'PROPN'), ('Co', 'PROPN'), ('-', 'NOUN'), ('Culture', 'PROPN'), ('In', 'PROPN'), ('Vitro', 'PROPN'), ('High', 'PROPN'), ('Quality', 'PROPN'), ('Imaging', 'PROPN'), ('Ex', 'PROPN'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('Tissue', 'PROPN'), ('Platform', 'PROPN'), ('High', 'PROPN'), ('Content', 'PROPN'), ('Imaging', 'PROPN'), ('Services', 'PROPN'), ('3D', 'VERB'), ('Ex', 'PROPN'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('Tissue', 'PROPN'), ('Platform', 'PROPN'), ('3D', 'ADJ'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Swelling', 'NOUN'), ('Assay', 'PROPN'), ('for', 'ADP'), ('Cystic', 'PROPN'), ('Fibrosis', 'PROPN'), ('\n', 'SPACE'), ('2D', 'PROPN'), ('Hu', 'PROPN'), ('Cell', 'PROPN'), ('™', 'PUNCT'), ('\n', 'SPACE'), ('CRISPR', 'PROPN'), ('/', 'SYM'), ('Cas9', 'PROPN'), ('\n', 'SPACE'), ('In', 'ADP'), ('Vitro', 'PROPN'), ('High', 'PROPN'), ('Quality', 'PROPN'), ('Imaging', 'PROPN'), ('Ex', 'PROPN'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('Tissue', 'PROPN'), ('Platform', 'PROPN'), ('High', 'PROPN'), ('Content', 'PROPN'), ('Imaging', 'PROPN'), ('Services', 'PROPN'), ('3D', 'VERB'), ('Ex', 'PROPN'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('Tissue', 'PROPN'), ('Platform', 'PROPN'), ('3D', 'ADJ'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Swelling', 'NOUN'), ('Assay', 'PROPN'), ('for', 'ADP'), ('Cystic', 'PROPN'), ('Fibrosis', 'PROPN'), ('\n', 'SPACE'), ('Ex', 'PROPN'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('Tissue', 'PROPN'), ('Platform', 'PROPN'), ('\n', 'SPACE'), ('In', 'ADP'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Xenograft', 'PROPN'), ('Models', 'PROPN'), ('Cell', 'PROPN'), ('Line', 'NOUN'), ('Derived', 'PROPN'), ('Xenograft', 'PROPN'), ('Models', 'PROPN'), ('Syngeneic', 'PROPN'), ('Tumor', 'PROPN'), ('Models', 'PROPN'), ('Humanized', 'PROPN'), ('Models', 'PROPN'), ('Mi', 'PROPN'), ('Xeno', 'PROPN'), ('™', 'NOUN'), ('GEMMs', 'NOUN'), ('Tumor', 'PROPN'), ('Homograft', 'PROPN'), ('(', 'PUNCT'), ('Mu', 'PROPN'), ('Prime', 'PROPN'), ('™', 'VERB'), (')', 'PUNCT'), ('Orthotopic', 'PROPN'), ('and', 'CCONJ'), ('Bioluminescent', 'PROPN'), ('Models', 'PROPN'), ('Immune', 'PROPN'), ('Mediated', 'PROPN'), ('Inflammatory', 'PROPN'), ('Disease', 'PROPN'), ('Models', 'PROPN'), ('Diabetes', 'PROPN'), ('IBD', 'VERB'), ('MS', 'PROPN'), ('Models', 'PROPN'), ('NASH', 'PROPN'), ('Peritonitis', 'PROPN'), ('Models', 'PROPN'), ('Rheumatoid', 'PROPN'), ('Arthritis', 'PROPN'), ('Systemic', 'PROPN'), ('Lupus', 'PROPN'), ('Erythematosus', 'PROPN'), ('\n', 'SPACE'), ('Cell', 'PROPN'), ('Line', 'NOUN'), ('Derived', 'PROPN'), ('Xenograft', 'PROPN'), ('Models', 'PROPN'), ('\n', 'SPACE'), ('Syngeneic', 'PROPN'), ('Tumor', 'PROPN'), ('Models', 'PROPN'), ('\n', 'SPACE'), ('GEMMs', 'NOUN'), ('\n', 'SPACE'), ('Tumor', 'PROPN'), ('Homograft', 'PROPN'), ('(', 'PUNCT'), ('Mu', 'PROPN'), ('Prime', 'PROPN'), ('™', 'PUNCT'), (')', 'PUNCT'), ('\n', 'SPACE'), ('Orthotopic', 'PROPN'), ('and', 'CCONJ'), ('Bioluminescent', 'PROPN'), ('Models', 'PROPN'), ('\n', 'SPACE'), ('Immune', 'PROPN'), ('Mediated', 'PROPN'), ('Inflammatory', 'PROPN'), ('Disease', 'PROPN'), ('Models', 'PROPN'), ('Diabetes', 'PROPN'), ('IBD', 'VERB'), ('MS', 'PROPN'), ('Models', 'PROPN'), ('NASH', 'PROPN'), ('Peritonitis', 'PROPN'), ('Models', 'PROPN'), ('Rheumatoid', 'PROPN'), ('Arthritis', 'PROPN'), ('Systemic', 'PROPN'), ('Lupus', 'PROPN'), ('Erythematosus', 'PROPN'), ('\n', 'SPACE'), ('Diabetes', 'PROPN'), ('\n', 'SPACE'), ('IBD', 'PROPN'), ('\n', 'SPACE'), ('MS', 'PROPN'), ('Models', 'PROPN'), ('\n', 'SPACE'), ('NASH', 'NOUN'), ('\n', 'SPACE'), ('Peritonitis', 'PROPN'), ('Models', 'PROPN'), ('\n', 'SPACE'), ('Rheumatoid', 'PROPN'), ('Arthritis', 'PROPN'), ('\n', 'SPACE'), ('Systemic', 'PROPN'), ('Lupus', 'PROPN'), ('Erythematosus', 'PROPN'), ('\n', 'SPACE'), ('Technologies', 'PROPN'), ('Bioinformatics', 'PROPN'), ('Crown', 'PROPN'), ('Syn', 'PROPN'), ('™', 'PUNCT'), ('Service', 'PROPN'), ('Cell', 'PROPN'), ('Line', 'PROPN'), ('and', 'CCONJ'), ('Biosample', 'PROPN'), ('Authentication', 'PROPN'), ('Mouse', 'PROPN'), ('I', 'PROPN'), ('/', 'SYM'), ('O', 'NOUN'), ('RNA', 'PROPN'), ('-', 'PROPN'), ('Seq', 'PROPN'), ('Panel', 'PROPN'), ('Biomarker', 'PROPN'), ('Analysis', 'PROPN'), ('Clinical', 'PROPN'), ('Chemistry', 'PROPN'), ('Services', 'PROPN'), ('Cytokine', 'PROPN'), ('&', 'CCONJ'), ('Chemokine', 'PROPN'), ('Profiling', 'PROPN'), ('Flow', 'PROPN'), ('Cytometry', 'PROPN'), ('Digital', 'PROPN'), ('Pathology', 'PROPN'), ('Tumor', 'PROPN'), ('Tissue', 'PROPN'), ('Miscroarray', 'PROPN'), ('Rare', 'PROPN'), ('Cell', 'PROPN'), ('Analysis', 'PROPN'), ('Mass', 'PROPN'), ('Spectrometry', 'PROPN'), ('-', 'PUNCT'), ('based', 'VERB'), ('Proteomics', 'PROPN'), ('4D', 'PROPN'), ('-', 'PUNCT'), ('DIA', 'PROPN'), ('Quantitative', 'PROPN'), ('Proteomics', 'PROPN'), ('4D', 'PROPN'), ('Phosphoproteomics', 'PROPN'), ('CRISPR', 'PROPN'), ('/', 'SYM'), ('Cas9', 'PROPN'), ('Genomics', 'PROPN'), ('Standard', 'PROPN'), ('Genomics', 'PROPN'), ('Services', 'PROPN'), ('Next', 'PROPN'), ('Generation', 'NOUN'), ('Sequencing', 'VERB'), ('Services', 'PROPN'), ('Cell', 'PROPN'), ('Line', 'PROPN'), ('Authentication', 'PROPN'), ('(', 'PUNCT'), ('CLA', 'PROPN'), (')', 'PUNCT'), ('with', 'ADP'), ('Deep', 'PROPN'), ('Sequencing', 'PROPN'), ('Mouse', 'PROPN'), ('I', 'PROPN'), ('/', 'SYM'), ('O', 'NOUN'), ('RNA', 'PROPN'), ('-', 'PROPN'), ('Seq', 'PROPN'), ('Panel', 'PROPN'), ('NGS', 'PROPN'), ('Data', 'PROPN'), ('Analysis', 'PROPN'), ('In', 'ADP'), ('Vitro', 'PROPN'), ('High', 'PROPN'), ('Content', 'PROPN'), ('Imaging', 'PROPN'), ('Ex', 'PROPN'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('Tissue', 'PROPN'), ('Platform', 'PROPN'), ('High', 'PROPN'), ('Content', 'PROPN'), ('Imaging', 'PROPN'), ('Services', 'PROPN'), ('3D', 'VERB'), ('Ex', 'PROPN'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('Tissue', 'PROPN'), ('Platform', 'PROPN'), ('3D', 'ADJ'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Swelling', 'NOUN'), ('Assay', 'PROPN'), ('for', 'ADP'), ('Cystic', 'PROPN'), ('Fibrosis', 'PROPN'), ('Mass', 'PROPN'), ('Spectrometry', 'PROPN'), ('-', 'PUNCT'), ('based', 'VERB'), ('Proteomics', 'PROPN'), ('\n', 'SPACE'), ('Bioinformatics', 'PROPN'), ('Crown', 'PROPN'), ('Syn', 'PROPN'), ('™', 'PUNCT'), ('Service', 'PROPN'), ('Cell', 'PROPN'), ('Line', 'PROPN'), ('and', 'CCONJ'), ('Biosample', 'PROPN'), ('Authentication', 'PROPN'), ('Mouse', 'PROPN'), ('I', 'PROPN'), ('/', 'SYM'), ('O', 'NOUN'), ('RNA', 'PROPN'), ('-', 'PROPN'), ('Seq', 'PROPN'), ('Panel', 'PROPN'), ('\n', 'SPACE'), ('Crown', 'PROPN'), ('Syn', 'PROPN'), ('™', 'PUNCT'), ('Service', 'PROPN'), ('\n', 'SPACE'), ('Cell', 'PROPN'), ('Line', 'PROPN'), ('and', 'CCONJ'), ('Biosample', 'PROPN'), ('Authentication', 'PROPN'), ('\n', 'SPACE'), ('Mouse', 'PROPN'), ('I', 'NUM'), ('/', 'SYM'), ('O', 'NOUN'), ('RNA', 'PROPN'), ('-', 'PROPN'), ('Seq', 'PROPN'), ('Panel', 'PROPN'), ('\n', 'SPACE'), ('Biomarker', 'PROPN'), ('Analysis', 'PROPN'), ('Clinical', 'PROPN'), ('Chemistry', 'PROPN'), ('Services', 'PROPN'), ('Cytokine', 'PROPN'), ('&', 'CCONJ'), ('Chemokine', 'PROPN'), ('Profiling', 'PROPN'), ('Flow', 'PROPN'), ('Cytometry', 'PROPN'), ('Digital', 'PROPN'), ('Pathology', 'PROPN'), ('Tumor', 'PROPN'), ('Tissue', 'PROPN'), ('Miscroarray', 'PROPN'), ('Rare', 'PROPN'), ('Cell', 'PROPN'), ('Analysis', 'PROPN'), ('Mass', 'PROPN'), ('Spectrometry', 'PROPN'), ('-', 'PUNCT'), ('based', 'VERB'), ('Proteomics', 'PROPN'), ('4D', 'PROPN'), ('-', 'PUNCT'), ('DIA', 'PROPN'), ('Quantitative', 'PROPN'), ('Proteomics', 'PROPN'), ('4D', 'PROPN'), ('Phosphoproteomics', 'PROPN'), ('\n', 'SPACE'), ('Clinical', 'PROPN'), ('Chemistry', 'PROPN'), ('Services', 'PROPN'), ('\n', 'SPACE'), ('Cytokine', 'PROPN'), ('&', 'CCONJ'), ('Chemokine', 'PROPN'), ('Profiling', 'PROPN'), ('\n', 'SPACE'), ('Flow', 'PROPN'), ('Cytometry', 'PROPN'), ('\n', 'SPACE'), ('Digital', 'PROPN'), ('Pathology', 'PROPN'), ('Tumor', 'PROPN'), ('Tissue', 'PROPN'), ('Miscroarray', 'PROPN'), ('\n', 'SPACE'), ('Tumor', 'PROPN'), ('Tissue', 'PROPN'), ('Miscroarray', 'PROPN'), ('\n', 'SPACE'), ('Rare', 'PROPN'), ('Cell', 'PROPN'), ('Analysis', 'PROPN'), ('\n', 'SPACE'), ('Mass', 'PROPN'), ('Spectrometry', 'PROPN'), ('-', 'PUNCT'), ('based', 'VERB'), ('Proteomics', 'PROPN'), ('4D', 'PROPN'), ('-', 'PUNCT'), ('DIA', 'PROPN'), ('Quantitative', 'PROPN'), ('Proteomics', 'PROPN'), ('4D', 'PROPN'), ('Phosphoproteomics', 'PROPN'), ('\n', 'SPACE'), ('4D', 'PROPN'), ('-', 'PUNCT'), ('DIA', 'PROPN'), ('Quantitative', 'PROPN'), ('Proteomics', 'PROPN'), ('\n', 'SPACE'), ('4D', 'PROPN'), ('Phosphoproteomics', 'PROPN'), ('\n', 'SPACE'), ('Genomics', 'PROPN'), ('Standard', 'PROPN'), ('Genomics', 'PROPN'), ('Services', 'PROPN'), ('Next', 'PROPN'), ('Generation', 'NOUN'), ('Sequencing', 'VERB'), ('Services', 'PROPN'), ('Cell', 'PROPN'), ('Line', 'PROPN'), ('Authentication', 'PROPN'), ('(', 'PUNCT'), ('CLA', 'PROPN'), (')', 'PUNCT'), ('with', 'ADP'), ('Deep', 'PROPN'), ('Sequencing', 'PROPN'), ('Mouse', 'PROPN'), ('I', 'PROPN'), ('/', 'SYM'), ('O', 'NOUN'), ('RNA', 'PROPN'), ('-', 'PROPN'), ('Seq', 'PROPN'), ('Panel', 'PROPN'), ('NGS', 'PROPN'), ('Data', 'PROPN'), ('Analysis', 'PROPN'), ('\n', 'SPACE'), ('Standard', 'PROPN'), ('Genomics', 'PROPN'), ('Services', 'PROPN'), ('\n', 'SPACE'), ('Next', 'PROPN'), ('Generation', 'NOUN'), ('Sequencing', 'VERB'), ('Services', 'PROPN'), ('\n', 'SPACE'), ('Cell', 'PROPN'), ('Line', 'PROPN'), ('Authentication', 'PROPN'), ('(', 'PUNCT'), ('CLA', 'PROPN'), (')', 'PUNCT'), ('with', 'ADP'), ('Deep', 'PROPN'), ('Sequencing', 'PROPN'), ('\n', 'SPACE'), ('NGS', 'PROPN'), ('Data', 'PROPN'), ('Analysis', 'PROPN'), ('\n', 'SPACE'), ('In', 'ADP'), ('Vitro', 'PROPN'), ('High', 'PROPN'), ('Content', 'PROPN'), ('Imaging', 'PROPN'), ('Ex', 'PROPN'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('Tissue', 'PROPN'), ('Platform', 'PROPN'), ('High', 'PROPN'), ('Content', 'PROPN'), ('Imaging', 'PROPN'), ('Services', 'PROPN'), ('3D', 'VERB'), ('Ex', 'PROPN'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('Tissue', 'PROPN'), ('Platform', 'PROPN'), ('3D', 'ADJ'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Swelling', 'NOUN'), ('Assay', 'PROPN'), ('for', 'ADP'), ('Cystic', 'PROPN'), ('Fibrosis', 'PROPN'), ('\n', 'SPACE'), ('Mass', 'PROPN'), ('Spectrometry', 'PROPN'), ('-', 'PUNCT'), ('based', 'VERB'), ('Proteomics', 'PROPN'), ('\n', 'SPACE'), ('Service', 'PROPN'), ('Type', 'PROPN'), ('Biomarker', 'PROPN'), ('Discovery', 'PROPN'), ('Biomarkers', 'PROPN'), ('of', 'ADP'), ('Response', 'PROPN'), (':', 'PUNCT'), ('Hu', 'PROPN'), ('Mark', 'PROPN'), ('™', 'PUNCT'), ('Biomarker', 'PROPN'), ('Discovery', 'PROPN'), ('and', 'CCONJ'), ('Companion', 'PROPN'), ('Diagnostics', 'PROPN'), ('Mouse', 'PROPN'), ('Clinical', 'PROPN'), ('Trials', 'PROPN'), (':', 'PUNCT'), ('Hu', 'PROPN'), ('Trial', 'PROPN'), ('™', 'VERB'), ('Signatures', 'NOUN'), ('of', 'ADP'), ('Response', 'PROPN'), (':', 'PUNCT'), ('Hu', 'PROPN'), ('Signature', 'NOUN'), ('™', 'VERB'), ('DMPK', 'PROPN'), ('Services', 'PROPN'), ('Laboratory', 'PROPN'), ('Services', 'PROPN'), ('Genomics', 'PROPN'), ('and', 'CCONJ'), ('Transcriptomics', 'PROPN'), ('Standard', 'PROPN'), ('Genomics', 'PROPN'), ('Services', 'PROPN'), ('Advanced', 'PROPN'), ('Genomics', 'PROPN'), ('and', 'CCONJ'), ('NGS', 'PROPN'), ('Mouse', 'PROPN'), ('I', 'PROPN'), ('/', 'SYM'), ('O', 'NOUN'), ('RNA', 'PROPN'), ('-', 'PROPN'), ('Seq', 'PROPN'), ('Panel', 'PROPN'), ('Cell', 'PROPN'), ('Line', 'PROPN'), ('Authentication', 'PROPN'), ('with', 'ADP'), ('Deep', 'PROPN'), ('Sequencing', 'VERB'), ('NGS', 'PROPN'), ('data', 'NOUN'), ('analysis', 'NOUN'), ('Microbiome', 'PROPN'), ('Sequencing', 'VERB'), ('Spatial', 'PROPN'), ('Biology', 'PROPN'), ('and', 'CCONJ'), ('Digital', 'PROPN'), ('Pathology', 'PROPN'), ('Digital', 'PROPN'), ('Pathology', 'PROPN'), ('Rare', 'PROPN'), ('Cell', 'PROPN'), ('Analysis', 'PROPN'), ('High', 'PROPN'), ('Content', 'PROPN'), ('Imaging', 'PROPN'), ('3D', 'NOUN'), ('Ex', 'PROPN'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('Tissue', 'PROPN'), ('Platform', 'PROPN'), ('3D', 'ADJ'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Swelling', 'NOUN'), ('Assay', 'PROPN'), ('for', 'ADP'), ('Cystic', 'PROPN'), ('Fibrosis', 'PROPN'), ('Rare', 'PROPN'), ('Cell', 'PROPN'), ('Analysis', 'PROPN'), ('Tumor', 'PROPN'), ('Tissue', 'PROPN'), ('Microarray', 'PROPN'), ('Immune', 'PROPN'), ('Monitoring', 'PROPN'), ('RNA', 'PROPN'), ('sequencing', 'VERB'), ('Mouse', 'PROPN'), ('I', 'PROPN'), ('/', 'SYM'), ('O', 'NOUN'), ('RNA', 'PROPN'), ('-', 'ADJ'), ('Seq', 'ADJ'), ('panel', 'NOUN'), ('Flow', 'PROPN'), ('Cytometry', 'PROPN'), ('Cytokine', 'PROPN'), ('and', 'CCONJ'), ('chemokine', 'ADJ'), ('profiling', 'VERB'), ('Digital', 'PROPN'), ('Pathology', 'PROPN'), ('Tumor', 'PROPN'), ('Tissue', 'PROPN'), ('Miscroarray', 'PROPN'), ('ELISA', 'PROPN'), ('and', 'CCONJ'), ('Multiplex', 'PROPN'), ('Immunoassays', 'PROPN'), ('Bioanalytical', 'PROPN'), ('Services', 'PROPN'), ('DMPK', 'PROPN'), ('and', 'CCONJ'), ('Bioanalytical', 'PROPN'), ('Services', 'PROPN'), ('Flow', 'PROPN'), ('Cytometry', 'PROPN'), ('Cytokine', 'PROPN'), ('and', 'CCONJ'), ('Chemokine', 'PROPN'), ('Profiling', 'PROPN'), ('Biofluid', 'PROPN'), ('Test', 'NOUN'), ('NanoString', 'PROPN'), ('Spatial', 'PROPN'), ('Multiomics', 'PROPN'), ('Profiling', 'PROPN'), ('Pharmacology', 'PROPN'), ('and', 'CCONJ'), ('Bioanalytical', 'PROPN'), ('Services', 'PROPN'), ('Rodent', 'PROPN'), ('Immuno', 'PROPN'), ('-', 'PUNCT'), ('Safety', 'PROPN'), ('Models', 'PROPN'), ('Safety', 'PROPN'), ('Pharmacology', 'PROPN'), ('Studies', 'PROPN'), ('Structural', 'PROPN'), ('Biology', 'PROPN'), ('Target', 'PROPN'), ('Validation', 'PROPN'), ('Screens', 'PROPN'), ('Omni', 'PROPN'), ('Screen', 'PROPN'), ('™', 'NOUN'), ('Mu', 'PROPN'), ('Screen', 'PROPN'), ('™', 'PUNCT'), ('Toxicology', 'PROPN'), ('Efficacy', 'PROPN'), ('Testing', 'PROPN'), ('\n', 'SPACE'), ('Biomarker', 'PROPN'), ('Discovery', 'PROPN'), ('Biomarkers', 'PROPN'), ('of', 'ADP'), ('Response', 'PROPN'), (':', 'PUNCT'), ('Hu', 'PROPN'), ('Mark', 'PROPN'), ('™', 'PUNCT'), ('Biomarker', 'PROPN'), ('Discovery', 'PROPN'), ('and', 'CCONJ'), ('Companion', 'PROPN'), ('Diagnostics', 'PROPN'), ('Mouse', 'PROPN'), ('Clinical', 'PROPN'), ('Trials', 'PROPN'), (':', 'PUNCT'), ('Hu', 'PROPN'), ('Trial', 'PROPN'), ('™', 'VERB'), ('Signatures', 'NOUN'), ('of', 'ADP'), ('Response', 'PROPN'), (':', 'PUNCT'), ('Hu', 'PROPN'), ('Signature', 'PROPN'), ('™', 'PUNCT'), ('\n', 'SPACE'), ('Biomarkers', 'PROPN'), ('of', 'ADP'), ('Response', 'PROPN'), (':', 'PUNCT'), ('Hu', 'PROPN'), ('Mark', 'PROPN'), ('™', 'PROPN'), ('\n', 'SPACE'), ('Biomarker', 'PROPN'), ('Discovery', 'PROPN'), ('and', 'CCONJ'), ('Companion', 'PROPN'), ('Diagnostics', 'PROPN'), ('\n', 'SPACE'), ('Mouse', 'PROPN'), ('Clinical', 'PROPN'), ('Trials', 'PROPN'), (':', 'PUNCT'), ('Hu', 'PROPN'), ('Trial', 'PROPN'), ('™', 'PUNCT'), ('\n', 'SPACE'), ('Signatures', 'NOUN'), ('of', 'ADP'), ('Response', 'PROPN'), (':', 'PUNCT'), ('Hu', 'PROPN'), ('Signature', 'PROPN'), ('™', 'PUNCT'), ('\n', 'SPACE'), ('DMPK', 'PROPN'), ('Services', 'PROPN'), ('\n', 'SPACE'), ('Laboratory', 'PROPN'), ('Services', 'PROPN'), ('Genomics', 'PROPN'), ('and', 'CCONJ'), ('Transcriptomics', 'PROPN'), ('Standard', 'PROPN'), ('Genomics', 'PROPN'), ('Services', 'PROPN'), ('Advanced', 'PROPN'), ('Genomics', 'PROPN'), ('and', 'CCONJ'), ('NGS', 'PROPN'), ('Mouse', 'PROPN'), ('I', 'PROPN'), ('/', 'SYM'), ('O', 'NOUN'), ('RNA', 'PROPN'), ('-', 'PROPN'), ('Seq', 'PROPN'), ('Panel', 'PROPN'), ('Cell', 'PROPN'), ('Line', 'PROPN'), ('Authentication', 'PROPN'), ('with', 'ADP'), ('Deep', 'PROPN'), ('Sequencing', 'VERB'), ('NGS', 'PROPN'), ('data', 'NOUN'), ('analysis', 'NOUN'), ('Microbiome', 'PROPN'), ('Sequencing', 'VERB'), ('Spatial', 'PROPN'), ('Biology', 'PROPN'), ('and', 'CCONJ'), ('Digital', 'PROPN'), ('Pathology', 'PROPN'), ('Digital', 'PROPN'), ('Pathology', 'PROPN'), ('Rare', 'PROPN'), ('Cell', 'PROPN'), ('Analysis', 'PROPN'), ('High', 'PROPN'), ('Content', 'PROPN'), ('Imaging', 'PROPN'), ('3D', 'NOUN'), ('Ex', 'PROPN'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('Tissue', 'PROPN'), ('Platform', 'PROPN'), ('3D', 'ADJ'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Swelling', 'NOUN'), ('Assay', 'PROPN'), ('for', 'ADP'), ('Cystic', 'PROPN'), ('Fibrosis', 'PROPN'), ('Rare', 'PROPN'), ('Cell', 'PROPN'), ('Analysis', 'PROPN'), ('Tumor', 'PROPN'), ('Tissue', 'PROPN'), ('Microarray', 'PROPN'), ('Immune', 'PROPN'), ('Monitoring', 'PROPN'), ('RNA', 'PROPN'), ('sequencing', 'VERB'), ('Mouse', 'PROPN'), ('I', 'PROPN'), ('/', 'SYM'), ('O', 'NOUN'), ('RNA', 'PROPN'), ('-', 'ADJ'), ('Seq', 'ADJ'), ('panel', 'NOUN'), ('Flow', 'PROPN'), ('Cytometry', 'PROPN'), ('Cytokine', 'PROPN'), ('and', 'CCONJ'), ('chemokine', 'ADJ'), ('profiling', 'VERB'), ('Digital', 'PROPN'), ('Pathology', 'PROPN'), ('Tumor', 'PROPN'), ('Tissue', 'PROPN'), ('Miscroarray', 'PROPN'), ('ELISA', 'PROPN'), ('and', 'CCONJ'), ('Multiplex', 'PROPN'), ('Immunoassays', 'PROPN'), ('Bioanalytical', 'PROPN'), ('Services', 'PROPN'), ('DMPK', 'PROPN'), ('and', 'CCONJ'), ('Bioanalytical', 'PROPN'), ('Services', 'PROPN'), ('Flow', 'PROPN'), ('Cytometry', 'PROPN'), ('Cytokine', 'PROPN'), ('and', 'CCONJ'), ('Chemokine', 'PROPN'), ('Profiling', 'PROPN'), ('Biofluid', 'PROPN'), ('Test', 'NOUN'), ('NanoString', 'PROPN'), ('Spatial', 'PROPN'), ('Multiomics', 'PROPN'), ('Profiling', 'PROPN'), ('\n', 'SPACE'), ('Genomics', 'PROPN'), ('and', 'CCONJ'), ('Transcriptomics', 'PROPN'), ('Standard', 'PROPN'), ('Genomics', 'PROPN'), ('Services', 'PROPN'), ('Advanced', 'PROPN'), ('Genomics', 'PROPN'), ('and', 'CCONJ'), ('NGS', 'PROPN'), ('Mouse', 'PROPN'), ('I', 'PROPN'), ('/', 'SYM'), ('O', 'NOUN'), ('RNA', 'PROPN'), ('-', 'PROPN'), ('Seq', 'PROPN'), ('Panel', 'PROPN'), ('Cell', 'PROPN'), ('Line', 'PROPN'), ('Authentication', 'PROPN'), ('with', 'ADP'), ('Deep', 'PROPN'), ('Sequencing', 'VERB'), ('NGS', 'PROPN'), ('data', 'NOUN'), ('analysis', 'NOUN'), ('Microbiome', 'PROPN'), ('Sequencing', 'PROPN'), ('\n', 'SPACE'), ('Advanced', 'PROPN'), ('Genomics', 'PROPN'), ('and', 'CCONJ'), ('NGS', 'PROPN'), ('\n', 'SPACE'), ('Cell', 'PROPN'), ('Line', 'PROPN'), ('Authentication', 'PROPN'), ('with', 'ADP'), ('Deep', 'PROPN'), ('Sequencing', 'PROPN'), ('\n', 'SPACE'), ('NGS', 'PROPN'), ('data', 'NOUN'), ('analysis', 'NOUN'), ('\n', 'SPACE'), ('Microbiome', 'PROPN'), ('Sequencing', 'PROPN'), ('\n', 'SPACE'), ('Spatial', 'PROPN'), ('Biology', 'PROPN'), ('and', 'CCONJ'), ('Digital', 'PROPN'), ('Pathology', 'PROPN'), ('Digital', 'PROPN'), ('Pathology', 'PROPN'), ('Rare', 'PROPN'), ('Cell', 'PROPN'), ('Analysis', 'PROPN'), ('High', 'PROPN'), ('Content', 'PROPN'), ('Imaging', 'PROPN'), ('3D', 'NOUN'), ('Ex', 'PROPN'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('Tissue', 'PROPN'), ('Platform', 'PROPN'), ('3D', 'ADJ'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Swelling', 'NOUN'), ('Assay', 'PROPN'), ('for', 'ADP'), ('Cystic', 'PROPN'), ('Fibrosis', 'PROPN'), ('Rare', 'PROPN'), ('Cell', 'PROPN'), ('Analysis', 'PROPN'), ('Tumor', 'PROPN'), ('Tissue', 'PROPN'), ('Microarray', 'PROPN'), ('\n', 'SPACE'), ('Digital', 'PROPN'), ('Pathology', 'PROPN'), ('Rare', 'PROPN'), ('Cell', 'PROPN'), ('Analysis', 'PROPN'), ('\n', 'SPACE'), ('High', 'PROPN'), ('Content', 'PROPN'), ('Imaging', 'PROPN'), ('3D', 'NOUN'), ('Ex', 'PROPN'), ('Vivo', 'PROPN'), ('Patient', 'PROPN'), ('Tissue', 'PROPN'), ('Platform', 'PROPN'), ('3D', 'ADJ'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Swelling', 'NOUN'), ('Assay', 'PROPN'), ('for', 'ADP'), ('Cystic', 'PROPN'), ('Fibrosis', 'PROPN'), ('\n', 'SPACE'), ('Tumor', 'PROPN'), ('Tissue', 'PROPN'), ('Microarray', 'PROPN'), ('\n', 'SPACE'), ('Immune', 'PROPN'), ('Monitoring', 'PROPN'), ('RNA', 'PROPN'), ('sequencing', 'VERB'), ('Mouse', 'PROPN'), ('I', 'PROPN'), ('/', 'SYM'), ('O', 'NOUN'), ('RNA', 'PROPN'), ('-', 'ADJ'), ('Seq', 'ADJ'), ('panel', 'NOUN'), ('Flow', 'PROPN'), ('Cytometry', 'PROPN'), ('Cytokine', 'PROPN'), ('and', 'CCONJ'), ('chemokine', 'ADJ'), ('profiling', 'VERB'), ('Digital', 'PROPN'), ('Pathology', 'PROPN'), ('Tumor', 'PROPN'), ('Tissue', 'PROPN'), ('Miscroarray', 'PROPN'), ('ELISA', 'PROPN'), ('and', 'CCONJ'), ('Multiplex', 'PROPN'), ('Immunoassays', 'PROPN'), ('\n', 'SPACE'), ('RNA', 'PROPN'), ('sequencing', 'VERB'), ('\n', 'SPACE'), ('Mouse', 'PROPN'), ('I', 'PROPN'), ('/', 'SYM'), ('O', 'NOUN'), ('RNA', 'PROPN'), ('-', 'ADJ'), ('Seq', 'ADJ'), ('panel', 'NOUN'), ('\n', 'SPACE'), ('Cytokine', 'PROPN'), ('and', 'CCONJ'), ('chemokine', 'VERB'), ('profiling', 'NOUN'), ('\n', 'SPACE'), ('ELISA', 'PROPN'), ('and', 'CCONJ'), ('Multiplex', 'PROPN'), ('Immunoassays', 'PROPN'), ('\n', 'SPACE'), ('Bioanalytical', 'PROPN'), ('Services', 'PROPN'), ('DMPK', 'PROPN'), ('and', 'CCONJ'), ('Bioanalytical', 'PROPN'), ('Services', 'PROPN'), ('Flow', 'PROPN'), ('Cytometry', 'PROPN'), ('Cytokine', 'PROPN'), ('and', 'CCONJ'), ('Chemokine', 'PROPN'), ('Profiling', 'PROPN'), ('Biofluid', 'PROPN'), ('Test', 'PROPN'), ('\n', 'SPACE'), ('DMPK', 'PROPN'), ('and', 'CCONJ'), ('Bioanalytical', 'PROPN'), ('Services', 'PROPN'), ('\n', 'SPACE'), ('Cytokine', 'PROPN'), ('and', 'CCONJ'), ('Chemokine', 'PROPN'), ('Profiling', 'PROPN'), ('\n', 'SPACE'), ('Biofluid', 'PROPN'), ('Test', 'PROPN'), ('\n', 'SPACE'), ('NanoString', 'PROPN'), ('Spatial', 'PROPN'), ('Multiomics', 'PROPN'), ('Profiling', 'PROPN'), ('\n', 'SPACE'), ('Pharmacology', 'PROPN'), ('and', 'CCONJ'), ('Bioanalytical', 'PROPN'), ('Services', 'PROPN'), ('Rodent', 'PROPN'), ('Immuno', 'PROPN'), ('-', 'PUNCT'), ('Safety', 'PROPN'), ('Models', 'PROPN'), ('Safety', 'PROPN'), ('Pharmacology', 'PROPN'), ('Studies', 'PROPN'), ('Structural', 'PROPN'), ('Biology', 'PROPN'), ('Target', 'PROPN'), ('Validation', 'PROPN'), ('\n', 'SPACE'), ('Rodent', 'PROPN'), ('Immuno', 'PROPN'), ('-', 'PUNCT'), ('Safety', 'PROPN'), ('Models', 'PROPN'), ('\n', 'SPACE'), ('Safety', 'PROPN'), ('Pharmacology', 'PROPN'), ('Studies', 'PROPN'), ('\n', 'SPACE'), ('Structural', 'PROPN'), ('Biology', 'PROPN'), ('\n', 'SPACE'), ('Target', 'PROPN'), ('Validation', 'PROPN'), ('\n', 'SPACE'), ('Screens', 'PROPN'), ('Omni', 'PROPN'), ('Screen', 'PROPN'), ('™', 'NOUN'), ('Mu', 'PROPN'), ('Screen', 'PROPN'), ('™', 'NUM'), ('\n', 'SPACE'), ('Mu', 'PROPN'), ('Screen', 'PROPN'), ('™', 'PUNCT'), ('\n', 'SPACE'), ('Toxicology', 'PROPN'), ('\n', 'SPACE'), ('Efficacy', 'PROPN'), ('Testing', 'PROPN'), ('\n', 'SPACE'), ('About', 'ADP'), ('Us', 'PROPN'), ('Our', 'PRON'), ('Company', 'PROPN'), ('Our', 'PRON'), ('Purpose', 'PROPN'), ('Our', 'PRON'), ('Responsibility', 'PROPN'), ('Leadership', 'PROPN'), ('Team', 'PROPN'), ('News', 'PROPN'), ('&', 'CCONJ'), ('Events', 'PROPN'), ('Careers', 'PROPN'), ('\n', 'SPACE'), ('Our', 'PRON'), ('Company', 'NOUN'), ('\n', 'SPACE'), ('Our', 'PRON'), ('Purpose', 'PROPN'), ('\n', 'SPACE'), ('Our', 'PRON'), ('Responsibility', 'PROPN'), ('\n', 'SPACE'), ('Leadership', 'PROPN'), ('Team', 'PROPN'), ('\n', 'SPACE'), ('News', 'PROPN'), ('&', 'CCONJ'), ('Events', 'NOUN'), ('\n', 'SPACE'), ('Careers', 'NOUN'), ('\n', 'SPACE'), ('Our', 'PRON'), ('Science', 'PROPN'), ('Publications', 'PROPN'), ('Resources', 'PROPN'), ('Blog', 'PROPN'), ('\n', 'SPACE'), ('Publications', 'PROPN'), ('\n', 'SPACE'), ('Resources', 'PROPN'), ('\n', 'SPACE'), ('Blog', 'PROPN'), ('\n', 'SPACE'), ('Start', 'VERB'), ('Your', 'PRON'), ('Study', 'PROPN'), ('Now', 'PROPN'), ('\n', 'SPACE'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Xenograft', 'PROPN'), ('(', 'PUNCT'), ('PDX', 'PROPN'), (')', 'PUNCT'), ('\n', 'SPACE'), ('Patient', 'PROPN'), ('-', 'PUNCT'), ('Derived', 'VERB'), ('Xenograft', 'PROPN'), ('(', 'PUNCT'), ('PDX', 'PROPN'), (')', 'PUNCT'), ('Models', 'PROPN'), ('\n', 'SPACE'), ('Crown', 'PROPN'), ('Bioscience', 'PROPN'), ("'s", 'PART'), ('PDX', 'NOUN'), ('collection', 'NOUN'), ('consists', 'VERB'), ('of', 'ADP'), ('over', 'ADP'), ('3,000', 'NUM'), ('+', 'CCONJ'), ('well', 'ADV'), ('-', 'PUNCT'), ('characterized', 'VERB'), ('models', 'NOUN'), ('that', 'PRON'), ('supports', 'VERB'), ('translational', 'ADJ'), ('preclinical', 'ADJ'), ('oncology', 'NOUN'), ('research', 'NOUN'), ('for', 'ADP'), ('over', 'ADP'), ('thirty', 'NUM'), ('human', 'ADJ'), ('cancer', 'NOUN'), ('types', 'NOUN'), ('.', 'PUNCT'), ('Including', 'VERB'), ('rare', 'ADJ'), ('indications', 'NOUN'), ('and', 'CCONJ'), ('highly', 'ADV'), ('-', 'PUNCT'), ('specific', 'ADJ'), ('molecular', 'ADJ'), ('targets', 'NOUN'), ('.', 'PUNCT'), ('Click', 'VERB'), ('a', 'DET'), ('cancer', 'NOUN'), ('type', 'NOUN'), ('below', 'ADV'), ('to', 'PART'), ('learn', 'VERB'), ('more', 'ADJ'), ('about', 'ADP'), ('our', 'PRON'), ('models', 'NOUN'), ('.', 'PUNCT'), ('\n', 'SPACE'), ('Acute', 'PROPN'), ('Lymphoblastic', 'PROPN'), ('Leukemia', 'PROPN'), ('\n', 'SPACE'), ('Acute', 'PROPN'), ('Myeloid', 'PROPN'), ('Leukemia', 'PROPN'), ('\n', 'SPACE'), ('Adrenal', 'PROPN'), ('Gland', 'PROPN'), ('Cancer', 'PROPN'), ('\n', 'SPACE'), ('Bladder', 'PROPN'), ('Cancer', 'PROPN'), ('\n', 'SPACE'), ('Brain', 'PROPN'), ('Cancer', 'PROPN'), ('\n', 'SPACE'), ('Breast', 'PROPN'), ('Cancer', 'PROPN'), ('\n', 'SPACE'), ('Cervical', 'PROPN'), ('Cancer', 'PROPN'), ('\n', 'SPACE'), ('Cholangiocarcinoma', 'PROPN'), ('\n', 'SPACE'), ('Colorectal', 'PROPN'), ('Cancer', 'PROPN'), ('\n', 'SPACE'), ('Esophageal', 'PROPN'), ('Cancer', 'PROPN'), ('\n', 'SPACE'), ('Gallbladder', 'PROPN'), ('Cancer', 'PROPN'), ('\n', 'SPACE'), ('Gastric', 'PROPN'), ('Cancer', 'PROPN'), ('\n', 'SPACE'), ('GIST', 'PROPN'), ('\n', 'SPACE'), ('Head', 'PROPN'), ('and', 'CCONJ'), ('Neck', 'PROPN'), ('Cancer', 'PROPN'), ('\n', 'SPACE'), ('Kidney', 'PROPN'), ('Cancer', 'PROPN'), ('\n', 'SPACE'), ('Liver', 'PROPN'), ('Cancer', 'PROPN'), ('\n', 'SPACE'), ('Lung', 'PROPN'), ('Cancer', 'PROPN'), ('\n', 'SPACE'), ('Lymphoma', 'PROPN'), ('\n', 'SPACE'), ('Melanoma', 'PROPN'), ('\n', 'SPACE'), ('Mesothelioma', 'PROPN'), ('\n', 'SPACE'), ('Metastatic', 'PROPN'), ('Carcinoma', 'PROPN'), ('\n', 'SPACE'), ('Mixed', 'ADJ'), ('Mullerian', 'PROPN'), ('Cancer', 'PROPN'), ('\n', 'SPACE'), ('Ovarian', 'PROPN'), ('Cancer', 'PROPN'), ('\n', 'SPACE'), ('Pancreatic', 'PROPN'), ('Cancer', 'PROPN'), ('\n', 'SPACE'), ('Prostate', 'PROPN'), ('Cancer', 'PROPN'), ('\n', 'SPACE'), ('Sarcoma', 'PROPN'), ('\n', 'SPACE'), ('Skin', 'PROPN'), ('Cancer', 'PROPN'), ('\n', 'SPACE'), ('Testical', 'PROPN'), ('Cancer', 'PROPN'), ('\n', 'SPACE'), ('Thyroid', 'PROPN'), ('Cancer', 'PROPN'), ('\n', 'SPACE'), ('Uterine', 'PROPN'), ('Cancer', 'PROPN'), ('\n', 'SPACE'), ('Create', 'VERB'), ('Account', 'PROPN'), ('to', 'PART'), ('View', 'VERB'), ('All', 'DET'), ('Model', 'PROPN'), ('Data', 'PROPN'), ('\n', 'SPACE'), ('Already', 'ADV'), ('Registered', 'VERB'), ('?', 'PUNCT'), ('Login', 'VERB'), ('\n', 'SPACE'), ('About', 'ADP'), ('Us', 'PROPN'), ('\n', 'SPACE'), ('Leadership', 'PROPN'), ('\n', 'SPACE'), ('Our', 'PRON'), ('Services', 'PROPN'), ('\n', 'SPACE'), ('Therapeutic', 'PROPN'), ('Areas', 'PROPN'), ('\n', 'SPACE'), ('Model', 'PROPN'), ('Systems', 'PROPN'), ('\n', 'SPACE'), ('Technologies', 'PROPN'), ('\n', 'SPACE'), ('Service', 'PROPN'), ('Type', 'PROPN'), ('\n', 'SPACE'), ('Preclinical', 'PROPN'), ('Models', 'PROPN'), ('\n', 'SPACE'), ('Factsheets', 'PROPN'), ('\n', 'SPACE'), ('White', 'PROPN'), ('Papers', 'PROPN'), ('\n', 'SPACE'), ('Ebooks', 'PROPN'), ('\n', 'SPACE'), ('Webinars', 'PROPN'), ('\n', 'SPACE'), ('Platforms', 'PROPN'), ('\n', 'SPACE'), ('Onco', 'PROPN'), ('Express', 'PROPN'), ('™', 'PUNCT'), ('\n', 'SPACE'), ('Xeno', 'PROPN'), ('Base', 'PROPN'), ('®', 'NOUN'), ('\n', 'SPACE'), ('Mu', 'PROPN'), ('Base', 'PROPN'), ('®', 'NOUN'), ('\n', 'SPACE'), ('Hu', 'PROPN'), ('Base', 'PROPN'), ('™', 'PUNCT'), ('\n', 'SPACE'), ('Organoid', 'PROPN'), ('Base', 'PROPN'), ('™', 'PUNCT'), ('\n', 'SPACE'), ('Crown', 'PROPN'), ('Link', 'PROPN'), ('™', 'PUNCT'), ('\n', 'SPACE'), ('Talk', 'NOUN'), ('To', 'ADP'), ('Us', 'PRON'), ('\n', 'SPACE'), ('sales@crownbio.com', 'X'), ('\n', 'SPACE'), ('+1', 'ADJ'), ('858', 'NUM'), ('381', 'NUM'), ('3547', 'NUM'), ('\n', 'SPACE'), ('Distributors', 'NOUN'), ('\n', 'SPACE'), ('LinkedIn', 'PROPN'), ('\n', 'SPACE'), ('X', 'PROPN'), ('\n\n ', 'SPACE'), ('.', 'PUNCT')]
+2024-05-19 17:45:42,565 - root - INFO - NLP Report generated and saved to ./reports/model_pdx/nlp_analysis_20240519_174542.txt.
